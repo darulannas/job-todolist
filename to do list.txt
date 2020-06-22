@@ -1,0 +1,146 @@
+- pelajari vps, cari vps 2jt, setting vps
+- setting untuk ganti pass ap tiap lantai dengan unify, cara akses unify
+cari tau
+- pelajari radio server
+- pelajari data dokumentasi IT
+- crimping kabel lan untuk persiapan
+
+- rapihkan dan cek cpanel doamain skymedia.co.id dan skynindo.tv
+- back up db accurate setiap minggu sekali,
+server nas di lt 3, server finance ada di sebelah kanan bu ami
+- mengatasi domain skynindo.tv tidak bisa akses cpanel
+- mengatasi domain skymedia.co.id tidak bisa akses email
+- tidak ada dokument data email user dan pass
+
+ssl, cpanel. berbayar
+web server apache (d), cpanel vestacp (d), setting ftp server filezila (d), setting firewall, install vpn server pptp vpn
+
+
+http://172.10.10.34/ server nas
+
+02/06/20
+
+- refill tinta bu nurul lt3
+- recovery data hardisk citra
+
+03/06/20
+
+- setting koneksi db access untuk pph23 dan 4(2)
+- cek cpanel skynindo.tv, sudah bisa akses
+
+05/06/20
+
+- refill tinta printer citra
+- troubleshoot email bety kirim ke spam
+- konfirmasi ke niagahoster untuk upgrade hosting ke vps
+- order cloud vps ke hostinger
+- troubleshoot printer dan refill printer ana
+- konfirmasi pembayaran hosting skycable ke tri
+- back up db accurate 4 ke server nas
+- restart ssms gateway dan backup
+
+08/06/20
+
+- cek hp cadangan sms gateway dan server sms gateway
+- konfirmasi ulang pembayaran vps
+- cek kabel inet ana tidak konek
+- create email mcr@skynindo.tv
+- rapihkan data dokumen IT, user dan pass update terbaru, progress
+- setting untuk pc adit sebagai server data center agar diakses di skycable
+- cek ap di lt 3 ruang skycable biar hidup
+- cek fix asset bu anis
+- serah terima dan fix asset IT dengan indra, progress
+
+09/06/20
+
+1. konfirmasi ke pak kres masalah kerusakan dan cara troubleshoot hp gateway, 
+diskusi dan minta solusi. progress
+2. cek dan troubleshoot data center pc adit tidak terdeksi. Done
+3. tanya tri dan troubleshoot hp sms gateway. done
+
+10/06/20
+
+1. pelajari dan setting vps, progress
+2. rapihkan asset serah terima barang IT. progress
+3. rapihkan data bank password dokumen IT yang saya terima saat ini. done
+4. cek dan catat jaringan server di lt3. done
+5. cek koneksi ap di lt.1. progress karena masih blm ketemu 
+6. troubleshoot printer ana, hasil print kertas lecek dan tinta berantakan.done
+
+11/06/20
+
+1. troubleshoot printer ana, hasil print kertas lecek dan tinta berantakan.
+percobaan terakhir, karena ada isu catridge rusak. jika masih rusak setelah ini,
+baru beli catridge di vendor. done
+2. troubleshoot email bety kirim ke spam. done
+3. refill tinta 810 untuk lampung dan cek. done
+4. koneksi printer dari nurul ke engkos. done
+5. rapihkan asset serah terima barang IT. progress
+6. pelajari dan setting vps, progress
+
+12/06/20
+
+1. request tinta warna dan hitam 810 untuk nurul. progress
+2. request baterai hp server. progress
+3. request tinta epson hitam 664. progress
+4. diskusi masalah dibobol nya akses lt2. done
+5. cek dan tes sms gateway tidak bisa kirim sms. done
+6. rapihkan asset serah terima barang IT. done
+7. backup ke server nas db accurate finance.done
+8. back sms gateway. done
+9. tukar pc darul dan indra. done
+
+15/06/20
+
+1. cari dan beli ssl. progress
+2. cari dan beli baterai hp server, rj-45, LAN tester.progress
+3. troubleshoot sms gateway xl dengan  tri. progress
+4. rapihkan software pc ex indra it. done
+5. manage password email skynindo.tv dan ubah password akun email dan hosting yg bisa diakses. done
+
+16/06/20
+
+1. bersihkan pc tiap user dan cek dengan free pc audit. progress
+2. troubleshoot pc ana ada virus yang menghapus file di didownload. done
+3. diskusi untuk pengembangan dan handle web skymedia.co.id dengan bu erni dan pak kres
+4. troubleshoot hp xl sms gateway. done
+
+17/06/20
+
+1. bersihkan pc tiap user dan cek dengan free pc audit. progress
+2. ttd pembelian permintaan barang ke pak renault. done
+3. kontak masterweb untuk tanya soal domain skymedia.co.id. done
+4. setting accurate finance langsung ke server nas. sedang dicari tau
+5. extend local c pc server finance. progress
+6. cari tau membuat pc berfungsi sebagai hp untuk pengganti sms gateway. progress
+7. diskusi dengan pak reymond mengenai topologi kantor, solusi reset AP, solusi koneksi db accurate ke server nas. done
+8. install chrome di pc kristin. done
+
+18/06/20
+
+1. troubleshoot email masuk spam skynindo.tv masuk spam. done
+2. extend local c pc server finance. done
+3. setting vps. progress
+4. troubleshoot apk adobe reader yg crash. install ulang adobe reader. done
+5. bersihkan cpu dan upgrade ram pc kristin. done
+6. extend local c pc bety. done
+
+19/06/20
+
+1. bersihkan pc adit. done
+2. troubleshoot laptop adit tidak bisa terima dan kirim email. done
+3. koordinasi dengan hypernet, hostinger, pak reymond soal jaringan kantor tidak bisa login ssh. progress
+4. extend local c pc adit. done
+5. extend local c pc kristin. done
+6. setting vps untuk vpn client nya. done
+
+22/06/20
+
+1. cek hardisk citra. progress
+2. koordinasi dengan hypernet, hostinger, pak reymond soal jaringan kantor tidak bisa login ssh. done
+3. kontak hostinger untuk cetal faktur pajak ssl dan invoice baterai hp server. done
+4. install PSU ke cpu mcr untuk andika. done
+5. install dan setting vpn client (pptp), karena request dari pak kres vpn client (openvpn) 
+tidak sama dengan server skynindo (pptp). progress
+
+
