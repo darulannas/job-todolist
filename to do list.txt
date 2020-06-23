@@ -123,4 +123,14 @@ baru beli catridge di vendor. done
 5. install dan setting vpn client (pptp), karena request dari pak kres vpn client (openvpn) 
 tidak sama dengan server skynindo (pptp). progress
 
+23/06/20
+
+1. setting vpn client (pptp) di vps. sebelum nya setting vpn client (openvpn) sesuai request pak kres,
+ternyata vpn server di skynindo pakai pptp bukan openvpn. progress
+2. instalasi ssl untuk vps. done
+3. troubleshoot koneksi pc adit ke server skycable di 172.18.1.202. done
+4. cek koneksi internet di pc citra. download dan upload gagal terus. done
+5. cek hardisk citra. sudah dicek koneksi secara software tp tidak bisa. hardisk rusak secara fisik. done
+6. cek printer fitri hasil nya hitam berantakan. tanya ke vendor tinta printer. progress
+
 
