@@ -133,4 +133,12 @@ ternyata vpn server di skynindo pakai pptp bukan openvpn. progress
 5. cek hardisk citra. sudah dicek koneksi secara software tp tidak bisa. hardisk rusak secara fisik. done
 6. cek printer fitri hasil nya hitam berantakan. tanya ke vendor tinta printer. progress
 
+24/06/20
+
+1. cek akun nicepay vpn di win 7 yg dikasih tri. done
+2. troubleshoot/install adobe acrobat di pc kristin. done
+3. koneksi pc dimas ke server produksi pc adit. done
+4. install hardware cpu andika untuk streaming yg bermasalah. done
+5. membuat laporan job desc. done
+6. setting vpn client (pptp) di vps. progress
 
