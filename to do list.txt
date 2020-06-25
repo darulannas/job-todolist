@@ -142,3 +142,10 @@ ternyata vpn server di skynindo pakai pptp bukan openvpn. progress
 5. membuat laporan job desc. done
 6. setting vpn client (pptp) di vps. progress
 
+25/06/20
+
+1. kontak hostinger masalah enable vpn client. done
+2. troubleshoot pc bu jemi bluescreen. scan apl rusak, delete apl tdk penting. jika masih error selanjutnya clean hardware. done
+3. cek sms gateway tidak ada balasan. done
+4. setting vpn client (pptp) di vps. progress
+5. cari cara untuk back up cctv dengan wd mycloud. progress
