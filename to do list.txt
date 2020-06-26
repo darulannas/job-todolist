@@ -149,3 +149,13 @@ ternyata vpn server di skynindo pakai pptp bukan openvpn. progress
 3. cek sms gateway tidak ada balasan. done
 4. setting vpn client (pptp) di vps. progress
 5. cari cara untuk back up cctv dengan wd mycloud. progress
+
+26/06/20
+
+1. setting vpn client (pptp) di vps. progress
+2. setting sharing scanner di ruang finance. progress
+3. cek sms gateway tidak ada balasan, nomor xl tidak bisa terima sms, dilakukan seperti cara sebelum nya
+juga masih belum bisa. sedang dicek tim xl untuk tindak lanjutnya. progress
+4. troubleshoot pc putri, saat save file tidak tampil direktori nya. done
+5. back up, ganti baterai hp server samsungx2. done
+6. back up db accurate ke server nas. done
