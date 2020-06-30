@@ -168,3 +168,13 @@ juga masih belum bisa. sedang dicek tim xl untuk tindak lanjutnya. progress
 4. install ulang os vps ke versi lain karna error vpn client terjadi karena versi kernel yang tidak sesuai.
 tetap tidak bisa install vpn client. progress
 5. troubleshoot att management yg tidak bisa cek laporan di pc anna
+
+30/06/20
+
+1. troubleshoot att management yg tidak bisa cek laporan di pc anna. done
+2. install ulang os vps ke centos7 karna error vpn client terjadi karena versi kernel yang tidak sesuai.
+saran pak kres coba migrasi ke centos7. progress
+3. restart dan pasang baterai hp polytron server. baterai tidak sesuai, coba untuk pengembalian barang. progress
+4. troubleshoot aplikasi etaxinvoice di pc kristin error. progress
+5. cek pc dimas tidak bisa terkoneksi server produksi. done
+6. refill tinta nurul 79a. done
