@@ -159,3 +159,12 @@ juga masih belum bisa. sedang dicek tim xl untuk tindak lanjutnya. progress
 4. troubleshoot pc putri, saat save file tidak tampil direktori nya. done
 5. back up, ganti baterai hp server samsungx2. done
 6. back up db accurate ke server nas. done
+
+29/06/20
+
+1. troubleshoot nomor xl server. done
+2. cek untuk ganti tinta mesin absen. perlu kunci. done
+3. cek inet citra tidak stabil. restart hub citra, cek bandwidth di mikrotik. done
+4. install ulang os vps ke versi lain karna error vpn client terjadi karena versi kernel yang tidak sesuai.
+tetap tidak bisa install vpn client. progress
+5. troubleshoot att management yg tidak bisa cek laporan di pc anna
