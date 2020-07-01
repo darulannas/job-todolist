@@ -178,3 +178,16 @@ saran pak kres coba migrasi ke centos7. progress
 4. troubleshoot aplikasi etaxinvoice di pc kristin error. progress
 5. cek pc dimas tidak bisa terkoneksi server produksi. done
 6. refill tinta nurul 79a. done
+
+01/07/20
+
+1. komplain baterai pl6j4 ke seller ditokopedia. progress
+2. koneksi pc adit dengan printer di server skycable. done
+3. cek sms gateway tidak terima sms. done
+4. cek pc kristin nge hang. indikasi hardisk mulai bermasalah. solusi, backup data kerja di pc kristin. done
+ke hardisk ext finance "backup kristin 010720". done
+5. troubleshoot aplikasi etaxinvoice di pc kristin error. done. tinggal pastikan ke kristin data sudah sesuai/belum
+6. cek printer hrd, paper jam. done
+7. cek pc nurul bluescreen. indikasi hardisk masalah. backup ke hardisk ext IT "backup nurul 010720". done
+8. restart switch hrd karena inet lemot. done
+
