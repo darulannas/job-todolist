@@ -191,3 +191,15 @@ ke hardisk ext finance "backup kristin 010720". done
 7. cek pc nurul bluescreen. indikasi hardisk masalah. backup ke hardisk ext IT "backup nurul 010720". done
 8. restart switch hrd karena inet lemot. done
 
+02/07/20
+
+1. setting etaxinvoice dan pastikan data sudah benar di pc kristin. done
+2. setting dvr cctv agar terkoneksi dengan pc IT. total ada 2 dvr yg sudah terkoneksi. done
+3. cek toner nurul hasil cetak bercak tinta. done
+4. cek untuk back up dvr indoor total 16cam. backup hdd dvr total 2 minggu, 4TB. 1cam/hari=20gb.
+proses back up cukup cepat. done
+5. cek untuk back up dv outdoor total 8cam (7on 1off). dvr tipe lama, cukup rumit dan proses nya lama untuk back up.
+tidak terlihat ukuran hdd dvr. tidak terlihat penggunaan memori back up tiap cam.
+back up hdd driver hanya kurang lebih 24 jam. done
+6. cek monitor pc skymedia kristin. vga bergaris warna. indikasi vga card. done
+
