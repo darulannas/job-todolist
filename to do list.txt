@@ -203,3 +203,12 @@ tidak terlihat ukuran hdd dvr. tidak terlihat penggunaan memori back up tiap cam
 back up hdd driver hanya kurang lebih 24 jam. done
 6. cek monitor pc skymedia kristin. vga bergaris warna. indikasi vga card. done
 
+03/07/20
+
+1. kontak hostinger sesuai req pak kres masalah vpn client. progress
+2. setting instalasi hdd mycloud mirror di pc IT untuk keperluan backup cctv. done
+3. cek dan pasang toner hp nurul yg dari komplain vendor tinta. done
+4. cek laptop bu erni jaringan inet lemot. done
+5. backup sms gateway. done
+6. backup db accurate ke server nas. done
+
