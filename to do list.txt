@@ -214,10 +214,10 @@ back up hdd driver hanya kurang lebih 24 jam. done
 
 06/07/20
 
-1. hubungi vendor cctv skynindo utk masalah backup dvr outdoor. DVR 8ch + HDD 4tb. Rp 3.350.000,- trms
+1. hubungi vendor cctv skynindo utk masalah backup dvr outdoor. DVR 8ch + HDD 4tb. Rp 3.350.000,- trms. done
 2. backup cctv outdoor. progress
 3. cek dan hitung pemakaian total bandwidth tiap user. lt.3 50-60mb. done
 4. diskusi masalah vps dan sistem sms gateway ke pak kress.
-tanya pastikan untuk allow vpn client di hostinger, jika tidak minta cancel dengan bukti chat pak kres
+tanya pastikan untuk allow vpn client di hostinger, jika tidak minta cancel dengan bukti chat pak kres. progress
 5. backup cctv indoor. progress
 6. troubleshoot masalah hdd backup cctv. sering disconnect. done
