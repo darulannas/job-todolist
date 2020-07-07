@@ -221,3 +221,21 @@ back up hdd driver hanya kurang lebih 24 jam. done
 tanya pastikan untuk allow vpn client di hostinger, jika tidak minta cancel dengan bukti chat pak kres. progress
 5. backup cctv indoor. progress
 6. troubleshoot masalah hdd backup cctv. sering disconnect. done
+
+07/07/20
+
+1. backup cctv indoor priode 28-04. progress
+2. backup cctv outdoor harian. progress
+3. kontak hostinger untuk pengembalian dana vps karena vps tidak support dengan pptp client.
+kirim bukti chat pak kres yg sudah konfirm jika vps dihostinger support pptp client.
+4. cari vps yang compatible dengan pptp client
+- jagoanhosting. X
+- niagahoster. X
+- idwebhost. X
+- https://www.qwords.com/vps-indonesia/vps-kvm/ sedang dikroscek lebih lanjut oleh tim mereka masalah pptp client.
+- https://www.domainesia.com/vm/ 1/20gb ssd. 2.112jt/tahun inc tax. limit BW tidak dibatasi
+- https://idcloudhost.com/server-vps/ 1/30gb ssd. 1.32jt/tahun inc tax. jika install vpn, limit BW dibatasi sistem hanya 5mbps.
+- https://www.rumahweb.com/vps-indonesia/ 512/8gb virtuozzo (lebih bagus dari ssd). 2.6268jt/thn inc tax.
+5. troubleshoot cmd yg corrupt di pc engkos. done
+6. install software video editing edius 5 di pc novita. done
+7. troubleshoot pc nurul bluescreen. indikasi hdd rusak/kotor. bersihkan dalam cpu. upgrade ram. done
