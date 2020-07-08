@@ -227,8 +227,8 @@ tanya pastikan untuk allow vpn client di hostinger, jika tidak minta cancel deng
 1. backup cctv indoor priode 28-04. progress
 2. backup cctv outdoor harian. progress
 3. kontak hostinger untuk pengembalian dana vps karena vps tidak support dengan pptp client.
-kirim bukti chat pak kres yg sudah konfirm jika vps dihostinger support pptp client.
-4. cari vps yang compatible dengan pptp client
+kirim bukti chat pak kres yg sudah konfirm jika vps dihostinger support pptp client. progress pengembalian dana
+4. cari vps yang compatible dengan pptp client. progress
 - jagoanhosting. X
 - niagahoster. X
 - idwebhost. X
@@ -239,3 +239,14 @@ kirim bukti chat pak kres yg sudah konfirm jika vps dihostinger support pptp cli
 5. troubleshoot cmd yg corrupt di pc engkos. done
 6. install software video editing edius 5 di pc novita. done
 7. troubleshoot pc nurul bluescreen. indikasi hdd rusak/kotor. bersihkan dalam cpu. upgrade ram. done
+
+08/07/20
+
+1. backup cctv indoor priode 28-04. perhari bisa backup 2 cam. backup cam 3 dan 4. done
+2. backup cctv outdoor harian. perhari hanya bisa backup 1 cam. backup cam 2. done
+3. ganti toner fitri karena hasil cetal berantakan dari vendor pak andi. done
+4. cek inet tidak konek di beberapa device di lt.3 wifi @internet. indikasi tidak bisa konek ke AP lt.3 untuk wifi @internet.
+cek jaringan inet kantor untuk pebanding dan cari faktor yang membuat wifi @internet AP lt3 tidak konek.
+cek management bandwidth untuk @internet di router cc106. semua normal dan sudah dibagi BW.
+hasilnya untuk koneksi wifi @internet ke lt.3 dan lt.5 itu tidak bisa konek ke AP nya. saran pak kres reset AP dan bikin channel di setiap AP
+5. konfirmasi pengajuan vps yg baru ke pak kres, bu emil. tunggu proses refund dari hostinger selesai. done 
