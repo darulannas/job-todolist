@@ -250,3 +250,15 @@ cek jaringan inet kantor untuk pebanding dan cari faktor yang membuat wifi @inte
 cek management bandwidth untuk @internet di router cc106. semua normal dan sudah dibagi BW.
 hasilnya untuk koneksi wifi @internet ke lt.3 dan lt.5 itu tidak bisa konek ke AP nya. saran pak kres reset AP dan bikin channel di setiap AP
 5. konfirmasi pengajuan vps yg baru ke pak kres, bu emil. tunggu proses refund dari hostinger selesai. done 
+
+09/07/20
+
+1. konfirmasi waktu refund dana vps hostinger. maks 15 hari kerja dan refund 100%. done
+2. backup cctv indoor priode 28-04. perhari bisa backup 2 cam. backup cam 5, 6 dan 7. done
+3. backup cctv outdoor harian. perhari hanya bisa backup 1 cam. backup cam 3. done
+4. cek dan setting dvr indoor dan outdoor agar bisa diakses via hp. baru bisa di akses hp via jaringan kantor, belum keluar jaringan kantor. progress
+5. cari cara konek cctv via hp jaringan luar selain dengan vpn. progress
+6. printer hrd tidak bisa cetak warna dari format jpeg. setting di pengaturan warna. done
+7. memastikan ke 3 vendor vps untuk masa refund dan bandingkan sekali lg yg terbaik. progress
+8. rename cctv tiap channel indoor dan outdoor. done
+9. backup dvr outdoor dengan fd dan cek total kapasitas yg diperlukan. 465gb/minggu/7cam. done
