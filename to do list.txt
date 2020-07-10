@@ -262,3 +262,25 @@ hasilnya untuk koneksi wifi @internet ke lt.3 dan lt.5 itu tidak bisa konek ke A
 7. memastikan ke 3 vendor vps untuk masa refund dan bandingkan sekali lg yg terbaik. progress
 8. rename cctv tiap channel indoor dan outdoor. done
 9. backup dvr outdoor dengan fd dan cek total kapasitas yg diperlukan. 465gb/minggu/7cam. done
+
+10/07/20
+
+1. backup cctv priode 28-04. cam 7 dan cam 8. progress
+2. pengajuan vps ke pak renault dan pak kress. hasil akhir cari vendor yg ada layanan pro untuk setting vpn client
+- https://www.domainesia.com/vm/ 1/20gb ssd. 2.112jt/tahun inc tax. limit BW tidak dibatasi. tidak ada garansi refund. fast respon.
+- https://idcloudhost.com/server-vps/ 1/30gb ssd. 1.32jt/tahun inc tax. jika install vpn, limit BW dibatasi sistem hanya 5mbps.
+fast respon dan cukup paham issue. ada garansi refund 3 hari.
+- https://www.rumahweb.com/vps-indonesia/ 512/8gb virtuozzo (lebih bagus dari ssd). 2.6268jt/thn inc tax. tidak fast respon krn chat via email.
+limit bw tidak dibatasi. tidak ada garansi refund.
+3. cek koneksi wifi hp cs. tidak stabil. indikasi ip tubrukan karena tersimpan wifi lain di kantor. done
+4. cek masalah cpu bu emil. done
+- hdd tidak ada masalah
+- psu masalah, ganti. setelah ganti, cpu bisa mudah diturn on. 
+- cek ram, ganti yg bisa. tetap tida bisa nyala
+- cek vga card. setelah diganti tetap tidak nyala ke monitor. indikasi motherboard masalah 
+karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
+- belum dicek prosesor karena tidak ada thermal pasta
+5. cek masalah printer bu emil dengan vendor. teknisi blm dtg
+5. backup db accurate ke server nas. done
+6. backup sms gateway. done
+
