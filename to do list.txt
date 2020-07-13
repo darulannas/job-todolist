@@ -284,3 +284,16 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 5. backup db accurate ke server nas. done
 6. backup sms gateway. done
 
+13/07/20
+
+1. backup cctv priode 05-11. cam 1 dan cam 2. done
+2. cari barang baterai hp server pl6j4 dan thermal pasta. done
+3. setting koneksi vpn client untuk koneksi mikrotik dari luar jaringan kantor. progress
+4. cari cara remote cctv via hp diluar jaringan kantor. progress
+5. cari vps yang support pptp client dan bisa di installin pptp client dari pihak vendor (layanan pro). progress
+- https://www.exabytes.co.id/server/vps-linux-ssd. + layanan pro, bisa di install/setting pptp-client dan pihak vendor yg setting, BW tidak dibatasi, tidak bisa refund
+6. cek printer bu emil dengan vendor. masalah di PSU dll. harga sekitar 800rban. cancel
+7. info ke bu jemy masalah penurunan inet. koordinasikan dengan hypernet. done
+8. buat pc edius di skycable jadi server data. hdd lemot, jaringan lan tidak terkoneksi. solusi pindah data lewat hdd external. done
+9. pc kristin tampil dimonitor pelangi, tes ganti monitor dan normal. ganti monitor. done
+
