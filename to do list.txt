@@ -297,3 +297,14 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 8. buat pc edius di skycable jadi server data. hdd lemot, jaringan lan tidak terkoneksi. solusi pindah data lewat hdd external. done
 9. pc kristin tampil dimonitor pelangi, tes ganti monitor dan normal. ganti monitor. done
 
+14/07/20
+
+1. backup cctv priode 05-11. cam 3 dan cam 4. done
+2. pengajuan vps yang support pptp client dan bisa di installin pptp client dari pihak vendor (layanan pro). progress
+- https://www.exabytes.co.id/server/vps-linux-ssd. + layanan pro, bisa di install/setting pptp-client dan pihak vendor yg setting, BW tidak dibatasi, tidak bisa refund
+3. kontak org cctv untuk datang dan setting remote via hp jaringan luar kantor. progress
+4. setting koneksi vpn client untuk koneksi mikrotik dari luar jaringan kantor. done
+5. koneksi cctv via hp jaringan luar kantor. DVR indoor. done
+6. koneksi cctv via hp jaringan luar kantor. DVR outdoor. cara lain dengan koneksi vpn. done
+7. cek nomor xl sms gateway tidak bisa terima sms. dicoba sms masuk dengan apk myxl. done
+8. cek hdd internal mcr tidak terbaca. rusak fisik, ganti cpu cadangan mcr. done
