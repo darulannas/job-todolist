@@ -308,3 +308,18 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 6. koneksi cctv via hp jaringan luar kantor. DVR outdoor. cara lain dengan koneksi vpn. done
 7. cek nomor xl sms gateway tidak bisa terima sms. dicoba sms masuk dengan apk myxl. done
 8. cek hdd internal mcr tidak terbaca. rusak fisik, ganti cpu cadangan mcr. done
+
+15/07/20
+
+1. refill tinta 745 lampung. done
+2. cek sms gateway tidak terima sms. pc server listriknya mati jadi harus di running lg program nya. done
+3. backup cctv priode 05-11. cam 5, cam 6 dan cam 7. done
+4. cek refund vps hostinger. sudah masuk. done
+5. register akun exabytes dan buat pembelian vps lalu catat data akun nya. done
+6. cari hdd internal pak kres di ruang GA. done
+7. cek cpu bu emil. done
+- cek kerusakan processor. bagus.
+- mobo rusak tidak bisa booting.
+- kabel power nyatu sama casing. jika kabelnya masalah, harus ganti casing.
+8. Backup hdd bu emil. done
+
