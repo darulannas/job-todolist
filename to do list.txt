@@ -323,3 +323,13 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 - kabel power nyatu sama casing. jika kabelnya masalah, harus ganti casing.
 8. Backup hdd bu emil. done
 
+16/07/20
+
+1. backup cctv priode 05-11. cam 8, cam 9 dan cam 10. done
+2. cek stock hdd internal dan rapihkan yg bagus dan yg rusak. done
+3. troubleshoot hasil cetak warna printer hrd. berbayang. tidak bisa cetak kualitas tinggi. done
+4. cari cara untuk terhubung ke AP tiap lantai agar bisa di reset password. progress
+- akses AP via apl unifi controller dan create acc baru lalu catat. done
+- setting ssd+vlan sesuai mikrotik untuk @internet @wireless dan @guest. progress
+5. cek lt.5 tidak terhubung mikrotik. error wrong username and password. progress
+
