@@ -333,3 +333,11 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 - setting ssd+vlan sesuai mikrotik untuk @internet @wireless dan @guest. progress
 5. cek lt.5 tidak terhubung mikrotik. error wrong username and password. progress
 
+17/07/20
+
+1. backup cctv priode 05-11. cam 11, cam 12 dan cam 13. done
+2. reset dan setting ssd+vlan untuk AP lt.6 @internet @wireless @guest. done
+3. cari cara koneksi AP tiap lantai dengan ip public. progress
+4. backup db accurate finance ke server nas. done
+5. backup sms gateway. done
+
