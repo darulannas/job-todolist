@@ -341,3 +341,17 @@ karena dari awal pengecekan tidak terdengar suara motherboard masuk bios
 4. backup db accurate finance ke server nas. done
 5. backup sms gateway. done
 
+20/07/20
+
+ijin sakit
+
+21/07/20
+
+1. backup cctv priode 12-18. cam 16, cam 15. done
+2. cek masalah dan cari solusi router lt5 tidak bisa diakses. cek bgp peer status nya. reboot router. masalah router nya hang. done
+3. reset dan setting ap lt.5. ap tidak bisa di adopt. indikasi karena router tidak bisa diakses. sudah bisa. done
+4. konfirmasi exabytes untuk pembayaran vps dan minta efaktur. progress
+5. reset dan setting ap lt.2. done
+6. kontak exabytes untuk di install/setting pptp-client. progress
+7. cek pc skycable kristin tidak tampil di monitor. kabel vga kendor. done
+
