@@ -355,3 +355,15 @@ ijin sakit
 6. kontak exabytes untuk di install/setting pptp-client. progress
 7. cek pc skycable kristin tidak tampil di monitor. kabel vga kendor. done
 
+22/07/20
+
+1. backup cctv priode 12-18. cam 14, cam 13. done
+2. cek, setting dan catat vps exabytes untuk kebutuhan skynindo. progress
+- cek koneksi ssh. bisa. done
+- cek vnc viewer. sempat tidak bisa. sudah bisa terhubung. done
+- install dan setting cpanel centos (cwp). done
+- cek koneksi pptp-client. sudah bisa terhubung. done
+- kontak support exabytes untuk pointing domain skynindo.tv ke server vps. dns skynindo.tv mengarah ke mwn. progress ke selanjutnya
+- setting nameserver agar domain skynindo.tv mengarah ke vps. manage dns ada di mwn, kontak mwn.
+dns skynindo.tv mengarah ke niagahoster. kontak niagahoster untuk pointing dns skynindo.tv ke server vps. progress
+
