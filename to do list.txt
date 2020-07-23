@@ -367,3 +367,14 @@ ijin sakit
 - setting nameserver agar domain skynindo.tv mengarah ke vps. manage dns ada di mwn, kontak mwn.
 dns skynindo.tv mengarah ke niagahoster. kontak niagahoster untuk pointing dns skynindo.tv ke server vps. progress
 
+23/07/20
+
+1. backup cctv priode 12-18. cam 10, cam 11. done
+2. cek, setting dan catat vps exabytes untuk kebutuhan skynindo. progress
+- koordinasi dengan provider domain skynindo.tv untuk diarahkan name server nya agar bisa pointing ke vps. done
+- koordinasi dengan exabytes untuk setting hostname dan pengarahan nameserver. progress
+3. reboot router lt.5 krn hang. lt.5 sedang ada user. done
+4. serah terima notepok asus win 8.1 2/300 ke pak anas. done
+5. print invoice vps exabytes dan kasih ke reni. done
+6. refill tinta bu erni. 745 dan 746. done
+
