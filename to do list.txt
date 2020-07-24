@@ -378,3 +378,15 @@ dns skynindo.tv mengarah ke niagahoster. kontak niagahoster untuk pointing dns s
 5. print invoice vps exabytes dan kasih ke reni. done
 6. refill tinta bu erni. 745 dan 746. done
 
+24/07/20
+
+1. backup cctv priode 12-18. cam 9, cam 8. done
+2. reboot router lt.5 krn hang. lt.5 sedang ada user. done
+3. komplain baterai pl6j4 tidak dikirim di BL. progress
+4. migrasi email skynindo.tv ke server baru. done
+5. install ssl di skynindo.tv. ada waktu tunggu untuk penyesuaian. done
+6. setting email ary@skynindo.tv di pc ary. done
+7. setting email bety@skynindo.tv di pc bu bety. done
+8. backup db accurate ke server nas. done
+9. backup sms gateway. done
+
