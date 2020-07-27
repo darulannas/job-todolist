@@ -390,3 +390,16 @@ dns skynindo.tv mengarah ke niagahoster. kontak niagahoster untuk pointing dns s
 8. backup db accurate ke server nas. done
 9. backup sms gateway. done
 
+27/07/20
+
+1. backup cctv priode 19-25. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. setting email skynindo.tv okta dan putri di pc putri. done
+4. troubleshoot pc pak ary tidak bisa print ke printer ana. indikasi kabel lan ary masalah. ganti yg bagus. done
+5. troubleshoot printer pc pak ary. koneksi wireless. cleaning ink. hasil masih kurang bagus. 
+cari stok tinta yg compatible. refill. head catidge bermasalah. done
+6. kontak exabytes vps tidak terkoneksi dengan vpn server skynindo. progress
+7. kontak exabytes, error bind dns server. progress
+8. cek pc bu jemmy tidak mau nyala. indikasi hardisk gagal booting. reboot. done
+9. backup data laptop kosasi. done
+
