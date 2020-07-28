@@ -403,3 +403,14 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 8. cek pc bu jemmy tidak mau nyala. indikasi hardisk gagal booting. reboot. done
 9. backup data laptop kosasi. done
 
+28/07/20
+
+1. backup cctv priode 19-25. cam 3, cam 4, cam 5, cam 6. done
+2. cek toner printer bu betty. toner habis. pesan 1 toner hp 85a. progress
+3. reboot router lt.5 krn hang. done
+4. cek pc anna tidak terhubung internet. kabel kendor. done
+5. troubleshoot kirim email via skynindo.tv masuk spam. progress
+6. kasih tau cara combine pdf ke reni. done
+7. cek switch hrd. sinyal putus2. indikasi switch bermasalah krn kabel bagus. reboot switch. done
+8. backup pc darul. pc sering bluescreen. indikasi hdd bermasalah. backup data. done
+
