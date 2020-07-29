@@ -414,3 +414,13 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 7. cek switch hrd. sinyal putus2. indikasi switch bermasalah krn kabel bagus. reboot switch. done
 8. backup pc darul. pc sering bluescreen. indikasi hdd bermasalah. backup data. done
 
+29/07/20
+
+1. backup cctv priode 19-25. cam 7, cam 8, cam 9. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet r.cs lt.3. port 1 ke switch lt.3 mati. switch r.cs ada di plafon. done
+4. refill tinta 745 pnb bu jemmy. done
+5. reset ap lt.3. tidak ada port yg bisa terhubung ke laptop untuk setting ap. cari yg bisa. progress
+6. troubleshoot kirim email via skynindo.tv masuk spam. mengeset SPF, DMarc, dan PTR record. done
+
+
