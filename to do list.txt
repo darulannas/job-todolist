@@ -423,4 +423,17 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 5. reset ap lt.3. tidak ada port yg bisa terhubung ke laptop untuk setting ap. cari yg bisa. progress
 6. troubleshoot kirim email via skynindo.tv masuk spam. mengeset SPF, DMarc, dan PTR record. done
 
+30/07/20
+
+1. backup cctv priode 19-25. cam 10, cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. reset ap lt.3 di pc widia (kevin). done
+4. serah terima fix asset tri.
+- cek kesesuaian barang. cari di gudang untuk barang yg tidak ada. tidak ada pc rakitan core 2 duo. done
+- report ke bu emil dan pak ary. done
+5. refill tinta bu bety. 85a. done
+6. backup sms gateway. done
+7. nurul pinjam mobil. done
+8. maintenance pc citra. tambah ram 8 gb. done
+
 
