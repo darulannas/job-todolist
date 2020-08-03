@@ -436,4 +436,18 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 7. nurul pinjam mobil. done
 8. maintenance pc citra. tambah ram 8 gb. done
 
+03/08/20
+
+1. backup cctv priode 26-01. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done 
+3. cek dan troubleshoot pc library citra. masalah di psu. done
+4. troubleshoot fd nurul. tidak bisa hapus data. done
+5. print faktur pajak vps exabytes ke finance. done
+6. refill tinta 745 skycable adit mg2500. done
+7. cek pc ex zefri untuk gunawan. setting pass. setting printer ke mg2500. done
+8. backup data zefri. done
+9. setting email nurul@skynindo.tv di pc nurul. done
+10. arahkan nurul soal sticky note. done
+11. troubleshoot lan router nurul, widia dll. kabel sudah terlalu kendor. done
+
 
