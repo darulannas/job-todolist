@@ -450,4 +450,19 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 10. arahkan nurul soal sticky note. done
 11. troubleshoot lan router nurul, widia dll. kabel sudah terlalu kendor. done
 
+04/08/20
+
+1. backup cctv priode 26-01. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done 
+3. cek sms gateway hanya 1 balasan. done
+4. cari kontak iforte untuk masalah ip 124.158.149.252. tidak bisa dihunungi by phone. hubungi by email. tunggu respon pak raymond untuk di allow. progress
+5. mengatasi print preview lemot di chrome pc renni. chrome cukup berat untuk ram 2gb. untuk preview pdf pindah ke firefox. done
+6. cari cara untuk recover data excel bu fitri. progress
+7. cek rec cctv outdoor tgl 21 dan report ke pak ary. tidak ada. done
+8. setting email di pc ana. done
+9. cek router rb450 124.158.149.252. router tidak mati. done
+10. diskusi project aplikasi android untuk streaming lokal dengan pak renault dan andhika. done
+11. cek pc mcr digudang untuk resource project android. pc bagus. done
+
+
 
