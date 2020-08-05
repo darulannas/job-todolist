@@ -464,5 +464,17 @@ cari stok tinta yg compatible. refill. head catidge bermasalah. done
 10. diskusi project aplikasi android untuk streaming lokal dengan pak renault dan andhika. done
 11. cek pc mcr digudang untuk resource project android. pc bagus. done
 
+05/08/20
+
+1. backup cctv priode 26-01. cam 5, cam 6, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. cari cara untuk recover data excel bu fitri. file sudah corrupt tidak dapat di repair atau recovery. done
+4. setting remote pc engkos file teluk gong ke pc widia. done
+5. backup data pc bu jemmy. done
+6. troublehsoot pc server library dan LTO storage citra. masuk symantec backup perlu pass.
+pass user admin tidak diketahui. server error tidak bisa running. tidak ada petunjuk lagi dan tidak ada alat untuk trial and error.
+tunggu pak rajendra. progress
+7. troubleshoot email gmail dan firefox bu adel tidak ada preview. update dan setting standar view. done
+
 
 
