@@ -476,5 +476,15 @@ pass user admin tidak diketahui. server error tidak bisa running. tidak ada petu
 tunggu pak rajendra. progress
 7. troubleshoot email gmail dan firefox bu adel tidak ada preview. update dan setting standar view. done
 
+06/08/20
 
+1. backup cctv priode 26-01. cam 5, cam 6, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. setting dan instalasi pc ex mcr ke meja darul untuk project android. progress
+- setting pc.
+- installasi program sesuai kebutuhan pengembangan. progress
+- cari resources untuk pengembangan program android. progress
+4. cek kondisi semua ups yang digudang lt.6. total ada 6, rusak 4. done
+5. koordinasi untuk service ups 5000. ups dibawa ke tempat service besok. done
+6. tukar monitor ana yg lebih besar dari gudang. tandai. done
 
