@@ -488,3 +488,13 @@ tunggu pak rajendra. progress
 5. koordinasi untuk service ups 5000. ups dibawa ke tempat service besok. done
 6. tukar monitor ana yg lebih besar dari gudang. tandai. done
 
+07/08/20
+
+1. backup cctv priode 26-01. cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway. server tidak login, tidak tahu pass. restart server. done
+4. cek kondisi 2 pc di skymedia. request citra. 1 nyala, 1 tidak. progress
+5. ke mangga dua square untuk service ups server 5000. dan ke harco mangga dua untuk beli tinta 745 dan 811. done
+6. backup db accurate finance. done
+7. backup sms gateway. done
+
