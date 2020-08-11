@@ -508,3 +508,15 @@ tunggu pak rajendra. progress
 6. cek hp sms gateway. kendala balasan hanya 1 sms. sistem di hp bagus. done
 7. setting pdf ke word di pc bu betty. done
 
+11/08/20
+
+1. backup cctv priode 26-01. cam 16, cam 15. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot router vpn nicepay, xlink di server. progress
+- ada 2 router mikrotik. 1 dia atas rusak. 1 dibawah online dan terhubung ke iforte.
+- cari barang dan beli router rb450g untuk pengganti.
+- coba ganti router yg rusak dulu. jika masih masalah kontak iforte untuk datang.
+4. troubleshoot inet lan lt.3 r.cs. reboot switch di plafon r.server. done
+5. koordinasi untuk penawaran harga service ups ke pak renault dan putri. done
+6. troubleshoot laptop bu jemmy. jika dikoneksi dengan wifi pass, win explore crash. progress
+
