@@ -520,3 +520,15 @@ tunggu pak rajendra. progress
 5. koordinasi untuk penawaran harga service ups ke pak renault dan putri. done
 6. troubleshoot laptop bu jemmy. jika dikoneksi dengan wifi pass, win explore crash. progress
 
+12/08/20
+
+1. backup cctv priode 26-01. cam 9, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot laptop bu jemmy. jika dikoneksi dengan wifi pass, win explore crash. connect ke wifi tanpa pass. 
+ada sistem registry yg corrupt. pakai apl explorer alternatif. tidak bisa. harus instal ulang. progress
+4. kembalikan ke skymedia server library LTO dan instalasi. done
+5. install ulang laptop bu jemmy. win7. done
+- install aplikasi dasar untuk kerja. done
+- install ram tambah 1 gb. done
+6. cek android box pak renault tidak bisa stream. indikasi internet tidak konek. progress
+
