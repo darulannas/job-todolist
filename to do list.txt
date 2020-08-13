@@ -532,3 +532,15 @@ ada sistem registry yg corrupt. pakai apl explorer alternatif. tidak bisa. harus
 - install ram tambah 1 gb. done
 6. cek android box pak renault tidak bisa stream. indikasi internet tidak konek. progress
 
+13/08/20
+
+1. backup cctv priode 26-01. cam 7, cam 6, cam 5, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway balasan hanya 1. harus di load server 202. done
+4. cek permasalahan vpn xlink dan nicepay di router 124.158.149.252 di server lt.3. router mati. progress
+- ada 2 router rb450g. yg atas di ip 124.158.149.252. yg bawah di ip 124.158.149.249.
+- catat id dan pass yg benar router 124.158.149.249. done
+- uang router blm acc. jadi masih belum beli.
+5. troubleshoot pc bu emil. cari beberapa pengganti motherboard di gudang. tidak ada yg support. done
+6. backup sms gateway. done
+
