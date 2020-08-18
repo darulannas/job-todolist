@@ -559,3 +559,15 @@ ada sistem registry yg corrupt. pakai apl explorer alternatif. tidak bisa. harus
 - import dengan data yg ada. done
 - masih blm ketahuan router vpn yg dituju ke mana. progress
 
+18/08/20
+
+1. backup cctv priode 09-15. cam 2, cam 1. done
+2. reboot router lt.5 krn hang. done
+3. ganti monitor cctv indoor dengan monitor mr wang. monitor cctv  burning. done
+4. konfirmasi pak raymond vpn skynindo tidak bisa konek. gateway 0.0.0.0. done
+5. kontak iforte masalah vpn server 124.158.149.252. sepertinya akses ada di router D. blm ada respon. progress
+6. koordinasi agar xlink coba login ke vpn server skynindo. progress
+- vpn server ip 124.158.149.252 sudah reply dan tunggu respon vendor. 
+- sejauh ini akun client nicepay dan xlink tidak bisa konek dengan vpn skynindo meski sudah online.
+indikasi settingan vpn server skynindo memblok vpn client.
+
