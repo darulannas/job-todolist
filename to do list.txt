@@ -548,7 +548,7 @@ ada sistem registry yg corrupt. pakai apl explorer alternatif. tidak bisa. harus
 
 1. backup cctv priode 26-01. cam 3, cam 2, cam 1. done
 2. reboot router lt.5 krn hang. done
-3. backup db accurate finance ke server nas. progress
+3. backup db accurate finance ke server nas. done
 4. develope aplikasi android untuk di smart tv agar bisa stream ch lokal
 - develope dengan java. progress
 5. setting router rb450gx4 untuk pengganti router vpn yg rusak. progress
