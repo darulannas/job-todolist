@@ -571,3 +571,20 @@ ada sistem registry yg corrupt. pakai apl explorer alternatif. tidak bisa. harus
 - sejauh ini akun client nicepay dan xlink tidak bisa konek dengan vpn skynindo meski sudah online.
 indikasi settingan vpn server skynindo memblok vpn client.
 
+19/08/20
+
+1. backup cctv priode 09-15. cam 3, cam 4, cam 5. done
+2. reboot router lt.5 krn hang. done
+3. pelajari dan catat topologi jaringan kantor terbaru dari data yg ada. progress
+- untuk mempermudah troubleshoot masalah vpn yg sekarang.
+- ada topologi jaringan internet.
+- ada topologi jaringan CAS, MCR.
+- ada topologi vpn topaz. sudah tidak aktif info dari pak raymond.
+4. koordinasi dengan pak anas masalah vpn sky untuk kebutuhan top up saat ini maupun website. done
+- vpn untuk topup ada xlink, tanaka, GKM, Nicepay.
+- fungsi untuk web, ada menu pelanggan untuk vpn nicepay dan menu dealer untuk terhubung ke fungsi
+web ssms saat ini di 173.180.200.200.
+5. router vpn sudah uptime ada di rb black c diatas. ip 124.158.149.252. done
+- dengan backup data lama jadi hanya terdapat dealer vpn xlink dan tanaka yg uptime. done
+- kooordinasi dengan pak rajendra untuk input vpn client GKM dan nicepay. butuh ip, id, pass. xlink, gkm, nicepay. done
+
