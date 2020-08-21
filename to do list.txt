@@ -588,3 +588,14 @@ web ssms saat ini di 173.180.200.200.
 - dengan backup data lama jadi hanya terdapat dealer vpn xlink dan tanaka yg uptime. done
 - kooordinasi dengan pak rajendra untuk input vpn client GKM dan nicepay. butuh ip, id, pass. xlink, gkm, nicepay. done
 
+21/08/20
+
+1. backup cctv priode 09-15. cam 6, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. backup sms gateway. done
+4. backup rb black c dan rb black d. done
+5. cari dan download adobe primer untuk dimas. cari yg supporrt win 7. progress
+6. ke mangga dua ambil ups dan antar barang ke kobra exp. done
+7. backup db accurate finance. done
+
+
