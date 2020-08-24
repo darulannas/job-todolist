@@ -598,4 +598,13 @@ web ssms saat ini di 173.180.200.200.
 6. ke mangga dua ambil ups dan antar barang ke kobra exp. done
 7. backup db accurate finance. done
 
+24/08/20
+
+1. backup cctv priode 16-22. cam 16, cam 715. done
+2. reboot router lt.5 krn hang. done
+3. cari dan download adobe primer untuk dimas. cari yg supporrt win 7. done
+4. troubleshoot pc darul, bluescreen. cleaning cpu. done
+5. koordinasi untuk vpn gkm tidak bisa terhubung ke aplikasi 192.168.20.13 di skynindo. progress
+6. cek pc dimas internetnya tidak terhubung. done
+7. install adobe premier cs6 di pc dimas. done
 
