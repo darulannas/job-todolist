@@ -616,4 +616,5 @@ web ssms saat ini di 173.180.200.200.
 4. install adobe premier di pc dimas dan 2 pc editor cadangan. done
 5. troubleshoot pc rudi tidak terhubung ke inet. done
 6. troubleshoot pc desi dan widya tidak terhubung ke inet. done
+7. cek fisik dan restart router rb black c vpn karena vpn tidak bisa terhubung lagi. done
 
