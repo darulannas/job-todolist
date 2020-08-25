@@ -608,3 +608,12 @@ web ssms saat ini di 173.180.200.200.
 6. cek pc dimas internetnya tidak terhubung. done
 7. install adobe premier cs6 di pc dimas. done
 
+25/08/20
+
+1. backup cctv priode 16-22. cam 14, cam 13, cam 12, cam 11. done
+2. reboot router lt.5 krn hang. done
+3. cari dan download adobe premier cc 2017 untuk editor skymedia. karena agara support dengan pc dendi. done
+4. install adobe premier di pc dimas dan 2 pc editor cadangan. done
+5. troubleshoot pc rudi tidak terhubung ke inet. done
+6. troubleshoot pc desi dan widya tidak terhubung ke inet. done
+
