@@ -618,3 +618,12 @@ web ssms saat ini di 173.180.200.200.
 6. troubleshoot pc desi dan widya tidak terhubung ke inet. done
 7. cek fisik dan restart router rb black c vpn karena vpn tidak bisa terhubung lagi. done
 
+26/08/20
+
+1. backup cctv priode 16-22. cam 10, cam 9, cam 8, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet pc fitri. disambungkan ke LAN dan Wifi untuk backup. done
+4. cek sms tidak ada balasan ke 2. dari sambungan hp terhubung dan ada balasan 1 sms. dari server direstart. done
+5. cek inet pc ana. kabel kendor. jika masalah berlanjut. ganti kabel. done
+6. ganti kabel inet ana dan rapihkan. done
+
