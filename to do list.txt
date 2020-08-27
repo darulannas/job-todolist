@@ -627,3 +627,15 @@ web ssms saat ini di 173.180.200.200.
 5. cek inet pc ana. kabel kendor. jika masalah berlanjut. ganti kabel. done
 6. ganti kabel inet ana dan rapihkan. done
 
+27/08/20
+
+1. backup cctv priode 16-22. cam 6, cam 5, cam 4, cam 3. done
+2. reboot router lt.5 krn hang. done
+3. cek hp cs tidak bisa konek inet. done
+4. troubleshoot apl cinema 4d adit tidak bisa masuk. karena di update jadi lewat masa trial. 
+- cari dan download crack untuk apl itu. done
+- install di laptop adit. progress
+5. bantu rajendra untuk cek router vpn untuk port nya dan restart router. done
+- router rb black c yg kemarin dibeli hanya untuk backup ( tidak terpakai )
+- sms server dialihkan ke rb 2011 uias dan di roouter tersebut disetting untuk vpn seperti xlin, gkm, nicepay.
+
