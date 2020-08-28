@@ -639,3 +639,15 @@ web ssms saat ini di 173.180.200.200.
 - router rb black c yg kemarin dibeli hanya untuk backup ( tidak terpakai )
 - sms server dialihkan ke rb 2011 uias dan di roouter tersebut disetting untuk vpn seperti xlin, gkm, nicepay.
 
+28/08/20
+
+1. backup cctv priode 16-22. cam 2, cam 1. done
+2. reboot router lt.5 krn hang. done
+3. cek pc anas tidak bisa konek inet. refresh adapter. indikasi kabel/port lan nya bermasalah. done
+4. install cinema 4d di laptop adit. done
+5. cek pc widia tidak bisa konek inet. refresh adapter. indikasi kabel/port lan nya bermasalah. done
+6. siapkan kabel lan yg bagus untuk setting router vpn. done
+7. inet ruang cs mati. indikasi ada masalah di switch di server. alternatif koneksi wifi. progress
+8. backup db accurate finance. done
+9. request nomor kontak iforte yg fast respon by email. progress
+
