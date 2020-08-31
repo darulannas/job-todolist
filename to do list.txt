@@ -651,3 +651,18 @@ web ssms saat ini di 173.180.200.200.
 8. backup db accurate finance. done
 9. request nomor kontak iforte yg fast respon by email. progress
 
+31/08/20
+
+1. backup cctv priode 23-29. cam 2, cam 1. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet lt.3 r.cs tidak online. cek router diplafon. restart kemudian coba pindah port di sw 01.01. done
+4. troubleshoot inet hub ke android box pak renault. coba ganti ip kemudian kembalikan lg. restart. butuh waktu
+untuk normal lagi. done
+5. pastikan kabel dan port untuk router rb black d dengan iforte. ikuti arahan iforte. progress
+6. backup pc bu jemmy untuk diinstall ulang dan ganti hdd. done
+7. cari dan download adobe premier cc 2020 utk macos. progress
+8. setting adobe premier cc di pc editor agar running, disebelah kanan. done
+9. troubleshoot pc citra agar terhubung ke server production pc adit. done
+10. dampingi teknisi iforte untuk troubleshoot router rb black d. progress
+
+
