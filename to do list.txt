@@ -665,4 +665,19 @@ untuk normal lagi. done
 9. troubleshoot pc citra agar terhubung ke server production pc adit. done
 10. dampingi teknisi iforte untuk troubleshoot router rb black d. progress
 
+01/09/20
+
+1. backup cctv priode 23-29. cam 3, cam 4, cam 5. done
+2. reboot router lt.5 krn hang. done
+3. cek steker timer untuk hp sms gateway. kondisi masih bagus. setting 3 jam sekali mati. done
+4. masalah vpn server untuk sms server.
+- rb black c dijadikan cadangan. 
+- rb2011uias dijadikan router untuk vpn server sms server.
+- ip sms server di 192.168.20.13, ip vpn server di 192.168.20.1, ip vpn client di 192.168.21.xx.
+- rb black d fungsi nya tetap untuk wan iforte.
+5. setting ch wifi agar tidak ada interferensi sinyal. done
+- lt 6 dan 3 = ch 1
+- lt. 5 dan 2 = ch 6
+6. backup data pc bu jemmy agar bisa di install ulng besok pagi. done
+
 
