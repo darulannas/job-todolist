@@ -680,4 +680,18 @@ untuk normal lagi. done
 - lt. 5 dan 2 = ch 6
 6. backup data pc bu jemmy agar bisa di install ulng besok pagi. done
 
+02/09/20
+
+1. backup cctv priode 23-29. cam 6, cam 7, cam 8, cam 9. done
+2. reboot router lt.5 krn hang. done
+3. info password pc ex gunawan ke penggantinya. done
+4. pinjamkan adit hdd ext untuk backup data editor. progress
+5. cek timer untuk hp sms gateway. kondisi sudah normal. done
+6. clean cpu bu jemmy. ganti hdd yg ada. progress
+- hdd exs sales. 
+- backup hdd exs sales dan clean softwarenya. progress
+- copy data bu jemmy ke hdd exs sales. progress
+- install software yg dibutuhkan bu jemmy. progress
+7. koneksikan server website ke vpn skynindo(nicepay) lalu info ke grup website. done
+
 
