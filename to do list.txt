@@ -694,4 +694,22 @@ untuk normal lagi. done
 - install software yg dibutuhkan bu jemmy. progress
 7. koneksikan server website ke vpn skynindo(nicepay) lalu info ke grup website. done
 
+03/09/20
+
+1. backup cctv priode 23-29. cam 11, cam 12, cam 13. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot laptop ridwan. tidak bisa masuk win dan stuck di screen saver. alt+del. done
+4. info req id dan pass untuk masuk ke ssms ke pak kress dan bu ernie. done
+- http://173.180.200.200:83/skynindo/adm/adm_frame.php
+- user dan id dari kath
+5. troubleshoot pc mr.wang tidak bisa install/buka google earth pro. done
+- api-ms-win-crt-runtime-l1-1-0.dll is missing
+- install c++ 2015 tapi error 0x80240017
+- masalah ada di win update tapi tidak bisa di update
+- cari download dan install win update utk win 7 32 bit KB976932
+6. install driver printer mg2500s di pc bu jemmy. done
+7. cari cara untuk ganti nama profil di rumah.com. done
+- hubungi cs nya.
+- untuk ganti nama itu sama seperti daftar agen baru dengan akun sama dan berbayar.
+
 
