@@ -712,4 +712,30 @@ untuk normal lagi. done
 - hubungi cs nya.
 - untuk ganti nama itu sama seperti daftar agen baru dengan akun sama dan berbayar.
 
+04/09/20
+
+1. backup cctv priode 23-29. cam 14, cam 15, cam 16. done
+2. reboot router lt.5 krn hang. done
+3. backup sms gateway dan tes sms. done
+4. cari dan info ke bu jemmy untuk router yg bisa pakai kartu gsm. done
+5. backup db accurate finance. done
+6. request pak kress untuk setting ch wifi tiap lt. done
+- lt.6 ch1, ch4, ch8, ch11
+- lt.5 ch6
+- lt.3 ch11, ch8, ch4, ch1
+- lt.2 ch1, ch11
+7. pandu pak ari untuk tau pass oss dan email wpi. done
+8. install njstar chinese wp6 di pc bu jemmy. done
+
+07/09/20
+
+1. backup cctv priode 23-29. cam 16, cam 15. done
+2. reboot router lt.5 krn hang. done
+3. pesan modem router gsm untuk bu jemmy. done
+4. tes sms gateway. ada balasan. kemungkinan karena antrian. done
+5. cek printer bu emil. perlu direstart print yg kepending. done
+6. setting dan tes modem router untuk bu jemmy. done
+7. troubleshoot pc bu emil lemot. cleaning temp file. done
+8. cari kartu gsm tsel dan paket perbulan nya untuk modem bu jemmy. progress
+
 
