@@ -738,4 +738,28 @@ untuk normal lagi. done
 7. troubleshoot pc bu emil lemot. cleaning temp file. done
 8. cari kartu gsm tsel dan paket perbulan nya untuk modem bu jemmy. progress
 
+08/09/20
+
+1. backup cctv priode 23-29. cam 14, cam 13, cam 12, cam 11. done
+2. reboot router lt.5 krn hang. done
+3. cek kenapa meskipun web server sudah terhubung ke vpn tapi tetap tidak bisa terhubung ke API sms server. progress
+- ping ke 192.168.20.1 rto.
+- ping ke 192.168.20.13 rto.
+- cek default gateway dan int ada di eth0.
+- perlu menambahkan static routing dengan ip 192.168.20.0/24, krn ip vpn dan API sms server beda kelas.
+- request ke exabytes untuk menambahkan ip tersebut atau mensolve masalah tersebut. 
+4. cek kondisi laptop digudang lt.6. progress
+5. beli kartu telkomsel dan tes koneksi untuk modem. done
+
+09/09/20
+
+1. backup cctv priode 23-29. cam 10, cam 9, cam 8, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. cek koneksi vps ke API skynindo 192.168.20.13. done
+- koordinasi ke tim develope web, jika sdh terkoneksi. done
+4. tes sms hanya 1 balasan. tunggu antrian. done
+5. bantu bu ernie untuk akses http://173.180.200.200:83/skynindo/adm/adm_login.php. done
+6. bawa mobil utk ganti plat di samsat jakbar. done
+7. cek kondisi laptop digudang lt.6. progress
+
 
