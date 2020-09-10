@@ -762,4 +762,19 @@ untuk normal lagi. done
 6. bawa mobil utk ganti plat di samsat jakbar. done
 7. cek kondisi laptop digudang lt.6. progress
 
+10/09/20
+
+1. backup cctv priode 30-05. cam 6, cam 5, cam 4, cam 3. done
+2. reboot router lt.5 krn hang. done
+3. cek pc di cs untuk bu erni, agar bisa cek ird dengan id dia. done
+- kebutuhan bu ernie untuk cek ird di ssms server.
+- tes id bu ernie dan input ird skynindo dan bisa.
+- tes di pc bu ernie dan input ird decoder yg bu ernie butuh.
+- ssms server hanya support di explorer dan chrome.
+- install pc ex anas ke ruang bu ernie dan setting untuk ssms server.
+4. rapihkan dan catat data server mulai dari link dan password. done
+5. cek harga .org req pak kres. harga 180rb/thn di mwn. done
+6. troubleshoot pc bu ernie layar tidak tampil. masalah ada di monitornya. done
+7. cek kondisi laptop digudang lt.6. ada yg bagus dan rusak, sudah ditandai. done
+
 
