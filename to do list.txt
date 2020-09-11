@@ -777,4 +777,21 @@ untuk normal lagi. done
 6. troubleshoot pc bu ernie layar tidak tampil. masalah ada di monitornya. done
 7. cek kondisi laptop digudang lt.6. ada yg bagus dan rusak, sudah ditandai. done
 
+11/09/20
+
+1. troubleshoot cctv tidak bias diremote. upgrade firmware dvr dan remote. done
+2. backup cctv priode 30-05. cam 2, cam 1. done
+3. reboot router lt.5 krn hang. done
+4. cari stok barrel untuk merapihkan kabel lan pc bu ernie. done
+- ada stok satu, tes dan bisa.
+5. rapihkan hdd yg standy dan tandai. done
+6. backup db accurate finance. done
+7. backup sms gateway dan tes. done
+8. troubleshoot storage server yg error 1. progress
+- ip 172.10.18.214.
+- tidak bisa sembarangan dibuka disk nya
+- tidak bisa masuk kedalam sistem nya ( tidak tau akses id dan pass ).
+9. cari info whatsapp gateway req pak renault untuk alternatif sms gateway. progress
+- range harga diatas 500rb/bln.
+- senin 14 sep zoom meeting dengan qontak www.qontak.com
 
