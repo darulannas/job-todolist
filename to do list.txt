@@ -795,3 +795,18 @@ untuk normal lagi. done
 - range harga diatas 500rb/bln.
 - senin 14 sep zoom meeting dengan qontak www.qontak.com
 
+14/09/20
+
+1. backup cctv priode 06-12. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. bawa mobil ke samsat jakbar untuk ganti plat. done
+4. cari file data pelanggan event req pak anas. done
+- cari di pc max data
+- sesuaikan dengan no fix asset yg dimaksud.
+- file tidak ada
+5. cek sms gateway dan tes. balasan ada 2. done
+6. zoom meeting dengan qontak. done
+- dikirimkan penawaran.
+- aplikasi trial untuk demo.
+7. pandu bu emil setting remote cctv. progress
+- harus scan barcode di dvr
