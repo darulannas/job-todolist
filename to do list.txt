@@ -810,3 +810,17 @@ untuk normal lagi. done
 - aplikasi trial untuk demo.
 7. pandu bu emil setting remote cctv. progress
 - harus scan barcode di dvr
+
+15/09/20
+
+1. backup cctv priode 06-12. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway. hanya 1 balasan. req pak rajendra utk balasan ke2. progress
+4. troubleshoot server storage, 1 disk error. progress
+- cek isi disk nya. error format
+- info ke pakk kres langkah selanjutnya
+5. restart switch citra karena lemot. progress
+- putuskan koneksi yg bw nya tinggi
+- reboot router
+6. rapid test
+7. install ulang laptop pak imam. progress
