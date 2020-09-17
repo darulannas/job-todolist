@@ -824,3 +824,16 @@ untuk normal lagi. done
 - reboot router
 6. rapid test
 7. install ulang laptop pak imam. progress
+
+16/09/20 (wfh)
+
+1. backup cctv priode 06-12. cam 3, cam 4, cam 5, cam 6. done
+2. setting teamviewer di pc it dan pak imam utk keperluan remote
+- setting dengan password yg tidak random.
+
+17/09/20 (wfh)
+
+1. backup cctv priode 06-12. cam 7, cam 8, cam 9, cam 10. done
+2. setting auto start teamviewer di pc IT. done
+3. koordinasi dengan pak rajendra dan grup web skynindo untuk API nicepay. done
+- dari pak rajendra masih proses develope
