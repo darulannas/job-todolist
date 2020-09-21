@@ -837,3 +837,22 @@ untuk normal lagi. done
 2. setting auto start teamviewer di pc IT. done
 3. koordinasi dengan pak rajendra dan grup web skynindo untuk API nicepay. done
 - dari pak rajendra masih proses develope
+
+18/09/20 (wfh)
+
+1. backup cctv priode 06-12. cam 11, cam 12, cam 13, cam 14. done
+2. cari vendor untuk pembelian hardisk storage server. done
+- sudah ada hanya tinggal tunjukan foto hardisk nya dan infokan ke vendor.
+3. download dan upload pc citra 121 lemot. done
+- reboot router lt.3
+- cek jalur user yg menghambat dilt.3
+- reboot ulang.
+
+21/09/20 (wfh)
+
+1. backup cctv priode 13-19. cam 1, cam 2. done
+2. troubleshoot server 172.18.1.202 tidak dapat di akses. done
+- bisa diakses dari pc lt.6
+- tidak bisa di akses oleh dimas dan dendi.
+- masalah ada di switch yg terhubung di pc dimas dan dendi atau dari kabel nya.
+- reboot switch dan reboot router.
