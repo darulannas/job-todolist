@@ -856,3 +856,14 @@ untuk normal lagi. done
 - tidak bisa di akses oleh dimas dan dendi.
 - masalah ada di switch yg terhubung di pc dimas dan dendi atau dari kabel nya.
 - reboot switch dan reboot router.
+
+22/09/20 (wfh)
+
+1. backup cctv priode 13-19. cam 3, cam 4, cam 5, cam 6. done
+2. inet untuk pc citra lemot. done
+- cari user yg menggunakan bw besar. kemudian putuskan sementara
+- reboot router lt.3
+3. info ke putri cara refill tinta 664
+4. info ke bu jemmy letak lokasi folder desktop di pc nya. done
+- merasa tidak ada data terbaru
+- info ke bu jemmy bahwa hdd nya masih ada dan info cara ambil data nya via hdd dock
