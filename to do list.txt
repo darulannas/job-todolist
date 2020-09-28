@@ -867,3 +867,28 @@ untuk normal lagi. done
 4. info ke bu jemmy letak lokasi folder desktop di pc nya. done
 - merasa tidak ada data terbaru
 - info ke bu jemmy bahwa hdd nya masih ada dan info cara ambil data nya via hdd dock
+
+28/09/20
+
+1. backup cctv priode 20-26. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc bu jemmy. done
+- taskbar berantakan
+- force close keyboard virtual
+4. carikan bu jemmy software njstar yg bisa. progress
+5. troubleshoot inet lt.3 masalah r. skymedia. progress
+- reboot router lt.3
+- reboot switch di pc citra.
+- indikasi swich citra bermasalah jika inet nya error terus.
+- jika rata 1 ruangan maka masalah ada di router server lt.3
+6. cek fisik hdd server storage yg bermasalah dan cari penggantinya. progress
+- kontak dengan vendor untuk ketersediaan stok dan harga
+- server tidak ada keterangan tipe
+- cari part number servernya
+7. cek sms gateway. balasan hanya 1x. hp normal. berarti dari server. done
+8. troubleshoot winrar di pc bu betty yg corrupt. done
+9. rapihkan kabel lan di pc bu ernie. done
+10. minta ttd bu erni untuk pembelian tinta skymedia. done
+11. info ke pak renault hasil pencarian vendor wa gateway. done
+- penawaran dari qontak harga di 700rb/bln
+- fitur yg dipakai hanya hit API dari server ssms
