@@ -892,3 +892,16 @@ untuk normal lagi. done
 11. info ke pak renault hasil pencarian vendor wa gateway. done
 - penawaran dari qontak harga di 700rb/bln
 - fitur yg dipakai hanya hit API dari server ssms
+
+29/09/20
+
+1. backup cctv priode 20-26. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. reboot router lt.3 agar switch citra terhubung inet dan cek indikator switch citra. done
+- sekarang lan no 1 inet di switch citra mati terus
+- ganti kabel lan dan pindah port inet ke no 2.
+4. refill tinta 664 di printer ridwan. done
+5. refill tinta 664 di printer ana. cleaning, test nozzle. done
+6. cek hdd ex bu jemmy pakai cpu yg ada untuk liat software njstar. done
+- sudah tidak bisa masuk windows dengan hdd ini
+- cek hdd dengan docking. masih bisa terbaca. copy file njstar untuk di install di hdd bu jemmy skrg.
