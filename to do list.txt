@@ -905,3 +905,19 @@ untuk normal lagi. done
 6. cek hdd ex bu jemmy pakai cpu yg ada untuk liat software njstar. done
 - sudah tidak bisa masuk windows dengan hdd ini
 - cek hdd dengan docking. masih bisa terbaca. copy file njstar untuk di install di hdd bu jemmy skrg.
+
+30/09/20
+
+1. backup cctv priode 20-26. cam 7, cam 8, cam 9. done
+2. reboot router lt.5 krn hang. done
+3. cek tipe hdd enterprise server storage. done
+- hdd enterprise toshiba mg04aca200e
+- info ke vendor
+4. troubleshoot web server vps skynindo.tv tidak bisa diakses. progress
+- restart database mysql. dan tunggu refresh
+5. install paint di pc bu jemmy. done
+6. meeting dengan pak renault masalah wa gateway. done
+- sistem sms gateway ada 3 lapis. hp, sms gateway server, sistem kath
+- wa gateway hanya pengganti hp.
+- req cari pengganti sms gateway server
+7. cek playback cctv, ada dokumen bu jemmy yg hilang. done
