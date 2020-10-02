@@ -921,3 +921,26 @@ untuk normal lagi. done
 - wa gateway hanya pengganti hp.
 - req cari pengganti sms gateway server
 7. cek playback cctv, ada dokumen bu jemmy yg hilang. done
+
+01/10/20
+
+1. backup cctv priode 20-26. cam 10, cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway. balasan sudah 2x. done
+4. troubleshoot gmail google drive bu betty. done
+5. cek kondisi monitor di gudang lt.6. progress
+6. develope apl android untuk stream lokal skynindo. progress
+- membuat sistem login dan tampilan login
+
+02/10/20
+
+1. backup cctv priode 20-26. cam 13, cam 14, cam 15, cam 16. done
+2. reboot router lt.5 krn hang. done
+3. backup db accurate finance. done
+4. backup sms gateway. done
+5. refill printer GA brother. done
+6. cek kondisi monitor di gudang lt.6. progress
+- ada banyak monitor samsung tp tidak ada kabel adapternya
+7. pesan toner 85a printer bu betty. done
+8. develope apl android untuk stream lokal skynindo. progress
+- membuat sistem login dan tampilan login
