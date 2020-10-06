@@ -944,3 +944,27 @@ untuk normal lagi. done
 7. pesan toner 85a printer bu betty. done
 8. develope apl android untuk stream lokal skynindo. progress
 - membuat sistem login dan tampilan login
+
+05/10/20
+
+1. backup cctv priode 27-03. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. backup sms gateway. done
+4. cek sms gateway. sudah ada balasan tp agak lama. done
+5. cek kondisi monitor di gudang lt.6. progress
+- ada banyak monitor samsung tp tidak ada kabel adapternya
+6. ganti toner printer 85a bu betty finance. done
+7. ganti toner printer 79a widya
+8. cek kondisi minipc digudang lt.6. progress
+
+06/10/20
+
+1. backup cctv priode 27-03. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. cek printer digudang untuk bu erni. done
+- req bu erni krn printer dia boros dan hasil cetak putus2.
+- ada printer digudang tp ada aja masalahnya.
+4. cleaning printer bu erni karena hasilnya putus2. done
+5. pandu widya untuk akses grab bisnis. done
+6. koordinasi dengan seribu bunga untuk inv toner di pisah. done
+- untuk cipta skynindo dan skymedia
