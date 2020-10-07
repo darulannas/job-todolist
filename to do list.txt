@@ -968,3 +968,21 @@ untuk normal lagi. done
 5. pandu widya untuk akses grab bisnis. done
 6. koordinasi dengan seribu bunga untuk inv toner di pisah. done
 - untuk cipta skynindo dan skymedia
+
+
+07/10/20
+
+1. backup cctv priode 27-03. cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. burn win 10 untuk andika mcr. done
+4. cari dan req barel rj-45. done
+- harga 150rban
+- req untuk merapihkan kabel di tempat pak toto
+5. cek dan cari stok laptop hp 540 yg bagus dan kasih ke pak kres. done
+6. cari dan req baterai laptop hp 540 req pak kres. progress
+- harga 250rban
+7. cek ssms server karena balasan hanya 1. done
+- ssms server ada di 200.200
+- pass sudah disimpan
+- biasanya harus direstart.
+- ada antrian
