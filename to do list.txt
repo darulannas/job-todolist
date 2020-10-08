@@ -986,3 +986,14 @@ untuk normal lagi. done
 - pass sudah disimpan
 - biasanya harus direstart.
 - ada antrian
+
+08/10/20
+
+1. backup cctv priode 27-03. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot koneksi wifi ke perangkat kristin. done
+- gagal terima ip
+4. update etaxinvoice difinance ke versi 3.0. done
+- update ppn skynindo, skymedia, skynet, moremall, skycable
+5. cari dan pinjamkan 1 win 7 32 ori oem ke pak kres. done
+6. cari dan pinjamkan cdrom external ke pak kres. done
