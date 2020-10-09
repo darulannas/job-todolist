@@ -997,3 +997,23 @@ untuk normal lagi. done
 - update ppn skynindo, skymedia, skynet, moremall, skycable
 5. cari dan pinjamkan 1 win 7 32 ori oem ke pak kres. done
 6. cari dan pinjamkan cdrom external ke pak kres. done
+
+09/10/20
+
+1. backup cctv priode 27-03. cam 7, cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. pandu bu emil untuk troubleshoot printernya. done
+4. backup db accurate finance. done
+5. rapihkan pc bu jemmy. done
+- bersihkan ram nya
+- install njstar wp dan communicator
+- install office 2007
+6. koneksikan pc indra skymedia ke printer widya. hp laserjet dan cannon. done
+7. cari, download dan kasih adobe premier cs6 ke adit. done
+8. rapihkan laptop hp bu ernie. done
+- pass user untuk windows
+- bookmark ssms system dengan ip public http://124.158.149.250:83/skynindo/adm/adm_login.php
+- kasih charger adapter untuk laptop hp 540
+9. cari notebook asus yg rusak, ambil modul wifi nya. req pak kres. tidak compatible. done
+10. cari dan beli modul wifi untuk laptop hp 540 req pak kres. progress
+11. backup sms gateway. done
