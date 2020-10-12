@@ -1017,3 +1017,18 @@ untuk normal lagi. done
 9. cari notebook asus yg rusak, ambil modul wifi nya. req pak kres. tidak compatible. done
 10. cari dan beli modul wifi untuk laptop hp 540 req pak kres. progress
 11. backup sms gateway. done
+
+12/10/20
+
+1. backup cctv priode 04-10. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. cari dan beli di olshop. done
+- barel rj45 untuk penyambung kabel utp
+- modul wifi untuk laptop hp 540 req pak kres
+4. troubleshoot pc rudy krn nge hang. done
+- restart paksa, kemudian refresh
+5. email hrd tidak lengkap ditampilkan inbox nya. done
+- import email masuk lengkap dari server.
+- install di pc ana hrd.
+6. cleaning toner printer 745 bu erni. done
+7. format hdd laptop pak kres. jadikan tanpa partisi atau unalllocated. done
