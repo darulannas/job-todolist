@@ -1032,3 +1032,22 @@ untuk normal lagi. done
 - install di pc ana hrd.
 6. cleaning toner printer 745 bu erni. done
 7. format hdd laptop pak kres. jadikan tanpa partisi atau unalllocated. done
+
+13/10/20
+
+1. backup cctv priode 04-10. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway balasan hanya 1x. done
+- remote 200
+- restart server dan buka program xbatch_topup dan xskynindo_skynindo
+- tunggu antrian dan balasan masuk 2x
+4. setting remote cctv indoor dan outdoor di hp bu emil. done
+5. cek inet laptop bu erni. done
+- reboot router lt.5
+- koneksikan ulang wifi
+- reboot router lt.3
+6. troubleshoot pc citra yg lg diremote. done
+- tidak bisa fungsi keyboardnya
+- restart driver keyboard nya
+7. diskusi masalah API login dealer. done
+- buatkan flow diagram sistem web skynindo yg direncanakan
