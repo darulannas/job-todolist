@@ -1051,3 +1051,15 @@ untuk normal lagi. done
 - restart driver keyboard nya
 7. diskusi masalah API login dealer. done
 - buatkan flow diagram sistem web skynindo yg direncanakan
+
+14/10/20
+
+1. backup cctv priode 04-10. cam 7, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc widya untuk bisa install printer dari pc nurul. done
+- tidak bisa langsung di install
+- cari download dan install driver printer 64bit di pc nurul(32bit)
+4. cleaning printer canon 250s di pc nurul. done
+5. cek dan tandai tagihan hosting dan domain yg mau jatuh tempo. done
+- skymedia.co.id 22/10/20 896.593
+- cetak invoiocenya
