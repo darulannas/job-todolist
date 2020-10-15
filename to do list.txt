@@ -1063,3 +1063,16 @@ untuk normal lagi. done
 5. cek dan tandai tagihan hosting dan domain yg mau jatuh tempo. done
 - skymedia.co.id 22/10/20 896.593
 - cetak invoiocenya
+
+15/10/20
+
+1. backup cctv priode 04-10. cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. refill tinta cannon 745 dan 746. (bu jemmy dan bu ernie). done
+4. pandu bu emil cleaning laptop biar ga lemot. 
+- hapus isi %temp%
+5. cek kondisi mini pc maxdata. done
+- rusak 12 unit
+- bagus 3 unit
+6. troubleshoot wifi mac bu erni. done
+- jika router lt.5 hang lagi, sinyal di lt.3 jadi tubrukan ip
