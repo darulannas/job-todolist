@@ -1076,3 +1076,20 @@ untuk normal lagi. done
 - bagus 3 unit
 6. troubleshoot wifi mac bu erni. done
 - jika router lt.5 hang lagi, sinyal di lt.3 jadi tubrukan ip
+
+16/10/20
+
+1. backup cctv priode 04-10. cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot web server ssms tidak dapat di akses. done
+- org hypernet dtg untuk cek jika ada trouble/limit di router hypernet. tidak ada masalah
+- cek ip yg jaringan nya rto. ip web ssms ada di 173.180.200.200 dan db di 201. rto di 201
+- kondisi tidak bisa akses web ssms dan sms gateway
+- cek fisik server 201 dan digipas pak kres
+- server 201 overheat/throtling krn ac dan kabel kendor jadi perlu direstart
+- server digipass hanya perlu di restart krn overheat
+4. backup db accurate finance. done
+5. backup sms gateway. done
+6. cek kondisi server. done
+- cek sms gateway
+- cek suhu ac
