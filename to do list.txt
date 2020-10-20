@@ -1093,3 +1093,19 @@ untuk normal lagi. done
 6. cek kondisi server. done
 - cek sms gateway
 - cek suhu ac
+
+19/10/20
+
+1. backup cctv priode 04-10. cam 16, cam 15. done
+2. reboot router lt.5 krn hang. done
+3. cek kondisi server lt.3
+- ac sudah cukup dingin
+- server tidak ada yg overheat
+4. cek email skynindo bu betty tidak bisa kirim. masalah pada penerima nya. done
+5. clear cache dan cookies browser bu betty karena ada bebera web yg tida bisa diakses. done
+6. konver dokument pdf bu betty ke excel. done
+7. burning cd isi foto pak kres untuk keperluan pajak bu betty. done
+8. troubleshoot pc ex monika. done
+- pc lemot tidak bisa respon
+- clear folder temp
+- refresh kemudian restart
