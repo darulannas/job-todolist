@@ -1109,3 +1109,20 @@ untuk normal lagi. done
 - pc lemot tidak bisa respon
 - clear folder temp
 - refresh kemudian restart
+
+20/10/20
+
+1. backup cctv priode 11-17. cam 14, cam 13. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot sms gateway xl tidak bisa terima sms. done
+- lepas pasang simcard dan restart
+- pindah simcard ke hp lain dan restart
+4. ganti toner printer canon 745 dan 746 printer skymedia. done
+- cleaning toner
+- stok hanya ada 745
+- catat
+5. diskusi masalah web skymedia dengan bu erni. done
+- skymedia.co.id dimiliki digital registra
+- cari domain pengganti
+- pesan domain skymedia.web.id
+6. setting pc nurdin untuk akses ssms. done
