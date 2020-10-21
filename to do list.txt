@@ -1126,3 +1126,21 @@ untuk normal lagi. done
 - cari domain pengganti
 - pesan domain skymedia.web.id
 6. setting pc nurdin untuk akses ssms. done
+
+21/10/20
+
+1. backup cctv priode 11-17. cam 12, cam 11. done
+2. reboot router lt.5 krn hang. done
+3. settle barel rj45 dan modul wifi hp540. done
+4. troubleshoot inet lan dan wifi pc pak toto, done
+- koneksi ke @wireless
+- laptop ridwan juga
+5. troubleshoot pc indra skycable bluescreen. done
+- cleaning fisik
+6. diskusi dengan pak kres soal vps dan web. done
+- ingin gabung server skymedia dengan skynindo di vps
+- harus upgrade ram vps
+- rapihkan dan print invoice sparepart pak kres soal laptop hp540
+- pastikan rencana gabung server skymedia dan up ram vps. tidak perlu gabung server
+7. req penawaran upgrade ram vps dan cpanel setahun ke exabytes dan 
+cara install vpn server pptp untuk pembanding. progress
