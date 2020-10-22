@@ -1144,3 +1144,24 @@ untuk normal lagi. done
 - pastikan rencana gabung server skymedia dan up ram vps. tidak perlu gabung server
 7. req penawaran upgrade ram vps dan cpanel setahun ke exabytes dan 
 cara install vpn server pptp untuk pembanding. progress
+
+22/10/20
+
+1. backup cctv priode 11-17. cam 10, cam 9, cam 8, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. cek hosting skymedia.co.id dan ganti dengan domain skynindo.net untuk tes. done
+4. ada issue jika diwifi kantor itu dipakai org luar req pak kres. progress
+- cari cara agar wifi yg akses hanya user kantor
+- via ap unifi hanya bisa membatasi bw
+- jika via mikrotik, tiap user akan dibuatkan 1 akun dan bisa share akun.
+- req akun full ke pak raymond 
+jadi lebih terlihat user mana yg share dan bisa di disable
+5. konfirmasi pembayaran tagihan web dan domain. done
+- hosting skymedia.co.id sudah di bayar tapi nominal kurang. talangin dulu biar cepet
+- domain skymedia.web.id juga sama
+6. troubleshoot pc nurdin skycable. done
+- cleaning fisik, hdd dan ram
+- cek kondisi ram dan hdd
+- update win 7 ke kb976932
+- install visual studio 2015-2019
+- update all driver pc
