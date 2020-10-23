@@ -1165,3 +1165,30 @@ jadi lebih terlihat user mana yg share dan bisa di disable
 - update win 7 ke kb976932
 - install visual studio 2015-2019
 - update all driver pc
+
+23/10/20
+
+1. backup cctv priode 11-17. cam 6, cam 5, cam 4, cam 3. done
+2. reboot router lt.5 krn hang. done
+3. konfirmasi dokumen etkp untuk .web.id. done
+4. troublehoot pc indra skycable masih bsod. done
+- cek hdd dan ram by software
+- update win 7 kb976932 dan pastikan vredist 2015-2019
+- update all driver pc
+5. troubleshoot printer cannon dan laserjet nurdin skycable. done
+- cleaning printer dan cek fisik krn paper jam
+- cek kondisi kabel 
+- tes cetak
+6. konfigurasi domain skymedia.web.id terhubung ke hosting. done
+7. troubleshoot finance tidak bisa login di web efaktur. done
+- masalah terjadi karena blm install sertifikat
+- atau browser harus di clear cache
+- selsaikan untuk skymedia, skycable dan skynet
+8. info bu betty cara pass file excel
+9. backup db accurate. done
+10. backup sms gateway dan tes. done
+11. cek ssms tidak bisa diremote kath. progress
+- dari jaringan lokal bisa
+- masalah di link iforte nya
+- kontak org iforte dan tunggu update
+12. server 201 uplink. tapi pass tidak bisa login. kontak rajendra. progress
