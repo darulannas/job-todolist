@@ -1192,3 +1192,49 @@ jadi lebih terlihat user mana yg share dan bisa di disable
 - masalah di link iforte nya
 - kontak org iforte dan tunggu update
 12. server 201 uplink. tapi pass tidak bisa login. kontak rajendra. progress
+
+24/10/20
+
+1. backup cctv priode 18-24. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. cari cara untuk login di menu cms web skymedia.web.id. done
+- menu cms ada di skymedia.web.id/skylogin.php
+- user dan pass ada di db nya
+- create user hanya bisa dari sisi db
+- info soal ini ke bu erni
+- create user citra dan infokan
+4. troubleshoot pc putri skymedia. done
+- win explorer crash
+- clear %temp%
+- restart
+- jika masih masalah, nanti bersihkan secara fisik
+5. troubleshoot pc pak anas tidak bisa buka chrome. done
+- clear temp
+- update chrome
+- restart
+6. pandu citra soal upload2 di web skymedia. progress
+- citra minta dihapus hari musik dan hari tv
+- edit alamat di footbar nya
+- cari cara agar video ke stream bukan ke download
+7. meeting dengan pak kres dan bu erni. done
+
+berikut hasilnya :
+
+Server nas accurate : 
+- server nya dikoneksi dengan minipc
+- install linux ubuntu/centos
+- setting accurate bisa diremote dri sini
+
+Management bandwidth : 
+- akses via server radius di teluk
+- tanya pak raymond untuk akses server diatas
+- setting peruser punya 1 akun wifi guest, batasi bw, setting tidak pernah logout untuk user ( kec bos ), setting refresh inet perjam, batasi range ip
+
+Siapkan vps untuk skymedia
+- 2/40gb di exabytes
+- os (tanya rajendra dulu)
+- cari antivirus diluar exabytes yg murah ex eset node32
+
+8. troubleshoot pc adit. mati sendiri dan tidak bisa boot ke os. done
+- indikasi masalah di virus dari yg diinstall
+- delete system restore
