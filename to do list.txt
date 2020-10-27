@@ -1238,3 +1238,28 @@ Siapkan vps untuk skymedia
 8. troubleshoot pc adit. mati sendiri dan tidak bisa boot ke os. done
 - indikasi masalah di virus dari yg diinstall
 - delete system restore
+
+27/10/20
+
+1. backup cctv priode 18-24. cam 3, cam 4, cam 5. done
+2. reboot router lt.5 krn hang. done
+3. siapkan vps untuk skymedia. progress
+- os ubuntu
+- https://billing.exabytes.co.id/cart.php?a=confproduct&i=0
+harga vps 2/40gb = 1.32jt
+- eset node32 banyak jenis nya
+- tanya support vps untuk install antivirus apa yg support
+- cari dan tanya eset node32 linux di strore indonesia, toped
+- eset tidak bisa diinstall krn gui (desktop)
+- cek rekomendasi antivirus untuk ubuntu server (banyak yg open source)
+4. kirimkan data semua user wifi diskynindo. progress
+- minta data karyawan ke ana
+- kirim data ke pak reymond
+5. request efaktur ke niagahoster. progress
+- hosting skymedia.web.id
+- lampirkan dokumen yg diperlukan
+- waktu tunggu 3hari kerja
+6. cetak efaktur domain skymedia.web.id di mwn. progess
+- nama pt harus sesuai dengan domain
+- req ganti nama pt
+
