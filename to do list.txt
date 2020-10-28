@@ -1263,3 +1263,21 @@ harga vps 2/40gb = 1.32jt
 - nama pt harus sesuai dengan domain
 - req ganti nama pt
 
+28/10/20
+
+1. backup cctv priode 18-24. cam 6, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. konfirmasi dengan finance mwn untuk revisi nama PT di domain skymedia.web.id. progress
+- ada waktu tunggu efaktur nya
+- sudah bisa di download hari jumat
+4. diskusi ke pak anas masalah web topup skynindo. done
+- alternatif API login dealer
+- export db dealer dan kasih ke pihak developer web
+5. cek sms gateway 1x balasan. done
+- cek server 200
+- batch action hang, restart
+6. req citra. progress
+- citra minta dihapus hari musik dan hari tv
+- edit alamat di footbar nya
+- cari cara agar video ke stream bukan ke download
+
