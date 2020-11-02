@@ -1281,3 +1281,32 @@ harga vps 2/40gb = 1.32jt
 - edit alamat di footbar nya
 - cari cara agar video ke stream bukan ke download
 
+02/10/20
+
+1. backup cctv priode 25-31. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc server finance tidak ada internet. done
+- restart driver lan nya
+- ip berubah, dan buat jadi statik
+- setting ulang untuk remote accurate di tiap pc finance
+4. troubleshoot pc widya tidak nyala. done
+- cek cpu, bisa nyala
+- monitor tidak nyala, cek kabel power
+- masalah di monitor, ganti monitor
+5. troubleshoot pc pak ari tidak bisa print. done
+- konek printer ke pc ana
+- ip pc ana berubah, buat static
+- konek ke pc ana dan setting printer
+6. konfirmasi ke mwn dan niagahoster terkait faktur pajak
+- domain dan hosting skymedia.web.id
+7. koordinasi dengan eset untuk penawaran antivirus server. progress
+8. jelaskan soal vps pak kres ke bu jemmy. done
+9. cari cara agar absen dari pnb lampung bisa langsung di tarik ke pusat. progress
+- build server kemudian koneksi ke pusat dengan vpn
+- alternatifnya, beli mesin absen dengan fitur adms harga 2jtan
+10. cek sms gateawy balasan hanya 1x. done
+11. request citra. done
+- citra minta dihapus hari musik dan hari tv. sudah hanya bisa dihalaman depan
+- edit alamat di footbar nya. sudah
+- cari cara agar video ke stream bukan ke download. beda versi html jadi tidak bisa
+
