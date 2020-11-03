@@ -1310,3 +1310,20 @@ harga vps 2/40gb = 1.32jt
 - edit alamat di footbar nya. sudah
 - cari cara agar video ke stream bukan ke download. beda versi html jadi tidak bisa
 
+03/11/20
+
+1. backup cctv priode 25-31. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway 1x balasan. done
+- restart batch action yg hang
+4. cek ssms management diakses nya lemot. done
+- restart server 200 karena dari sms juga lemot/hang
+5. cek kondisi cpu mcr di gudang. progress
+- tes pake psu yg baru satu2
+- ada 5 cpu yg dites
+- 3 rusak psu, 1 masih bagus, 1 rusak psu dan ada hal lain nya
+6. cek kondisi server krn mati listrik. done
+- hidupkan server yang mati
+- cek, tes ssms dan sms gateway
+7. request faktur pajak ke exabytes untuk pembelian vps skymedia. 7 hari kerja. progress
+
