@@ -1327,3 +1327,23 @@ harga vps 2/40gb = 1.32jt
 - cek, tes ssms dan sms gateway
 7. request faktur pajak ke exabytes untuk pembelian vps skymedia. 7 hari kerja. progress
 
+04/11/20
+
+1. backup cctv priode 25-31. cam 5, cam 6, cam 7, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. hapus cache firefox b betty untuk urusan www.pajak.co.id. done
+4. print efaktur domain skymedia.web.id. done
+5. siapkan vps skymedia untuk pak kres. progress
+- update dan upgrade vps. done
+- install control panel, webuzo. done
+- install web server apache dan database mysql. done
+- setting user lain. done 
+- aktifkan public key auth
+- install vpn pptp client
+- setting firewall
+- setting ftp
+6. cek sms gateway 1x balasan. done
+- restart script action
+7. catat akun dari vps skymedia. done
+8. troubleshoot printer aditb tidak bisa print. done
+
