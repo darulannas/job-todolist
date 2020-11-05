@@ -1347,3 +1347,19 @@ harga vps 2/40gb = 1.32jt
 7. catat akun dari vps skymedia. done
 8. troubleshoot printer aditb tidak bisa print. done
 
+05/11/20
+
+1. backup cctv priode 25-31. cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. info ke pak rajendra soal akun vps dll. done
+- lanjut progress install yg dibutuhkan
+- tunggu info mau apa lagi yang diinstall
+- catat data akun
+4. cek sms gateway 1x balasan. done
+- tes sms, restart script action krn hang
+5. troubleshoot printer bu adel tidak bisa print. done
+- cek status device
+- cek fisik printer
+- restart, cek dengan sistem troubleshoot. done
+
+
