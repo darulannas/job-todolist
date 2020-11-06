@@ -1362,4 +1362,25 @@ harga vps 2/40gb = 1.32jt
 - cek fisik printer
 - restart, cek dengan sistem troubleshoot. done
 
+06/11/20
 
+1. backup cctv priode 25-31. cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. cek efaktur dan cetak efaktur hosting skymedia. done
+- info ke reni
+4. koordinasi dengan erik masalah solusi tarik absensi pnb via online. done
+5. troubleshoot user wifi di lobby. done
+- koneksi ke router lt.2
+- restart router
+- koneksi ulang
+6. troubleshoot file excel amih tidak bisa diedit. done
+7. backup db accurate. done
+8. req pak kres. progress
+- cari dan beli casing laptop asus pak kres
+- cari cara benerin tombol laptop pak kres
+- cari akses untuk masuk ke domain dan hosting skycable, kabelku
+- perbaruhi web skycable.co.id/kabelku.com jika sudah bisa diakses
+9. backup sms gateway. done
+- cek dan tes sms
+- restart script action di server 200 krn hang
+10. ganti tinta 746 di printer adit. done
