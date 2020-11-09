@@ -1384,3 +1384,24 @@ harga vps 2/40gb = 1.32jt
 - cek dan tes sms
 - restart script action di server 200 krn hang
 10. ganti tinta 746 di printer adit. done
+
+09/11/20
+
+1. backup cctv priode 01-07. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. cari cara akses hosting dan domain skycable.co.id req pak kres. done
+- email diketahui tp pass tidak
+- reset pass di panel niagahoster
+- konfirmasi dikirim ke email gmail
+- gmail pass tidak diketahui, tapi email pemulian diketahui
+- reset pass gmail, butuh waktu 3 hari an.
+- reset pass di panel niagahoster
+- catat data akun ke db akses
+4. balasan sms hanya 1x. done
+- cek server, script action hang
+- restart script nya dan tunggu
+- tes sms
+5. cari casing laptop asus k401l req pak kres. progress
+- jarang ada dan ada di BL harga 678rb
+https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401-k401lb-k401l
+6. cari tuts tombol keyboard asus k401l tombol "]". progress
