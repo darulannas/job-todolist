@@ -1405,3 +1405,18 @@ harga vps 2/40gb = 1.32jt
 - jarang ada dan ada di BL harga 678rb
 https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401-k401lb-k401l
 6. cari tuts tombol keyboard asus k401l tombol "]". progress
+
+10/11/20
+
+1. backup cctv priode 01-07. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. cari tuts tombol keyboard asus k401l tombol "]". progress
+- tunggu pembayaran dari finance
+4. reconnect printer hrd ke pc pak ary. done
+5. install pptp client di vps skymedia. progress
+6. setting dns zone untuk "mpsapp.skycable.co.id" ip vps skymedia. done
+7. cek ssms management lemot diakses. done
+- server 200 terlihat hang/lemot
+- restart. done
+8. repair office laptop pak kres teluk gong. done
+
