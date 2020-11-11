@@ -1420,3 +1420,23 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - restart. done
 8. repair office laptop pak kres teluk gong. done
 
+11/11/20
+
+1. backup cctv priode 01-07. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc pak ary. office hang. progress
+- force close, restart
+- repair office
+4. cleaning perangkat disk pak kres. done
+5. create user admin mysql di vps skymedia dan catat. done
+- info ke pak rajendra
+6. troubleshoot printer epson l365. progress
+- hasil cetak putus2 krn sudah lama
+- bongkar catridge, sedot pake squit di selang nya. masih putus
+- sedot di ujung catridge tp ga ada squit tanpa jarum. lanjut besok
+7. troubleshoot vps skymedia tidak bisa publish file di public_html. done
+- webuzo hanya bisa create ftp enduser jadi tdk bisa publish ke /var/www
+- cari cara create ftp ke root di webuzo
+- tetap tidak bisa
+- kontak provider dan tanya masalahnya
+
