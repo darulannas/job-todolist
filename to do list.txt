@@ -1440,3 +1440,17 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - tetap tidak bisa
 - kontak provider dan tanya masalahnya
 
+12/11/20
+
+1. backup cctv priode 01-07. cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateway 1x balasan. done
+- restart script action krn hang
+4. kontak exabytes untuk masalah publish file skymedia. done
+- sudah bisa di publish tp pak rajendra req publish di root
+- untuk webuzo tidak bisa langsung publish di root dan tidak disarankan
+- reinstall os vps di solusvm
+- instal LAMP, catat semua akun yg baru
+5. order tuts laptop "]" pak kres di bl. done
+6. koordinasi ke hypernet untuk cek url stream yg buffering req andika. progress
+
