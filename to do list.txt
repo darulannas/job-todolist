@@ -1470,3 +1470,18 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 7. backup sms gateway. done
 - tes sms
 
+16/11/20
+
+1. backup cctv priode 01-07. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. pasang tuts keyboard laptop asus pak kres. done
+4. cetak efaktur vps skymedia exabytes dan kasih ke finance. done
+5. cek kondisi server telukgong req pak kres. progress
+- psu nya bermasalah, angus.
+6. cetak invoice tuts keyboard. done
+7. troubleshoot accurate finance. done
+- hasil cetak pdf di report nya berantakan
+- cek form templatenya. bagus
+- coba buka pdf via aplikasi lain. tidak ada perubahan
+- simpan hasil report via tombol save - pdf file. hasil bagus
+
