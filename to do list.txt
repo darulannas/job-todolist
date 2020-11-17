@@ -1485,3 +1485,13 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - coba buka pdf via aplikasi lain. tidak ada perubahan
 - simpan hasil report via tombol save - pdf file. hasil bagus
 
+17/11/20
+
+1. backup cctv priode 01-07. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot printer epson l365. progress
+- hasil cetak tidak keluar tinta
+- catridge kering, harus di sedot
+- masih tetap error, kemungkinan catridge sudah rusak
+4. rapihkan barang IT untuk pindah ruangan. progress
+
