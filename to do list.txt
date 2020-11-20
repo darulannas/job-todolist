@@ -1508,3 +1508,23 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 5. troubleshoot pc ridwan hang dilayar utama
 - task manager
 
+20/11/20
+
+1. backup cctv priode 08-14. cam 8, cam 9, cam 10, cam 11. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet ruang hrd mati. done
+- restart hub nya
+4. cek printer adit hasil cetak pecah. done
+- cleaning dan cek hasil
+- tinta sudah mau habis
+- req tinta 745
+5. backup db accurate finance. done
+6. cek pc lt.1 tidak ada internet. progress
+- pc nya minipc dan hanya support kabel lan
+- pc dipindahkan ke gudang sebelah yg tidak ada kabel lan
+- info ke emil untuk req beli wifi usb
+7. backup sms gateway. done
+8. cek sistem sms gateway balasan 1x. done
+- server aman, lagi antrian
+
+
