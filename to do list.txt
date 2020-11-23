@@ -1527,4 +1527,18 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. cek sistem sms gateway balasan 1x. done
 - server aman, lagi antrian
 
+23/11/20
+
+1. backup cctv priode 15-21. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. cek tipe toner printer ridwan dan pesan ke vendor. done
+4. rapihkan barang utk pindah ruangan GA. progress
+5. install lightshot di pc bu jemmy. done
+6. pindah kapasitas disk 50gb dari d ke c pc adit. done
+7. troubleshoot sms gateway tidak ada balasan. done
+- cek hp, bagus dan sms masuk
+- sistem sms reject dari server
+- cek server dari 200, 201, 202. server sms down
+- restart server 201, 202
+
 
