@@ -1541,4 +1541,17 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek server dari 200, 201, 202. server sms down
 - restart server 201, 202
 
+24/11/20
+
+1. backup cctv priode 15-21. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. pindah ruangan dan rapihkan barang. done
+4. troubleshoot macbook bu ernie, booting terus. done
+- restart dan cancel update
+5. meeting dengan pak renault dan pak anas. done
+- perihal api dealer dan api nicepay pelanggan
+- zoom meeting pembahasan web senin
+6. troubleshoot reset pass fb skynindo. done
+- cari email dan pass nya
+
 
