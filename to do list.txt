@@ -1554,4 +1554,19 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 6. troubleshoot reset pass fb skynindo. done
 - cari email dan pass nya
 
+25/11/20
+
+1. backup cctv priode 15-21. cam 5, cam 6, cam 7, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. pesan 1 lg toner 83a untuk ridwan. progress
+4. pasang toner 83a ke printer bu fitri
+5. crimping kabel lan untuk kebutuhan internet ruang GA baru. done
+6. install zoom di pc bu jemmy dan setting. done
+7. cek web skymedia tidak bisa upload progran. progress
+- fiturnya hanya bisa polling dan kebanyakan sudah error
+- web full custom lepas, sulit untuk perbaik
+8. ukur rak server di gudang req bu jemmy. done
+- pxlxt 90x60x105(98+7)
+- pxlxt 50x60x45
+
 
