@@ -1569,4 +1569,18 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - pxlxt 90x60x105(98+7)
 - pxlxt 50x60x45
 
+26/11/20
+
+1. backup cctv priode 15-21. cam 9, cam 10, cam 11. done
+2. reboot router lt.5 krn hang. done
+3. jelaskan sistem website skymedia.web.id ke adit. done
+- untuk kebutuhan upload konten gambar jadi butuh ukuran
+4. cari cara kloning hardsik untuk kebutuhan andika mcr. progress
+- download aplikasi klone
+5. troubleshoot macbook bu ernie inet offline. done
+- restart koneksi wifi nya
+6. cek kondisi fisik keyboard dan fungsinya. done
+- lebih dari setengah dari total, rusak
+7. bantu bu jemmy untuk buka file word yang error coret. done
+
 
