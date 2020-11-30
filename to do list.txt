@@ -1596,4 +1596,16 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 6. backup db accurate finance. done
 7. backup sms gateway. done
 
+30/11/20
+
+1. backup cctv priode 22-28. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. rapihkan catridge tinta yg ada. done
+4. zoom meeting perihan web skynindo. done
+- kondisi saat ini hanya ada api nicepay langsung
+- kurang nya itu ada 2. api pelanggan ke skynindo dan api login dealer ke skynindo
+5. ganti toner 83a printer ridwan. done
+6. info ke bu emil no hp sms gateway. done
+7. buat script di di vps skymedia untuk auto connect vpn nya. req pak kres. done
+
 
