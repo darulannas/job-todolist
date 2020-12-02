@@ -1638,5 +1638,7 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 6. cek pulsa dan masa aktif no xl gateway. done
 7. cek jumlah dan kondisi asset di gudang dan catat. progress
 - laptop, minipc dan cpu (mcr, skymedia, ready)
+8. cek sms gateway 1 balasan. done
+- restart script action di 200
 
 
