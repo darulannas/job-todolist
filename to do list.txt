@@ -1624,4 +1624,19 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. info ke bu emil iruan rt sampah dan keamanan. done
 9. buat script di di vps skynindo untuk auto connect vpn nya. req pak kres. done
 
+02/12/20
+
+1. backup cctv priode 22-28. cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc pak imam. progress
+- ga tau ini di apain jadi ga nyala
+- coba pindah monitor dan ganti kabel vga
+- bersihkan port ram, port hdd dan ram nya. bisa
+4. tukar monitor bu adel. done
+- bersihkan monitor dan pasang
+5. setting email putri di pc bu emil. done
+6. cek pulsa dan masa aktif no xl gateway. done
+7. cek jumlah dan kondisi asset di gudang dan catat. progress
+- laptop, minipc dan cpu (mcr, skymedia, ready)
+
 
