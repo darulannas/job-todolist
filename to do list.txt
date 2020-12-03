@@ -1642,5 +1642,20 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - restart script action di 200
 9. koordinasi dengan CRO hypernet perihal perpanjang masakerjasama. done
 
+03/12/20
 
+1. backup cctv priode 22-28. cam 7, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. pandu bu betty untuk akses email via google drive. done
+4. cek module wifi laptop asus digudang untuk laptop pak kres. done
+- cocokan dengan modul laptop pak kres
+5. info bu emil, pak dani di pinjem pak anas untuk bantu pasang parabola. done
+6. kontak exabytes untuk masalah panel centos di vps tidak bisa di akses. progress
+- masalah OOM di server vps
+- solusi nya restart server
+7. pandu bu emil restore email ke laptop. progress
+- data yg dibackup kurang
+8. cek jumlah dan kondisi asset di gudang dan catat. progress
+- laptop, minipc dan cpu (mcr, skymedia, ready)
+- monitor (LG, Samsung, HP/Compaq, Dell)
 
