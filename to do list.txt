@@ -1675,4 +1675,31 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - keyboard (logitech, compaq, hp, enlight, dell, ibm)
 8. backup sms gateway. done
 
+07/12/20
+
+1. troubleshoot inet ruang GA. done
+- di port 5.10 mati
+- sementara pakai wifi tp jadi tidak bisa backup cctv
+- di switch lt.6, cek kondisi kabel, cek kondisi port, lepas pasang. bisa tp ga lama
+- crimping ulang kabel untuk lan ruang GA ada di 5.10
+2. link backup hypernet down. done
+- restart router nya
+- kontak cs hypernet
+- sudah uplink tapi tetap tidak bisa inet ruang GA
+3. reboot router lt.5 krn hang. done
+4. pak anas pinjam mobil. done
+- info ke bu emil
+5. backup cctv priode 29-05. cam 16, cam 15. done
+6. cek sms gateway 1x balasan. done
+- restart script action
+7. no xl tidak bisa terima sms. done
+- telp cs
+- lepas pasang kartu, ganti hp, tes sms dan telpon.
+- dibuat laporan oleh cs dan tunggu. done
+8. reset pass email pak email. done
+9. kontak dan info noc hypernet untuk kendala stream mcr. progress
+- info link stream nya
+- link jika di buka via jaringan skynindo tidak bisa, tp jika diluarnya bisa
+10. info due time domain dan hosting ke bu emil. done
+
 
