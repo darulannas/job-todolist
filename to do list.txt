@@ -1717,4 +1717,34 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - mouse (epraizer, logitech, hp, compaq, campuran)
 - cek kondisi printer (brother, hp, epson, canon)
 5. widya ambil binder hitam. done
+6. info ke bu emil, pak anas pinjam mobil untuk besok. done
+
+10/12/20
+
+1. backup cctv priode 29-05. cam 10, cam 9, cam 8, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. cek sms gateawy. done
+- script tidak hang, tes sms 1x balasan
+- cek trouble di setiap server sms
+- trouble ada di 201, koneksi ulang evoucher pull data dan push data. done
+4. pak ary pinjam mobil + pak dani. done
+5. mengatasi banyak percobaan login di vps skynindo. progress
+- bisa di lihat di ssh
+- kontak support exabytes
+- solusinya install fail to ban di vps
+6. hubungi cs telkomsel dan indosat utk tagihan pascabayar. done
+- nomor cs tidak/susah di hubungi
+- cari dan pelajari dokumen pc putri
+- ada di email okta tagihan nya dan sesuai kan dengan data excel. done
+- cek pin ebill tsel via hp
+7. pak anas reimburse uang bensin. done
+- info ke bu emil
+8. pelajari dan cari cara install fail to ban di vps. progress
+9. info ke bu emil kondisi barang di gudang. progress
+- cari harga barang di gudang yg masih bagus, terutama printer samsung
+- foto rak server untuk dijual
+- rapihkan kabel2 digudang sesuai jenisnya
+- lanjut cek kondisi barang skymedia digudang
+
+
 
