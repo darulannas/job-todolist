@@ -1746,5 +1746,21 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - rapihkan kabel2 digudang sesuai jenisnya
 - lanjut cek kondisi barang skymedia digudang
 
+11/12/20
 
+1. backup cctv priode 29-05. cam 6, cam 5. done
+2. reboot router lt.5 krn hang. done
+3. pak anas pinjam mobil + pak dani. done
+- info ke bu emil
+4. pelajari dan cari cara install fail to ban di vps. progress
+5. error tidak bisa update repository vps skynindo. progress
+- kontak exabytes untuk solusi
+5. indra pinjam kunci gudang untuk cek barang skymedia di lt.1. harus ditemenin ob. done
+- info ke bu emil
+6. backup db accurate finance. done
+7. burning cd dan isi data sesuai yg dikirim bu betty. done
+8. backup sms gateway. done
+- cek kondisi server, pastikan semua normal
+9. pak anas pinjam mobil untuk sabtu, besok. done
+-  info ke bu emil
 
