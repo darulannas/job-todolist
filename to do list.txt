@@ -1764,3 +1764,27 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 9. pak anas pinjam mobil untuk sabtu, besok. done
 -  info ke bu emil
 
+14/12/20
+
+1. backup cctv priode 06-12. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. pak anas reimburse bensin. done
+- info ke bu emil
+4. error tidak bisa update repository vps skynindo. done
+- kontak exabytes untuk solusi
+- masih blm bisa update
+- jika tidak diupdate tidak bisa install atau maintenance sesuatu kedepan nya
+- issue saat ini ingin install fail2ban krn banyak percobaan login hingga ribuan
+- saran nya upgrade paket
+5. cari cara optimalisasi vps ram kecil vps skynindo. done
+- catat history maintenance dari exabytes di ssh
+- repair dan rebuild db rpm
+- clear cache echo3
+6. tagihan air galon 9/12. done
+- info ke bu emil
+7. install fail2ban di vps skynindo. done
+8. cari vendor yg biasa beli tinta. done
+- inti data harco mangga dua
+- bu emil req tinta 745 hitam
+9. ambil uang untuk tinta 745. 185rb. done
+
