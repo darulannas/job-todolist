@@ -1788,3 +1788,24 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - bu emil req tinta 745 hitam
 9. ambil uang untuk tinta 745. 185rb. done
 
+15/12/20
+
+1. backup cctv priode 06-12. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. server vps skynindo internal server error 500. progress
+- kontak exabytes
+- kemungkinan ada update web dari rudy
+- cari cara untuk mengatasi nya
+- fix permission 3 point dari cwp. tidak bisa
+- tunggu konfirm exabytes
+- minta akses ke solusvm untuk reinstall os nya, karena masalah sudah terlalu kompleks
+4. pesan tinta canon 745 bu emil di toped. progress
+5. troubleshoot excel pc widya. done
+6. sms gateway no xl tidak ada balasan sama sekali. progress
+- cek dan tes kirim dan terima tlp,sms
+- hanya bisa terima tlp dan kirim tlp, sms tp terima sms tidak bisa
+- restart, lepas pasang kartu, ganti hp
+- telp operator, tunggu konfirm
+7. pandu amih untuk export dari accurate ke pdf agar hasilnya rapih. done
+
+
