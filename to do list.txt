@@ -1808,4 +1808,31 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - telp operator, tunggu konfirm
 7. pandu amih untuk export dari accurate ke pdf agar hasilnya rapih. done
 
+16/12/20
+
+1. backup cctv priode 06-12. cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. agus sales bu erni pinjam mobil + pak dani. done
+- info ke bu emil
+4. ada org fc cek meteran mesin fc. done
+- ambil dokumennya
+- info ke bu emil
+5. reinstall vps skynindo dan install program sesuai kebutuhan. progress
+- resinstall via solusvm
+- create akun user ssh
+- install lamp
+- tambahkan domain skynindo.tv di vps
+- install mail server (postfix,devcot, squirrelmail)
+- install vpn pptp client dan setting
+- install ftp server dan create akun ftp
+- install fail2ban
+- setting firewald
+- catat info detail dan dokumentasi nya
+6. terima tinta 745 bu emil dan catat. done
+7. sms gateway no xl sudah normal. done
+- sudah ada info dari cs xl
+- info ke cs skynindo
+8. info ke user email skynindo, server sedang perbaikan. done
+9. pandu bu jemmy untuk akses file pdf via adobe reader. done
+
 
