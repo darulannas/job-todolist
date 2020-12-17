@@ -1835,4 +1835,27 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. info ke user email skynindo, server sedang perbaikan. done
 9. pandu bu jemmy untuk akses file pdf via adobe reader. done
 
+17/12/20
+
+1. backup cctv priode 06-12. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. reinstall vps skynindo dan install program sesuai kebutuhan. progress
+- resinstall via solusvm. done
+- create akun user ssh. done
+- install lamp. tidak bisa ganti jadi install cwp. done
+- tambahkan domain skynindo.tv di vps. done
+- install mail server (postfix,devcot, squirrelmail). sudah sepaket dengan cwp. done
+- setting mail server untuk kirim keluar dan tidak masuk folder spam
+- create email tiap user dengan pass sama seperti sebelumnya. done
+- install vpn pptp client dan setting
+- install ftp server dan create akun ftp. done
+- install fail2ban
+- setting firewall csf
+- catat info detail dan dokumentasi nya
+4. troubleshoot pc amih nge freeze. progress
+- lepas kabel power, krn freeze biasanya krn daya psu
+- jika masih error coba bersihkan dalam dan ganti psu
+5. print bukti bayar tinta 745 bu emil dan settle ke finance. done
+6. bu jemmy pinjam mobil + pak dani. info ke bu emil. done
+
 
