@@ -1858,4 +1858,33 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 5. print bukti bayar tinta 745 bu emil dan settle ke finance. done
 6. bu jemmy pinjam mobil + pak dani. info ke bu emil. done
 
+18/12/20
+
+1. backup cctv priode 06-12. cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. reinstall vps skynindo dan install program sesuai kebutuhan. progress
+- resinstall via solusvm. done
+- create akun user ssh. done
+- install lamp. tidak bisa ganti jadi install cwp. done
+- tambahkan domain skynindo.tv di vps. done
+- install mail server (postfix,devcot, squirrelmail). sudah sepaket dengan cwp. done
+- setting mail server untuk kirim keluar dan tidak masuk folder spam (SPF, DMarc, dan PTR record). done
+- create email tiap user dengan pass sama seperti sebelumnya. done
+- install ssl di skynindo.tv. done
+- install vpn pptp client dan setting. done
+- install ftp server dan create akun ftp. done
+- install fail2ban
+- setting firewall csf
+- catat info detail dan dokumentasi nya
+4. cari cara agar sinyal bagus di lampung, punduh pidadah, pesawaran. progress
+- kontak provider
+5. backup db accurate finance. done
+6. install accurate di pc bu jemmy. done
+- setting serial number
+- setting server ke finance
+7. backup sms gateway. done
+- cek dan tes sms
+- cek kondisi server
+
+
 
