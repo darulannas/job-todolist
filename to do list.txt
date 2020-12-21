@@ -1886,5 +1886,26 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek dan tes sms
 - cek kondisi server
 
+19/12/20
+
+1. backup cctv priode 13-19. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet ruang bu jemmy. done
+- cek kabel lan pc bu jemmy
+- restart jaringan pc bu jemmy
+- restart hub di ruang bu jemmy
+4. create email gmail pt untuk keperluan pak ary. done
+5. pak anas pinjam mobil, info ke bu emil. done
+6. cari cara agar sinyal bagus di lampung, punduh pidadah, pesawaran. progress
+- kontak provider
+- sudah di resfresh untuk daerah tsb
+- sinyal sudah tercover
+- alternatif, restart jaringan di pengaturan hp nya
+7. file rar kristin tidak bisa diekstak. done
+- update winrar yg terbaru
+8. rapihkan barang di gudang ruang GA IT. done
+9. install vpn pptp client dan setting. progress
+- masih blm di route ip vpn server skynindo nya
+
 
 
