@@ -1886,7 +1886,7 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek dan tes sms
 - cek kondisi server
 
-19/12/20
+21/12/20
 
 1. backup cctv priode 13-19. cam 1, cam 2. done
 2. reboot router lt.5 krn hang. done
@@ -1906,6 +1906,29 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. rapihkan barang di gudang ruang GA IT. done
 9. install vpn pptp client dan setting. progress
 - masih blm di route ip vpn server skynindo nya
+
+22/12/20
+
+1. backup cctv priode 13-19. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc widya tidak bisa nyala. done
+- hanya hang jadi bisa di restart
+4. troubleshoot pc darul tidak bisa nyala. done
+- pindah port hdmi tetap tidak bisa
+- bersihkan fisik dalam, ram
+- kadang tetap tidak bisa, indikasi masalah port hdmi
+5. troubleshoot pc bu adel, lemot. done
+- clean file temp
+- hapus apl tidak penting
+- tambah memori di c dengan aomei dari d
+6. sms gateway balasan 1x. done
+- tes sms
+- restart script action krn hang
+7. install vpn pptp client dan setting. progress
+- sudah dicoba route tapi error
+- kontak exabytes untuk solusinya
+8. ridwan pinjam mobil + pak dani. done
+- pinjam nya untuk besok, besok pagi diinfo
 
 
 
