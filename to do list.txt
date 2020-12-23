@@ -1930,5 +1930,23 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. ridwan pinjam mobil + pak dani. done
 - pinjam nya untuk besok, besok pagi diinfo
 
+23/12/20
+
+1. backup cctv priode 13-19. cam 5, cam 6, cam 7, cam 8. done
+2. reboot router lt.5 krn hang. done
+3. info ke bu emil, ridwan pinjam mobil + pak dani. done
+4. cari fix asset terbaru di pc putri, info ke bu emil. done
+5. pindahkan barang2 sisa di dari ruang GA ke gudang. done
+6. install vpn pptp client dan setting. progress
+- sudah dicoba route tapi error
+- kontak exabytes untuk solusinya
+- informasi kan info routing vpn nicepay skynindo ke exabytes
+7. backup db accurate finance. done
+8. backup sms gateway. done
+- cek dan tes sms
+- cek kondisi server
+9. cek sms hanya 1x balasan. done
+- restart script action krn hang di 201
+
 
 
