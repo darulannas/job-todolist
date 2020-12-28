@@ -1948,5 +1948,23 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 9. cek sms hanya 1x balasan. done
 - restart script action krn hang di 201
 
+28/12/20
+
+1. backup cctv priode 20-26. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. pandu pak kres untuk akses server skymedia untuk share file ke andika. done
+4. install vpn pptp client dan setting. done
+- sudah dicoba route tapi error
+- kontak exabytes untuk solusinya
+- informasi kan info routing vpn nicepay skynindo ke exabytes
+- sudah di route masih error
+- terus coba koneksi kan dengan server skynindo dan kontak exabytes juga
+- krn PPTP client dan server dengan koneksi chap, disable script refuse chap nya
+5. cek jumlah dan kondisi asset di gudang dan catat. progress
+- cek kondisi dan catat jumlah/no asset monitor skymedia. done
+- catat jumlah/no asset tv. done
+- rapihkan dan pisahkan kabel2 sesuai jenis. progress
+
+
 
 
