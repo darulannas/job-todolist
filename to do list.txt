@@ -1965,6 +1965,31 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - catat jumlah/no asset tv. done
 - rapihkan dan pisahkan kabel2 sesuai jenis. progress
 
+29/12/20
+
+1. backup cctv priode 20-26. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. hosting skymedia tidak bisa diakses untuk email. done
+- cek settingan email
+- cek server email. ada perubahan subdomain di hosting nya, cocokan. done
+4. troubleshoot pc kristin tidak bisa masuk windows. progress
+- cek repair via windows, error
+- restart via tombol power cpu, tidak bisa masuk windows
+- lepas kabel power, bisa masuk. indikasi psu masalah
+- cari psu yg masih bagus digudang
+5. terima invoice RDN, mesin foto copy. done
+- info ke bu emil
+6. cek jumlah dan kondisi asset di gudang dan catat. progress
+- cek kondisi dan catat jumlah/no asset monitor skymedia. done
+- catat jumlah/no asset tv. done
+- rapihkan dan pisahkan kabel2 sesuai jenis. progress
+7. pandu bu adel akses web BI, masuk tanpa SSL. done
+8. info email tagihan air, tsel, isat ke bu emil. done
+9. sms gateway xl tidak ada balasan sama sekali. done
+- cek server sms, normal
+- cek hp xl, tidak bisa terima sms
+- tlp cs xl dan tunggu refresh sinyal
+
 
 
 
