@@ -1990,6 +1990,32 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek hp xl, tidak bisa terima sms
 - tlp cs xl dan tunggu refresh sinyal
 
+30/12/20
+
+1. backup cctv priode 20-26. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. cek pc amih yg katanya seperti ada user lain yg login. done
+- clean virus
+- clean folder tmp
+4. bantu bu jemmy konvert file pdf ke word. done
+- hasil nya jadi dari jpg ke word, dan perlembar
+5. troubleshoot ssms 200 lemot di akses. done
+- db ada di 201, cek kondisi db, restart
+- jika masih berlanjut coba restart 200
+6. backup db accurate finance. done
+7. cek sms gateway 1x balasan. done
+- restart script action krn hang
+8. cek internet skynindo 1 gedung mati. done
+- krn hujan besar dan ada gluduk
+- kontak hypernet untuk uplink lg
+9. backup sms gateway. done
+- tes sms 3 nomor
+- cek kondisi server
+10. troubleshoot laptop bu ernie tidak bisa konek inet. done
+- krn skymedia sedang upload materi besar2an
+- koneksi ulang wifi @wireless
+- test speed
+
 
 
 
