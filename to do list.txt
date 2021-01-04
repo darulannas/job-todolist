@@ -2016,6 +2016,31 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - koneksi ulang wifi @wireless
 - test speed
 
+04/01/21
 
+1. backup cctv priode 27-02. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet ruang hrd mati. done
+- hub terkena sinar matahari langsung
+- hang, lalu restart
+4. cek koneksi vpn di vps skymedia dan route firewall 2 arah ke server skymedia. done
+- req pak kres
+- koneksi vpn aman krn sudah auto connect, sudah di route 2 arah
+- masih error, coba cari cara lain dan kontak exabytes
+- info ke pak rajendra soal skema server skymedia
+- info ke pak raymoond hak akses vps skymedia
+5. terima nota iuran rt dan sampah bulanan. done
+- info ke bu emil
+6. info ke bu emil beli hand sanitizer. done
+7. cek pc bu emil lemot. done
+- hapus folder temp
+8. troubleshoot inet dimas dan bu jemmy. done
+- traffic banyak yg pakai jadi ip mental
+- forget wifi
+9. cek sms gateway 1x balasan. done
+- restart script action krn hang
+10. cek ssms lemot. progress
+- restart server 201
+- masih lemot, indikasi di server 200 dan script action jg hang terus
 
 
