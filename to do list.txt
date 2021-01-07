@@ -2043,4 +2043,33 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - restart server 201
 - masih lemot, indikasi di server 200 dan script action jg hang terus
 
+07/01/21
+
+1. backup cctv priode 27-02. cam 3, cam 4, cam 5, cam 6, cam 7. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot inet lt.3. done
+- restart router
+- koneksi ulang dan kunci ip wifi ridwan dan pak anas
+4. tagihan hypernet sudah ada. done
+- info ke bu emil
+5. req routing ip sesuai yg di info pak raymond ke exabytes. progress
+- untuk VPS skymedia
+6. koordinasi dengan rudy perihal tidak bisa running sistem web ke VPN di VPS skynindo. progress
+- cek koneksi vpn, terkoneksi
+- indikasi masalah routing
+- koneksi vpn error saat di rekoneksi
+- cek refuse CHAP, dan cek koneksi VPN server di skynindo. semuanya lancar
+- kontak exabytes
+- whitelist ip publik hypernet kantor di vps skynindo
+7. cari cara login email bu ernie req bu betty. done
+- erniedeviana@gmail.com
+- sudah dicoba dengan no hp tp tidak bisa
+- create baru email bu ernie untuk urusan pajak bu betty dan catat
+8. troubleshoot pc adit, hang. done
+- clear folder temp
+- restart, dan restore installan sebelumnya
+9. troubleshoot cctv tidak bisa diremote secara online. progress
+- cek internet di routernya. berfungsi ada ada internet nya dicoba dengan laptop
+- cek kabelnya. bagus dan berfungsi 
+- indikasi di software hilook nya. cari cara lain untuk remote
 
