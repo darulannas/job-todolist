@@ -2073,3 +2073,42 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek kabelnya. bagus dan berfungsi 
 - indikasi di software hilook nya. cari cara lain untuk remote
 
+08/01/21
+
+1. backup cctv priode 27-02. cam 8, cam 9, cam 10, cam 11, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot macbook bu ernie tidak konek wifi. done
+- restart wifi
+- koneksi ulang wifi @wireless sampai dpt ip
+4. indra pinjam mobil+pak dani. done
+- info ke bu emil
+5. tagihan air galon des sudah ada. done
+- info ke bu emil
+- cetak file dari bu emil dan kasih ke kristin
+6. req routing ip sesuai yg di info pak raymond ke exabytes. progress
+- untuk VPS skymedia
+- dari pihak exabytes tidak bisa menyamakan routing dengan req dgn alasan infrastruktur
+- info ke grup hypernet
+7. koordinasi dengan rudy perihal tidak bisa running sistem web ke VPN di VPS skynindo. progress
+- cek koneksi vpn, terkoneksi
+- indikasi masalah routing
+- koneksi vpn error saat di rekoneksi
+- cek refuse CHAP, dan cek koneksi VPN server di skynindo. semuanya lancar
+- kontak exabytes
+- whitelist ip publik hypernet kantor di vps skynindo
+- masih tetap tidak bisa di ping API nya, indikasi harus di allow dari route vpn server
+- req pak rajendra untuk cek router server krn saya tidak ada akses
+- masalah beda segmen ip antara API (192.168.20.xx) dan VPN (192.168.21.xx), pihak exabytes pun tidak bisa menyamakan routing dari sisi vps dan server skynindo 
+- solusi, tambahkan ip 192.168.20.00 ke gw 192.168.21.xx di sisi vps
+8. troubleshoot cctv tidak bisa diremote secara online. done
+- update aplikasi hilook nya di dvr dan di hp
+9. backup db accurate finance. done
+10. cek sms gateway 1x balasan. done
+- restart script action krn hang
+11. backup sms gateway.done
+- tes sms dan pastikan 2x balasan
+- cek kondisi server
+12. cek pc kristin tidak bisa print lewat accurate. done
+- bisa pakai cara lain di accurate nya(preview)
+- restart accurate dan normal
+
