@@ -2112,3 +2112,30 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - bisa pakai cara lain di accurate nya(preview)
 - restart accurate dan normal
 
+11/01/21
+
+1. backup cctv priode 03-09. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. citra ambil baterai aaa 4pcs untuk bu ernie, catat. done
+4. jaringan internet skynindo tidak bisa akses ke server exabytes. done
+- tes dengan jaringan lain. bisa
+- kontak exabytes untuk troubleshoot
+- kirim sc traceroute ke ip server exabytes dari jaringan skynindo dan pribadi
+5. cek koneksi vpn ke vps skymedia. req pak raymond. progress
+- koneksi masih down
+- info ke pak raymond cara yg sama dengan saya atasi vps skynindo di no 7 tgl 8
+- coba eksekusi cara tsb, error saat add route ke vpn server skynindo
+- tunggu info pak raymond
+6. info tagihan terbaru jan dari email okta dan putri ke bu emil dari pc putri. done
+7. troubleshoot hp bu jemmy tidak bisa koneksi wifi skynindo. done
+- restart wifi dan forget jaringan sampai dpt ip
+8. cek sms gateway 1x balasan. done
+- restart script action di 200 krn hang
+9. troubleshoot vps skymedia tidak bisa terkoneksi vpn nya. progress
+- konfirmasi untuk install gnome apakah bisa dan mereka blg bisa
+- install sendiri gnome
+- kontak exabytes untuk masalah koneksi vpn yg down dan tunggu
+10. setting download file ke direktori download di pc bu jemmy. done
+11. refill tinta printer hrd warna hitam dan cleaning. done
+12. setting email bu betty di pc nya. harus setting ulang krn masalah routing. done
+
