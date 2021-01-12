@@ -2139,3 +2139,30 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 11. refill tinta printer hrd warna hitam dan cleaning. done
 12. setting email bu betty di pc nya. harus setting ulang krn masalah routing. done
 
+12/01/21
+
+1. backup cctv priode 03-09. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. tlpn iforte untuk tagihan terbaru. done
+- blm dikirim, dan aakan segera
+- info ke bu emil
+4. akses ftp req citra. progress
+- dikirimkan info login nya by email
+- masih kendala 
+- koordinasi masalah ftp dan cara download data nya dengan pihak terkait
+- setting ftp dengan file catalyst kemudian download file yg dimaskud
+5. troubleshoot vps skymedia tidak bisa terkoneksi vpn nya. progress
+- konfirmasi untuk install gnome apakah bisa dan mereka blg bisa
+- install gnome nya. done
+- kontak exabytes untuk masalah koneksi vpn yg down dan tunggu
+- vpn sudah terkoneksi namun masih cukup banyak RTO
+- kontak exabytes untuk minta detail info login vnc untuk kebutuhan gnome
+- setting gnome nya dan infokan detail login VNC ke pak raymond
+6. scan dan kirim invoice by email req bu emil. done
+7. rudy minta lakban coklat x1 dan selotip kecil x1, catat. done
+8. troubleshoot pc bu jemmy bsod lagi. progress
+- sering muncul setelah install accurate
+- cek kondisi fisik ram dan hdd, kondisi bagus semua
+- bu jemmy req install ulang
+- backup data nya
+
