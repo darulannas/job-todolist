@@ -2157,7 +2157,6 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - kontak exabytes untuk masalah koneksi vpn yg down dan tunggu
 - vpn sudah terkoneksi namun masih cukup banyak RTO
 - kontak exabytes untuk minta detail info login vnc untuk kebutuhan gnome
-- setting gnome nya dan infokan detail login VNC ke pak raymond
 6. scan dan kirim invoice by email req bu emil. done
 7. rudy minta lakban coklat x1 dan selotip kecil x1, catat. done
 8. troubleshoot pc bu jemmy bsod lagi. progress
@@ -2165,4 +2164,32 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek kondisi fisik ram dan hdd, kondisi bagus semua
 - bu jemmy req install ulang
 - backup data nya
+
+13/01/21
+
+1. backup cctv priode 03-09. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc bu jemmy bsod lagi. progress
+- sering muncul setelah install accurate
+- cek kondisi fisik ram dan hdd, kondisi bagus semua
+- bu jemmy req install ulang
+- backup data nya. done
+- bersihkan casing dan ganti hdd dengan sebelumnya
+- install ulang windows. progress
+4. rapihkan ip wifi di tiap lantai router. progress
+- rapihkan agar user lt.3 tidak konek ke lt.2 atau lt.5
+- dengan hak akses yg skrg, hanya bisa untuk atur ip wifi tiap lantai
+- rapihkan lt.2. progress
+5. troubleshoot vps skymedia tidak bisa terkoneksi vpn nya. done
+- konfirmasi untuk install gnome apakah bisa dan mereka blg bisa
+- install gnome nya. done
+- kontak exabytes untuk masalah koneksi vpn yg down dan tunggu
+- vpn sudah terkoneksi namun masih cukup banyak RTO
+- kontak exabytes untuk minta detail info login vnc untuk kebutuhan gnome
+- setting gnome nya dan infokan detail login VNC ke pak raymond
+- cek koneksi nya. vpn di vps skymedia sudah running
+6. cek kondisi pc adit lemot. done
+- hapus folder temp
+- restart pc
+
 
