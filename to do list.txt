@@ -2192,4 +2192,28 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - hapus folder temp
 - restart pc
 
+14/01/21
+
+1. backup cctv priode 03-09. cam 11, cam 12, cam 13. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc bu jemmy bsod lagi. progress
+- sering muncul setelah install accurate
+- cek kondisi fisik ram dan hdd, kondisi bagus semua
+- bu jemmy req install ulang
+- backup data nya. done
+- bersihkan casing dan ganti hdd dengan sebelumnya
+- install ulang windows. done
+- recovery data nya yg sudah dibackup
+- install driver dan software yg diperlukan. done
+4. print ke kristin dokumen dari bu emil. done
+5. maintenance pc bu emil. progress
+- bersihkan fisik luar dalam
+- upgrade ram, hanya ada ram 1gb yg compatible. total 3gb
+- install antivirus ringan, hapus yg berat
+- partisi drive c krn hampir habis (salah satu faktor lemot), ambil dari drive d. progress
+6. cek hub ruang hrd. done
+- sering kesenggol jadi suka putus
+- lebih dikencangkan
+- restart hub
+
 
