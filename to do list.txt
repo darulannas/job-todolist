@@ -2216,4 +2216,32 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - lebih dikencangkan
 - restart hub
 
+15/01/21
+
+1. backup cctv priode 03-09. cam 14, cam 15, cam 16. done
+2. reboot router lt.5 krn hang. done
+3. cek koneksi inet di hp bu adel. done
+- forget wifi, restart dan koneksi ulang
+4. cek koneksi inet di hp bu fitri. done
+- forget wifi, restart dan koneksi ulang
+5. req software dari rudy untuk laptop di gudang lt.1
+- download dan install chrome, office 2007
+- download dan install driver dan koneksikan dengan printer hp m125
+- forget wifi, restart dan koneksi ulang krn tidak dpt ip
+6. cek mouse bu betty hang. done
+- krn kabelnya melilit, jadi ketarik. kencangkan
+7. terima invoice dari cbn dan info ke bu emil. done
+8. backup db accurate. done
+9. maintenance pc bu emil. done
+- bersihkan fisik luar dalam
+- upgrade ram, hanya ada ram 1gb yg compatible. total 3gb
+- install antivirus ringan, hapus yg berat
+- partisi drive c krn hampir habis (salah satu faktor lemot), ambil dari drive d. done
+10. backup sms gateway. done
+- cek dan tes sms nya
+- cek kondisi server
+11. cari cara untuk sharing scaner dari printer canon mp250. done
+- download dan install macam2 driver scaner. tidak bisa harus koneksi langsung
+- buat folder hasil scan lalu itu yg disharing.
+
 
