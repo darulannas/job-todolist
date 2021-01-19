@@ -2266,3 +2266,28 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - dengan hak akses yg skrg, hanya bisa untuk atur ip wifi tiap lantai
 - rapihkan lt.2. progress
 
+19/01/21
+
+1. backup cctv priode 10-16. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. rapihkan ip wifi di tiap lantai router. progress
+- rapihkan agar user lt.3 tidak konek ke lt.2 atau lt.5
+- dengan hak akses yg skrg, hanya bisa untuk atur ip wifi tiap lantai
+- rapihkan lt.2. progress
+- ada masalah di akses router lt.5 dan lt.2. tidak bisa terkoneksi tiba2
+- cari cara atasinya
+4. streaming channel mcr masalah req andika. progress
+- indikasi masalah dari router hypernet adanya firewall
+- kontak hypernet untuk cek jalur stream nya
+5. setting pc amih agar bisa akses file di server finance. done
+- coba akses file sharing nya error credential
+- akses dengan username dan pass di pc server finance tetap error
+- cari cara agar bisa akses
+- buat user baru di pc server, dan koneksi kan. done
+6. indra pinjam mobil. done
+- info ke bu emil
+7. troubleshoot akses web faktur yg unsecure, req kristin. done
+- pandu untuk akses lanjutkan nya
+8. install bahasa keyboard chinnese di pc bu jemmy. done
+- setting tambahan jenis bahasa
+
