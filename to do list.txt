@@ -2291,3 +2291,25 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 8. install bahasa keyboard chinnese di pc bu jemmy. done
 - setting tambahan jenis bahasa
 
+20/01/21
+
+1. backup cctv priode 10-16. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. streaming channel mcr masalah req andika. progress
+- indikasi masalah dari router hypernet adanya firewall
+- kontak hypernet untuk cek jalur stream nya
+- kondisi sekarang sering buffering
+4. payment request dan advance payment. done
+- stok habis, print dan rapihkan
+5. cari harga tinta untuk printer brother dcp t500w. done
+- total ada 4 warna
+- perwarna sekitar 60-100rb an
+- ketemu 1 botol tinta hitam
+6. cek sms gateway 1x balasan. done
+- restart script action yg hang
+7. indra pinjam mobil + pak dani. done
+- info ke bu emil
+8. troubleshoot printer hp laserjet di finance. done
+- cek kondisi tutup printernya. sudah terpasang sesuai
+- bersihkan tonernya
+- jaming kertas. ambil dan bersihkan
