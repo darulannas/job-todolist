@@ -2313,3 +2313,31 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - cek kondisi tutup printernya. sudah terpasang sesuai
 - bersihkan tonernya
 - jaming kertas. ambil dan bersihkan
+
+21/01/21
+
+1. backup cctv priode 10-16. cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot beberapa email skynindo.tv masuk spam req bu betty. progress
+- cek settingan email di pc user. sesuai
+- cek server mail di skynindo.tv. sesuai
+- cari mail header di email yg spam dan setting di server sesuai mail header
+4. troubleshoot pc mcr req andika. progress
+- cek pc yg bermasalah di ruang mcr
+- cek kondisi hdd nya. ada error
+- ganti dengan hdd yg ada di stok IT. tetap tidak bisa
+- siapkan 1pc pengganti yg ada vga, krn pc mcr itu untuk streaming jadi tidak bisa lama di maintenance
+5. streaming channel mcr masalah req andika. progress
+- indikasi masalah dari router hypernet adanya firewall
+- kontak hypernet untuk cek jalur stream nya
+- kondisi sekarang sering buffering
+- route nya dipindahkan ke mola.tv
+- tunggu lebih dari 1 hari. klo oke konfirm ke hypernet
+6. troubleshoot php mysql di vps skymedia req pak rajendra. progress
+- di apache service nya running tp tidak bisa muncul di browser
+- cek file info.php di /var/www/html/ dan cek isi nya. sesuai
+- cek versi php
+- kontak exabytes untuk konfirmasi
+- ganti dan install php ke versi 5.6
+7. agus pinjam mobil untuk hari jumat ke bandung. done
+- info ke bu emil
