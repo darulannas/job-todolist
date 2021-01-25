@@ -2379,3 +2379,39 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 9. backup sms gateway. done
 - cek dan tes sms sampai 2x balasan
 - cek kondisi server
+
+25/01/21
+
+1. backup cctv priode 17-23. cam 1, cam 12. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot ssms dan sms gateway tidak bisa diakses. done
+- cek kondisi server 200, 201, 202. running
+- dari notif 200, db tidak terkoneksi dari 201
+- cek db ssms di 201. hang. restart 201
+- masih blm terkoneksi db nya dengan 200. restart
+- cek dan tes koneksi ssms dari pc. done
+- cek dan tes sms tsel, xl dan isat. done
+4. streaming mcr bermasalah lg. progress
+- konfirm ke hypernet dan minta reroute
+- cek dan tes stream, tunggu 1 harian
+- jika masih berlanjut req untuk tambah bw. req pak renault
+5. pesan toner untuk printer rudy lt.1 gudang. done
+- buat form req dan adv payment
+- pesan ke vendor dan pasang. done
+6. troubleshoot inet di lt.1 tidak terkoneksi. progress
+- lt.1 dpt inet dari lt.2
+- cek ip user yg didpt dri lt.2
+- ip masuk ke seg 16 dan jadi guest
+- cek router lt.2. ada masalah offer di AP lt.2
+- kontak pak raymond krn tidak ada akses full. tunggu
+7. cek router tiap lt. progress
+- hanya router lt.5 yg tidak bisa diakses
+- inte lt.5 lancar tdk ada masalah
+- kontak pak raymond krn tidak ada akses full. tunggu
+8. ganti tinta 745 bu ernie dan restock. progress
+- ganti tinta 745 di stock skymedia
+- buat req dan adv payment
+9. troubleshoot vps skynindo banyak email spam. done
+- install dan aktifkan fitur antispam
+- reminder. ini terjadi sejak req kirim email masuk spam
+- tunggu hasilnya jika masih banyak email spam kontak exabytes
