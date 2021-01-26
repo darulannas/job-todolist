@@ -2415,3 +2415,47 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - install dan aktifkan fitur antispam
 - reminder. ini terjadi sejak req kirim email masuk spam
 - tunggu hasilnya jika masih banyak email spam kontak exabytes
+
+26/01/21
+
+1. backup cctv priode 17-23. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. streaming mcr bermasalah lg. progress
+- konfirm ke hypernet dan minta reroute
+- cek dan tes stream, tunggu 1 harian
+- jika masih berlanjut req untuk tambah bw. req pak renault
+- untuk saat ini sudah lancar tapi sore buffer lg
+- req ke hypernet untuk bestpath route
+4. troubleshoot inet di lt.1 tidak terkoneksi. done
+- lt.1 dpt inet dari lt.2
+- cek ip user yg didpt dri lt.2
+- ip masuk ke seg 16 dan jadi guest
+- cek router lt.2. ada masalah offer di AP lt.2
+- kontak pak raymond krn tidak ada akses full. tunggu
+- sudah di bridging ulang
+5. cek email putri untuk tagihan grab req kristin. done
+- ada tagihan terbaru tp tidak ada lampiran
+6. troubleshoot vps skynindo banyak email spam. progress
+- install dan aktifkan fitur antispam
+- reminder. ini terjadi sejak req kirim email masuk spam
+- tunggu hasilnya jika masih banyak email spam kontak exabytes
+- sekarang jadi banyak spam lagi, kontak exabytes untuk konfirm issue sebelumnya
+7. rudi pinjam mobil + pak dani. done
+- info ke bu emil
+- butuh uang bensin. bikin advance
+8. cek sms gateway tidak ada balasan untuk no isat. progress
+- cek dan tes sms untuk ketiga nomor
+- hanya isat yg tidak ada balasan, cek no isat
+- tidak bisa terima sms tp bisa kirim sms, terima tlp dan tlp keluar
+- kasus sama seperti xl biasanya
+- restart hp, ganti hp dan kontak cs isat.
+- sulit dihubungi, info terbaru hanya untuk kirim email ke corporatehelpdesk@indosatooredoo.com
+- cari cara lain
+9. cek sms gateway balasan 1x tsel dan tdk ada untuk xl. done
+- restart script action krn hang, cukup hang parah jadi restart beberapa kali
+- no xl tidak bisa terima sms
+- tlp cs dan coba restart hp dan ganti hp. done
+10. cek kondisi inet di lt.2 untuk pak toni req pak raymond. done
+- wifi tidak bisa terjangkau, AP nya mati ( reminder : issue offered nya pak raymond di router lt.2 )
+- cek inet di sumber kabel LAN
+- buat kabel LAN untuk pak toni dan instalasi
