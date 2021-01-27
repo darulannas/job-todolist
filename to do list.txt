@@ -2459,3 +2459,33 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - wifi tidak bisa terjangkau, AP nya mati ( reminder : issue offered nya pak raymond di router lt.2 )
 - cek inet di sumber kabel LAN
 - buat kabel LAN untuk pak toni dan instalasi
+
+27/01/21
+
+1. backup cctv priode 17-23. cam 7, cam 8, cam 9, cam 10. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot vps skynindo banyak email spam. progress
+- install dan aktifkan fitur antispam
+- reminder. ini terjadi sejak req kirim email masuk spam
+- tunggu hasilnya jika masih banyak email spam kontak exabytes
+- sekarang jadi banyak spam lagi, kontak exabytes untuk konfirm issue sebelumnya
+- vps skynindo masuk blacklist Abusix Mail Intelligence Blacklist
+- request delist dan butuh waktu 12-24 jam. tunggu
+4. cek sms gateway no tsel tidak ada balasan. done
+- kondisi server tidak ada masalah
+- cek dan tes sms. tidak ada balasan
+- tes tlpn ke no tsel. setelah itu sms banyak yg masuk. done
+5. cek sms gateway tidak ada balasan untuk no isat. done
+- cek dan tes sms untuk ketiga nomor
+- hanya isat yg tidak ada balasan, cek no isat
+- tidak bisa terima sms tp bisa kirim sms, terima tlp dan tlp keluar
+- kasus sama seperti xl biasanya
+- restart hp, ganti hp dan kontak cs isat.
+- sulit dihubungi, info terbaru hanya untuk kirim email ke corporatehelpdesk@indosatooredoo.com
+- cari cara lain
+- cari dan telpon cs isat lagi dan buat tiket keluhan
+- refresh jaringan dari cs isat. bisa terima sms lg
+6. cek sms gateway 1x balasan. done
+- restart script action krn hang
+- jika ada banyak nomor top up diwaktu yg sama bisa bikin hang
+- tes sms 3 no gateway, 2x balasan. done
