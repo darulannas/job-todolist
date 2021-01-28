@@ -2489,3 +2489,37 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - restart script action krn hang
 - jika ada banyak nomor top up diwaktu yg sama bisa bikin hang
 - tes sms 3 no gateway, 2x balasan. done
+
+28/01/21
+
+1. backup cctv priode 17-23. cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot vps skynindo banyak email spam. progress
+- install dan aktifkan fitur antispam
+- reminder. ini terjadi sejak req kirim email masuk spam
+- tunggu hasilnya jika masih banyak email spam kontak exabytes
+- sekarang jadi banyak spam lagi, kontak exabytes untuk konfirm issue sebelumnya
+- vps skynindo masuk blacklist Abusix Mail Intelligence Blacklist
+- request delist dan butuh waktu 12-24 jam. tunggu
+- delist sudah, sudah tidak ada spam tapi saat ini email beberapa email kena banyak spam
+- request ke exabytes
+4. refund uang bensin yg rudi minta sebelumnya. done
+- refund ke kristin
+- ambil lg krn pak dani mau isi bensin, dan kasih ke pak dani
+5. rapihkan ip wifi di tiap lantai router. progress
+- rapihkan agar user lt.3 tidak konek ke lt.2 atau lt.5
+- dengan hak akses yg skrg, hanya bisa untuk atur ip wifi lt.2, lt.3, lt.5
+- rapihkan lt.2. done
+- rapihkan lt.3. done
+- ada masalah di akses router lt.5 dan lt.2. tidak bisa terkoneksi tiba2
+- cari cara atasinya
+6. install accurate di pc bu jemmy. done
+- serial no ada di bu adel
+- regis serial no 
+7. pesan tinta canon 745 untuk stock bu erni. done
+- uang sudah ada dari adv pay sebelumnya
+- pesan di toped
+8. troubleshoot pc widya hang mouse tidak gerak. done
+- restart pc
+- hapus folder temp
+- lepas pasang kabel2 di cpu
