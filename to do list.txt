@@ -2523,3 +2523,36 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - restart pc
 - hapus folder temp
 - lepas pasang kabel2 di cpu
+
+29/01/21
+
+1. backup cctv priode 17-23. cam 15, cam 16. done
+2. reboot router lt.5 krn hang. done
+3. create email gmail untuk bu betty, kebutuhan lapor pajak. done
+- info ke bu betty
+4. troubleshoot vps skynindo banyak email spam. done
+- install dan aktifkan fitur antispam
+- reminder. ini terjadi sejak req kirim email masuk spam
+- tunggu hasilnya jika masih banyak email spam kontak exabytes
+- sekarang jadi banyak spam lagi, kontak exabytes untuk konfirm issue sebelumnya
+- vps skynindo masuk blacklist Abusix Mail Intelligence Blacklist
+- request delist dan butuh waktu 12-24 jam. tunggu
+- delist sudah, sudah tidak ada spam tapi saat ini email beberapa email kena banyak spam
+- request ke exabytes, harus ganti password di email yg masalah
+- proses ganti password
+5. buat printer di meja ridwan bisa untuk akses bersama. progress
+- cek koneksi wifi di pc yg di minta
+- ada beberapa yg tidak bisa di koneksikan dengan wifi
+- cek kondisi dan siapkan kabel lan nya. reminder untuk hari senin
+6. backup db accurate finance. done
+7. cek kondisi barang2 yhtv di gudang req bu jemmy. done
+- cek kondisi macbook pro 6 unit, bersihkan. bagus semua
+- cek kondisi cpu asus, bersihkan. tidak bisa nyala sudah di cek ram nya. reminder untuk hari senin
+- cek kondisi minipc asus 4 unit, bersihkan. 3 lemot, 1 bagus
+8. backup sms gateway. done
+- cek dan tes sms ke tiga nomor
+- cek kondisi server
+9. pesan tinta canon 745 untuk stock bu erni. done
+- uang sudah ada dari adv pay sebelumnya
+- pesan di toped
+- tinta sudah ada, dan catat
