@@ -2556,3 +2556,32 @@ https://www.bukalapak.com/p/komputer/laptop/20jmunm-jual-casing-laptop-asus-k401
 - uang sudah ada dari adv pay sebelumnya
 - pesan di toped
 - tinta sudah ada, dan catat
+
+01/02/21
+
+1. backup cctv priode 24-30. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc server production di skymedia tidak bisa diakses. done
+- pc punya nya adit
+- cek kondisi kabel. kabel masih bagus
+- restart router dan restart pc server. done
+4. ridwan pinjam mobil tanpa pak dani. done
+- info ke bu emil
+5. settle tinta 745 skymedia bu ernie. done
+- cetak inv nya dan kasih ke kristin
+6. dokument dhl dan payment requset, bu emil. done
+- cetak dan kasih kristin
+7. cek sms gateway hanya 1x balasan. done
+- restart script action krn hang
+- cek dan test sms
+8. cari alternatif jika teamviewer exp dan vpn tidak bisa diakses. done
+- untuk mengatasi jika ada trouble tapi harus di remote
+- setting remote desktop di ketiga pc it
+- reminder, jika tidak bisa diremote dengan akun user. bisa lihat nama user di c:/user/disini.
+masalah diatas jg bisa untuk trouble di sharing file
+- download dan install teamview full crack di ketiga pc it
+9. install ssl di vps skymedia req pak kres. progress
+- sudah coba diinstall tp gagal krn hanya bisa di domain
+- cari cara install ssl di ip address
+10. clear cache web pajak di pc bu bety. done
+- krn ada masalah dilogin
