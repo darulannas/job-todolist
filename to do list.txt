@@ -2585,3 +2585,31 @@ masalah diatas jg bisa untuk trouble di sharing file
 - cari cara install ssl di ip address
 10. clear cache web pajak di pc bu bety. done
 - krn ada masalah dilogin
+
+02/02/21
+
+1. backup cctv priode 24-30. cam 3, cam 4, cam 5, cam 6. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot hp pak toto tidak bisa koneksi ke wifi. done
+- forget wifi, restart hp dan koneksi ulang
+4. troubleshoot sms gateway ketiga nomor tdk ada balasan di hp cs. progress
+- cek server 200, 201, 2022 dan semua nya normal
+- cek log di hp, hasilnya error sent reply sms. error code 200, tdk ada referensi untuk error tsb
+- backup sms gateway ketiga nomor dan restart. masih tidak bisa
+- restart server 200, 201. masih tidak bisa
+- no xl dan indosat sudah normal
+- cek sms dengan nomor lain. ada yg bisa dibalas ada yg tidak. kemungkinan dari database sms
+- tanya ke rajendra. tidak ada solusi
+- cari cara lain
+5. tagihan RDN mesin fotocopy. done
+- info ke bu emil
+6. ganti pita tinta kristin lx300. done
+- stok ada 2. sisa nya catat
+7. troubleshoot pc asus aset yhtv bu jemmy. progress
+- tes ganti hardisk dan ram. tidak bisa
+- bersihkan lebih detail lg untuk setiap slot dan sirkuit nya. masih tidak bisa
+- reminder untuk coba ganti mainboard dengan stok yg ada
+8. pak rajendra req reinstall vps skymedia ke centos 7. progress
+- info dulu ke pak raymond
+- jika oke, eksekusi
+
