@@ -2650,3 +2650,35 @@ masalah diatas jg bisa untuk trouble di sharing file
 - krn email masuk blacklist tunggu 1x24 jam
 11. buatkan kabel lan untuk erik untuk tes cctv. done
 
+04/02/21
+
+1. backup cctv priode 24-30. cam 11, cam 12, cam 13, cam 14. done
+2. reboot router lt.5 krn hang. done
+3. pak rajendra req reinstall vps skymedia ke centos 7. progress
+- info dulu ke pak raymond
+- jika oke, eksekusi
+- reinstall jadi centos 7
+- install lamp, php versi 5.6. sudah terinstall tp web server tidak bisa running
+- troubleshoot web server nya
+4. troubleshoot kirim email dari skynindo.tv masuk spam. progress
+- cek header mail, contoh dari mail bu bety ke kristin
+- konfirm ke exabytes untuk di delete dari blacklist
+- kirim bukti header email dan isi pesan bounce back
+- tunggu konfirmasi
+- ip vps masuk RBL list, request delist dan tunggu 24jam
+5. troubleshoot pc asus aset yhtv bu jemmy. done
+- tes ganti hardisk dan ram. tidak bisa
+- bersihkan lebih detail lg untuk setiap slot dan sirkuit nya. masih tidak bisa
+- reminder untuk coba ganti mainboard dengan stok yg ada
+- coba pakai di cpu lain untuk ram, hdd. bisa di pc lain
+- ganti baterai CMOS. tetap tdk bisa
+- cek prosesor. prosesor tidak ada
+- yg tidak ada di paket cpu asus ini : prosesor, ram 8gb, vga nvidia. info ke bu jemmy dan erik
+6. hari ini mobil dipakai pak imam. done
+- hari ini di pakai bu jemmy
+- pak imam besok
+7. terima uang tinta dari kristin. 1.470. done
+8. terima tagihan ari galon 01/01/21. done
+- cocokan dengan rincian sebelumnya
+- info ke bu emil
+
