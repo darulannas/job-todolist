@@ -2682,3 +2682,34 @@ masalah diatas jg bisa untuk trouble di sharing file
 - cocokan dengan rincian sebelumnya
 - info ke bu emil
 
+05/02/21
+
+1. backup cctv priode 24-30. cam 15, cam 16. done
+2. reboot router lt.5 krn hang. done
+3. troubleshoot pc bu bety freze mouse tidak gerak. done
+- lepas pasang kabel2 nya
+- restart pc
+4. pak rajendra req reinstall vps skymedia ke centos 7 krn program nya hanya run di centos. progress
+- info dulu ke pak raymond
+- jika oke, eksekusi
+- reinstall jadi centos 7. done
+- install lamp, php versi 5.6. sudah terinstall tp web server tidak bisa running. done
+- troubleshoot web server nya
+- harus di add firewall untuk add service http dan https. done
+- install dan setting pptp vpn client pptp. untuk route info ke pak raymond. done
+- install gnome untuk routing untuk pak raymond. done
+- info detail login ke pak rajendra dan pak raymond
+5. beli tinta di toped dan pisahkan inv tiap pt nya. progress
+- skymedia, 746.1, skynet 745.1, pnb 745.1 746.1, skynindo 810.1 811.1 lx300.1
+6. backup db accurate finance. done
+7. cek cctv tidak bisa diremote online. progress
+- masalah seperti sebelumnya yg harus di restart dvr, cek kabel dan update apl di hp
+- nyangkut di akun sebelumnya, ga sengaja kereset di hp
+- cari cara lain
+8. tukar printer GA dengan bu emil. done
+- install printer di masing2 pc
+9. backup sms gateway. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
+10. print payment req galon dari bu emil, kasih ke kristin. done
+
