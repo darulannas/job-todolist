@@ -2713,3 +2713,32 @@ masalah diatas jg bisa untuk trouble di sharing file
 - cek kondisi server
 10. print payment req galon dari bu emil, kasih ke kristin. done
 
+08/02/21
+
+1. backup cctv priode 24-30. cam 1, cam 2. done
+2. reboot router lt.5 krn hang. done
+3. cek cctv tidak bisa diremote online. progress
+- masalah seperti sebelumnya yg harus di restart dvr, cek kabel dan update apl di hp
+- nyangkut di akun sebelumnya, ga sengaja kereset di hp
+- cari cara lain
+- coba restart dvr dan unlink device. tida bisa
+4. install driver printer canon di pc GA. sebelumnya errror. done
+- install manual driver dri web canon
+- troubleshoot hak akses install. ganti ke admin. bisa
+- troubleshoot can't create file. remove hidden from unknown source. tidak bisa
+- update net framework 4.0. kemudian install driver. done
+- install driver untuk 32 dan 64 bit
+5. beli tinta di toped dan pisahkan inv tiap pt nya. done
+- skymedia, 746.1, skynet 745.1, pnb 745.1 746.1, skynindo 810.1 811.1 lx300.1
+- inv dipisah berdasarkan pt
+- sudah sampai. catat, rapihkan dan kasih inv ke kristin
+6. install ulang win 7 laptop eks bu anis. progress
+- banyak yg minta laptop berkamera untuk zoom meeting. hanya laptop ini yg bisa
+- tapi lemot krn pake win 10 dan ga sesuai spek
+- tidak ada yg perlu di backup krn data kosong
+- install win 7. progress
+7. kirim email dari skynindo.tv keluar masuk spam. progress
+- cek RBL list. tidak ada masalah
+- konfirm exabytes untuk req email keluar masuk spam. tunggu respon
+8. kirim tagihan2 bln 02 ke bu emil. done
+
