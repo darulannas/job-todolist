@@ -2742,3 +2742,34 @@ masalah diatas jg bisa untuk trouble di sharing file
 - konfirm exabytes untuk req email keluar masuk spam. tunggu respon
 8. kirim tagihan2 bln 02 ke bu emil. done
 
+09/02/21
+
+1. backup cctv priode 31-6. cam 3, cam 4. done
+2. reboot router lt.5 krn hang. done
+3. install ulang win 7 laptop eks bu anis. done
+- banyak yg minta laptop berkamera untuk zoom meeting. hanya laptop ini yg bisa
+- tapi lemot krn pake win 10 dan ga sesuai spek
+- tidak ada yg perlu di backup krn data kosong
+- install win 7. done
+- re install win 7 krn file nya ada yg corrupt/crash. done
+- install driver yg diperlukan. done
+- install software yg diperlukan khususnya zoom. done
+4. kirim email dari skynindo.tv keluar masuk spam. progress
+- cek RBL list. tidak ada masalah
+- konfirm exabytes untuk req email keluar masuk spam. tunggu respon
+- request delist RBL skynindo.tv. cari tau knp ini sering terjadi
+- kirim header email yg masuk spam
+5. cek knp router lt.5 selalu mati saat jam 4 sore. progress
+- ada script autoshutdown untuk jam 4 sore
+- krn tidak ada hak akses, minta pak raymond untuk hapus/perbaiki script tsb
+6. cek sms gateway balasan 1x. done
+- restart script action krn hang
+7. tagihan galon 8/2 datang
+8. cek cctv tidak bisa diremote online. done
+- masalah seperti sebelumnya yg harus di restart dvr, cek kabel dan update apl di hp
+- nyangkut di akun sebelumnya, ga sengaja kereset di hp
+- cari cara lain
+- coba restart dvr dan unlink device. tidak bisa
+- lepas pasang kabel lan, restart dvr, restart router. done
+- buat akun dgn email it dan link device dvr. done
+
