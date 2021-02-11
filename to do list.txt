@@ -2802,3 +2802,37 @@ ke router ini
 8. troubleshoot inet laptop rudy di gudang. done
 - forget wifi, restart pc
 9. setting sharing dvr cctv ke hp bu emil. done
+
+11/02/21
+
+1. backup cctv priode 31-6. cam 9, cam 10, cam 11, cam 12. done
+2. cek knp router lt.5 selalu mati saat jam 4 sore. progress
+- ada script autoshutdown untuk jam 4 sore
+- krn tidak ada hak akses, minta pak raymond untuk hapus/perbaiki script tsb
+- reminder pak raymond untuk cek ini krn ada beberapa user yg terkadang nyangkut ip
+- sudah terhapus, tidak perlu restart manual router lagi
+3. sudah ada nota tagihan galon dan tisu. done
+- info ke bu emil
+4. troubleshoot gnome di vps skymedia req pak raymond. done
+- reboot vps dan fresh install gnome
+- reminder, jika gnome blm running di vnc, jalankan script "startx" di ssh
+5. troubleshoot koneksi wifi di hp pak toto. done
+- forget wifi dan koneksi ulang
+6. backup db accurate finance. done
+7. kirim email dari skynindo.tv keluar masuk spam. progress
+- cek RBL list. tidak ada masalah
+- konfirm exabytes untuk req email keluar masuk spam. tunggu respon
+- request delist RBL skynindo.tv. cari tau knp ini sering terjadi
+- kirim header email yg masuk spam
+- konfirm dari exabytes, untuk ke gmail saat ini ada policy jika beberapa kali terdeteksi
+spam maka akan spam trus
+- cek kelengkapan spf, dkm, dmarc. sudah sesuai untuk skynindo.tv
+- ganti hostname ke vps.skynindo.tv dan restart hostname agar bisa kirim email
+- cari cara sendiri untuk atasi kirim email masuk spam
+- spam ini terjadi krn blacklits dari gmail dengan parameter tersendiri
+- req whitelist skynindo.tv ke gmail via https://support.google.com/mail/contact/bulk_send_new
+8. backup sms gateway. done
+- cek dan tes sms sampai 2x balasan
+- cek kondisi server
+9. cek sms gateway hanya 1x balasan, done
+- restart script action di 200 krn hang
