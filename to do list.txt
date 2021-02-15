@@ -2836,3 +2836,36 @@ spam maka akan spam trus
 - cek kondisi server
 9. cek sms gateway hanya 1x balasan, done
 - restart script action di 200 krn hang
+
+15/02/21
+
+1. backup cctv priode 07-13. cam 1, cam 2. done
+2. widya ambil pulpen hitam x1. catat. done
+3. troubleshoot internet hub blok bu fitri dan uut. done
+- cek kondisi hub. lampu indikator lan tidak nyala
+- cek kabel. kondisi bagus. untuk memastikan coba dengan kabel bagus lain. tetap tidak bisa
+- pindah port sumber inet nya. tetap tidak bisa
+- ganti hub dengan stok yg ada. dengan kabel power yg sama. tetap tidak bisa lan nya
+- ganti kabel power. bisa
+- masalah ada dikabel power. ganti dengan stok yg digudang
+4. kasih nota nominal 950rb ke kristin, info bu emil. done
+5. cek cctv lt.6 info bu emil. tidak ada masalah. done
+6. rudy ambil lakban coklat, putih dan selotip. catat. done
+7. pak anas pinjam mobil tanpa pak dani. info ke bu emil. done
+8. pak raymond pinjam tang crimping. done
+9. kirim email dari skynindo.tv keluar masuk spam. progress
+- cek RBL list. tidak ada masalah
+- konfirm exabytes untuk req email keluar masuk spam. tunggu respon
+- request delist RBL skynindo.tv. cari tau knp ini sering terjadi
+- kirim header email yg masuk spam
+- konfirm dari exabytes, untuk ke gmail saat ini ada policy jika beberapa kali terdeteksi
+spam maka akan spam trus
+- cek kelengkapan spf, dkm, dmarc. sudah sesuai untuk skynindo.tv
+- ganti hostname ke vps.skynindo.tv dan restart hostname agar bisa kirim email
+- cari cara sendiri untuk atasi kirim email masuk spam
+- spam ini terjadi krn blacklits dari gmail dengan parameter tersendiri
+- req whitelist skynindo.tv ke gmail via https://support.google.com/mail/contact/bulk_send_new
+- belum ada konfrim dari req whitelist. cek kirim email dan masih masuk spam
+- reminder ke pihak exabytes
+10. setting fd pak toto untuk bootable win 10 dan kirim crack, dan office 2016. done
+11. ambil uang bensin/etoll untuk persiapan. done
