@@ -2869,3 +2869,24 @@ spam maka akan spam trus
 - reminder ke pihak exabytes
 10. setting fd pak toto untuk bootable win 10 dan kirim crack, dan office 2016. done
 11. ambil uang bensin/etoll untuk persiapan. done
+
+16/02/21
+
+1. backup cctv priode 07-13. cam 3, cam 4, cam 5, cam 6. done
+2. pak anas kasih struk etoll dari pinjam mobil kemarin. done
+- info ke bu emil
+3. widya request pesan go box. done
+- koordinasi dengan bu emil
+- kasih form request go box ke widya dan advance ke bu erni
+- masih tunggu kepastian jadi atau tidak nya
+4. install ulang laptop pak toto. progress
+- tidak perlu backup data krn sudah dirapihkan
+- install win 10. error x80070570. cari cara atasinya
+- coba dengan win 8.1. download
+- install driver dan software standar lain nya.
+5. rapihkan penamaan cctv indoor krn ada perubahan letak kamera. progress
+6. cek sms gateway no tsel 1x balasan. done
+- cek dan tes semua nomor
+- restart script action krn hang di 200
+7. terima billing statment dari cbn. done
+- info ke bu emil
