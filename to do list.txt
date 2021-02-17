@@ -2890,3 +2890,32 @@ spam maka akan spam trus
 - restart script action krn hang di 200
 7. terima billing statment dari cbn. done
 - info ke bu emil
+
+17/02/21
+
+1. backup cctv priode 07-13. cam 7, cam 8, cam 9, cam 10. done
+2. pesan toner 85a recycle untuk printer finance bu bety. progress
+- pesan ke seribu bung
+- buat adv dan req. kirim adv ke bu emil
+- toner sudah dtg, pasang di printernya
+3. troubleshoot akun grab bisnis widya. done
+- tidak bisa download voucher
+- restart pc dan restart inet
+4. troubleshoot hasil cetak dari spt tidak sesuai dipc bu bety. done
+- cek hasil pdf nya. hasilnya tidak sesuai
+- cek dari cetakan aplikasinya. sudah ke template jadi 3 lembar yg harusnya 2 lembar
+- tidak ada pengaturan untuk ubah template nya
+- minta bu bety kontak cs nya untuk tanya masalah di aplikasinya
+5. reminder untuk info bu emil tentang kebijakan pengadaan atk tiap 6bln sekali. done
+6. follow up rudy dan fitri untuk req atk. done
+- form req atk kasih ke bu emil
+7. printer hrd hasilnya putus2. done
+- refill tinta hitam krn habis
+- cleaning head catridge
+8. troubleshoot koneksi wifi mac bu jemmy. done
+- restart wifi
+- forget jaringan nya lalu koneksi ulang
+9. cari pc rita req citra. done
+- citra butuh pc bekas rita
+- cari data pc di asset. hanya ada monica dan noni, untuk rita asset nya kosong
+- cari digudang lt.5. tidak ada
