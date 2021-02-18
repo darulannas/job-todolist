@@ -2919,3 +2919,29 @@ spam maka akan spam trus
 - citra butuh pc bekas rita
 - cari data pc di asset. hanya ada monica dan noni, untuk rita asset nya kosong
 - cari digudang lt.5. tidak ada
+
+18/02/21
+
+1. backup cctv priode 07-13. cam 11, cam 12, cam 13, cam 14. done
+2. rapihkan penamaan cctv indoor krn ada perubahan letak kamera. done
+3. setting email pak toto skynindo.tv di pc nya. done
+4. pak toto pinjam mobil tanpa pak dani. progress
+- info ke bu emil
+- kasih uang bensin dan toll 300rb
+- di tunda jadi besok
+5. bu fitri ada tambahan atk. info ke bu emil. done
+6. bu adel req perbaiki laptop asus nya yg lemot. progress
+- laptop sama dengan laptop ex bu anis
+- masalahnya ada di os nya pakai win 10 yg ga comp dengan spek
+- tidak perlu dibackup krn sudah dibackup bu adel
+- install ulang ke win 7. progeress
+- install driver dan software yg diperlukan, seperti
+- office, zoom, browser, c++2019, driver perangkat lainnya
+7. tambahkan database untuk espt 1441 2010 di pc bu bety. done
+- tambah db dengan nama PT.JSI
+- bisa search di google cara tambah db nya krn cukup rumit
+8. install accurate di laptop bu jemmy. progress
+- krn laptop nya mac, cari cara instal accurate di mac
+- install dengan virual wine tapi error
+- cari cara jg untuk lock menu bar di mac. done
+- reminder besok coba install accurate di pc bu jemmy meskipun ada resiko bsod
