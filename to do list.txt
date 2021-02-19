@@ -2945,3 +2945,31 @@ spam maka akan spam trus
 - install dengan virual wine tapi error
 - cari cara jg untuk lock menu bar di mac. done
 - reminder besok coba install accurate di pc bu jemmy meskipun ada resiko bsod
+
+19/02/21
+
+1. backup cctv priode 07-13. cam 15, cam 16. done
+2. bu adel req perbaiki laptop asus nya yg lemot. done
+- laptop sama dengan laptop ex bu anis
+- masalahnya ada di os nya pakai win 10 yg ga comp dengan spek
+- tidak perlu dibackup krn sudah dibackup bu adel
+- install ulang ke win 7. done
+- install driver dan software yg diperlukan, seperti
+- office, zoom, wa, browser, c++2019, driver perangkat lainnya. done
+- khusus wa, krn ini win 7 jadi tidak support. cari cara nya
+- harus install netframework v4.52
+3. troubleshoot inet gedung sky. progress
+- cek traffic di main router lt.3. bw seperti berkurang
+- cek user yg pemakaian nya tidak normal. tidak ada
+- restart main router dan monitoring lg traffic nya. mulai lancar
+- jika masih berlanjut, kontak hypernet krn kondisi disini normal tp kec nya melambat dan sering rto
+- req pak kres kendala di proses upload nya. kontak hypernet
+- berikut infonya : sedang ada problem akses Internasional dan impact ke seluruh ISP di Indonesia.
+Impact nya adalah penurunan kualitas link ke arah international.
+4. backup db accurate finance. done
+5. backup sms gateway. done
+- cek dan tes sms ke tiga nomor. balasan 2x
+- cek kondisi server
+6. siapkan dan rapihkan kabel lan yg cukup panjang untuk dilampung req bu jemmy. done
+- pakai kabel bekas dan penghubungbarel
+- crimping kabel yg sudah tidak bisa
