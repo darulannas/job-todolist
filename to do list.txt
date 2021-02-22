@@ -2973,3 +2973,29 @@ Impact nya adalah penurunan kualitas link ke arah international.
 6. siapkan dan rapihkan kabel lan yg cukup panjang untuk dilampung req bu jemmy. done
 - pakai kabel bekas dan penghubungbarel
 - crimping kabel yg sudah tidak bisa
+
+22/02/21
+
+1. backup cctv priode 14-20. cam 1, cam 2. done
+2. cek vps skynindo.tv. done
+- koneksi vpn terputus. koneksi ulang pppd call vpnconnection1
+- update vps nya dan upgrade
+3. troubleshoot inet gedung sky. done
+- cek traffic di main router lt.3. bw seperti berkurang
+- cek user yg pemakaian nya tidak normal. tidak ada
+- restart main router dan monitoring lg traffic nya. mulai lancar
+- jika masih berlanjut, kontak hypernet krn kondisi disini normal tp kec nya melambat dan sering rto
+- req pak kres kendala di proses upload nya. kontak hypernet
+- berikut infonya : sedang ada problem akses Internasional dan impact ke seluruh ISP di Indonesia.
+Impact nya adalah penurunan kualitas link ke arah international.
+- konfirmasi dengan hypernet. kondisi per senin sudah normal.
+4. cek sms gateway balasan 1x. done
+- restart script action krn hang di 200
+- masih blm bisa. cek kondisi server
+- cek hp sms gateway. tidak ada masalah
+- cek server 200, 201 dan 202. masalah ada di 200
+- restart server dan jalankan script action
+5. ridwan pinjam mobil ke malang tanpa pak dani untuk hari rabu. done
+- pak ary, pak toto dan ridwan
+- ongkkos sudah mereka yg urus tanpa lewat GA
+- info ke bu emil
