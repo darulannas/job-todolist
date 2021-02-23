@@ -2999,3 +2999,25 @@ Impact nya adalah penurunan kualitas link ke arah international.
 - pak ary, pak toto dan ridwan
 - ongkkos sudah mereka yg urus tanpa lewat GA
 - info ke bu emil
+
+23/02/21
+
+1. backup cctv priode 14-20. cam 3, cam 4, cam 5, cam 6. done
+2. rudy ambil lakban coklat x1 lakban bening x1. catat. done
+3. maintenance vps skymedia. done
+- update dan upgrade
+- cek tools nya seperti vpn. kondisi sesuai
+4. cek sms gateway 1x balasan. done
+- restart script action krn hang di 200
+- masih blm bisa. cek kondisi server
+- cek hp sms gateway. tidak ada masalah
+- cek server 200, 201 dan 202. masalah ada di 200
+- restart server dan jalankan script action
+5. troubleshoot pc adit lemot. done
+- arahkan untuk clear folder cache 
+- start, %temp%, del all
+- restart pc
+6. cek, rapihkan, data ulang penggunaan laptop kantor req bu jemmy. progress
+- cek berdasarkan data yg ada dari fix asset terakhir, nanti pastikan dengan user nya
+- rapihkan dan buat data terbaru nya khusus laptop di excel. progress
+- reminder untuk cek fisik nya jika bisa ke tiap user
