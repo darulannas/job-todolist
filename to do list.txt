@@ -3021,3 +3021,38 @@ Impact nya adalah penurunan kualitas link ke arah international.
 - cek berdasarkan data yg ada dari fix asset terakhir, nanti pastikan dengan user nya
 - rapihkan dan buat data terbaru nya khusus laptop di excel. progress
 - reminder untuk cek fisik nya jika bisa ke tiap user
+
+24/02/21
+
+1. backup cctv priode 14-20. cam 7, cam 8, cam 9, cam 10. done
+2. indra req cetak pamflet 1 rim. progress
+- konfirmasi dulu ke bu erni
+- minta softcopy brosur nya dari adit
+- cari histori pesan brosur di email putri. ada dari documentplus
+- cek harga. 1 rim 500rb, a5 2 sisi. info ke bu erni
+- bu erni minta tunda untuk desain nya
+3. troublshoot pc ex nurul tidak mau hidup. done
+- coba hidupkan, tidak bisa. cek kabel. kendor, kencangkan. tetap tidak bisa
+- lepas pasang semua kabel. nyalakan. bisa tp lemot
+- clear folder %temp%
+4. troubleshoot internet pc widya tidak bisa. done
+- cek kabel. tidak ada masalah. mungkin ke geser
+- restart pc. masih tidak bisa
+- uninstall driver network dan restart. bisa
+- jika masalah lg, arahkan untuk disable dan enable network nya
+5. troubleshoot internet pc adit tidak bisa. done
+- kasus sama dengan pc widya
+cek kabel. tidak ada masalah. mungkin ke geser
+- restart pc. masih tidak bisa
+- uninstall driver network dan restart. bisa
+- jika masalah lg, arahkan untuk disable dan enable network nya
+6. terima barang atk pesanan. done
+- atk skynindo req fitri dan skynet req untuk stok GA
+- fitri ambil atk nya, catat dan ttd
+- rapihkan atk stok
+7. diskusi dengan pak anas prihal masalah topup via gkm di indomart. progress
+- ada 3 skenario top up yg dibahas
+- yg jadi masalah ada di skenario 2 :
+- cth : plg top up biasanya 150rb/bln skrg malah jadi 140rb atau nominal dibawah 150rb
+- jika diperhatikan masalah ada pada indikator nominal kode ird topup nya
+- harus req ke pak rajendra yg punya akses sistem db ssms
