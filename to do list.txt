@@ -3056,3 +3056,24 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - cth : plg top up biasanya 150rb/bln skrg malah jadi 140rb atau nominal dibawah 150rb
 - jika diperhatikan masalah ada pada indikator nominal kode ird topup nya
 - harus req ke pak rajendra yg punya akses sistem db ssms
+
+25/02/21
+
+1. backup cctv priode 14-20. cam 11, cam 12, cam 13, cam 14. done
+2. troubleshoot pc widya layarnya tidak tampil. done
+- hard restart. masih tidak bisa
+- kondisi monitor tidak ada indikator lampu nya
+- cek kabel2 nya. lepas pasang kabel2 nya dan bersihkan port vga nya. bisa
+3. troubleshoot pc adit kondisi lemot parah tidak seperti biasanya. done
+- sudah hapus isi temp tp tidak ada perubahan
+- cek penggunaan resource nya. banyak aplikasi running di belakang layar
+- close apl tsb dan kasih arahan untuk close
+- uninstall apl yg tidak perlu seperti cc cleaner krn running di belakang layar jg
+- sudah lumayan normal, restart untuk memaksimalkan
+- jika masih bermasalah. atur jadwal untuk maintenance hardware
+4. troubleshoot pc adit tidak bisa buka file ref dari ss wa. done
+- error terjadi krn software pdf nya corrupt
+- install ulang adobe acrobat xi. done
+5. cek sms gateway 1x balasan. done
+- restart script action krn hang
+- cek da tes sms
