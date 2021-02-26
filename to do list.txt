@@ -3077,3 +3077,24 @@ cek kabel. tidak ada masalah. mungkin ke geser
 5. cek sms gateway 1x balasan. done
 - restart script action krn hang
 - cek da tes sms
+
+26/02/21
+
+1. backup cctv priode 14-20. cam 15, cam 16. done
+2. backup db accurate finance. done
+3. cari usb hub port di gudang req bu adel. done
+- cari digudang dan di lemari2 ruang GA. tidak ada
+- info ke bu adel, bisa untuk beli
+4. backup sms gateway. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
+5. setting pc reni untuk akses hdd ekternal di pc server finance. done
+- ip nya ada di 18
+- setelah terkoneksi, maping untuk folder network share nya
+6. maintenance vps skynindo.tv. done
+- koneksi vpn terputus. koneksi ulang pppd call vpnconnection1
+- update vps nya dan upgrade
+- cek tools nya seperti vpn. normal
+7. maintenance vps skymedia. done
+- update vps nya dan upgrade
+- cek tools nya seperti vpn. normal
