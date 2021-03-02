@@ -3098,3 +3098,29 @@ cek kabel. tidak ada masalah. mungkin ke geser
 7. maintenance vps skymedia. done
 - update vps nya dan upgrade
 - cek tools nya seperti vpn. normal
+
+02/03/21
+
+1. backup cctv priode 21-27. cam 3, cam 4, cam 5, cam 6. done
+2. tagihan iuran rt udh ada. done
+- info ke bu emil
+3. pak ary minta form req payment. done
+- stok habis, print
+- krn stok habis jadi sekalian print dan rapihkan semua form req payment
+4. troubleshoot pc ga tidak bisa share printer. done
+- ket nya server offline di pc darul
+- cek status printer di pc ga, kondisi sesuai
+- cek ip nya di pc ga. ip berubah
+- koneksi ulang printer
+5. rapihkan dokumen pekerjaan rutin di meja ga. done
+- dokumen tagihan air dan cbn
+- dokumen form borrowing car
+- dokumen form2 dan print yg sudah habis
+6. ganti toner 746 di printer GA krn tidak bisa print. done
+- catat data pergantian nya
+7. maintenance hardware pc adit krn lemot. progress
+- bersihkan fisik cpu luar dalam
+- repasta prosesor
+- setelah dirapihkan pc tidak nyala. kipas mati hidup
+- indikasi ada di psu krn tidak tampil di monitor sama sekali
+- cari psu yg sesuai digudang. progress
