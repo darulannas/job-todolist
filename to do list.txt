@@ -3124,3 +3124,34 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - setelah dirapihkan pc tidak nyala. kipas mati hidup
 - indikasi ada di psu krn tidak tampil di monitor sama sekali
 - cari psu yg sesuai digudang. progress
+
+03/03/21
+
+1. backup cctv priode 21-27. cam 7, cam 8. done
+2. pak jamal ambil tanda terima untuk resepsionis. done
+- stok sisa 1. untuk skrg tanda terima dll kosong
+3. maintenance hardware pc adit krn lemot. progress
+- bersihkan fisik cpu luar dalam
+- repasta prosesor
+- setelah dirapihkan pc tidak nyala. kipas mati hidup
+- indikasi ada di psu krn tidak tampil di monitor sama sekali
+- cari psu yg sesuai digudang. pake psu yg bagus jg tetap tidak bisa
+- bersihkan lg slot ram dan slot prosesor
+- respasta lg prosesor nya
+- rapihkan dan semua sudah normal
+4. rudy req cetak tanda terima dll. progress
+- semua stok nya sudah kosong
+- info ke bu emil. vendor nya pakai ilham
+5. tagihan fotocopy dan iuran rt datang. done
+- info ke bu emil
+6. ridwan pinjam mobil tanpa pak dani untuk hari kamis. done
+- info ke bu emil
+7. install driver scaner printer brother di pc bu emil. done
+- cari dan download driver nya
+- install run as admin
+- sekalian uninstall driver printer canon sebelumnya
+8. troubleshoot excel di pc bu adel. crash. done
+- force close excel nya
+- buat excel contoh. bisa tanpa kendala
+- buka excel yg crash. masih crash kemungkinan krn datanya banyak/berat
+- jika masih masalah akan di refresh install
