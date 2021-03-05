@@ -3179,3 +3179,32 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - di pc ex nurul, cek driver printer dan hapus spooling nya kemudian restart pc
 - di pc widya , cek driver printer dan hapus spooling nya kemudian restart pc
 - sudah bisa tp tinta nya sudah mau habis
+
+05/03/21
+
+1. backup cctv priode 21-27. cam 11, cam 12. done
+2. troubleshoot laptop emachines req bu jemmy. done
+- ada masalah di google chrome
+- laptop kondisi baik semua kecuali chrome krn terinstall chromium yg dianggap virus
+- uninstall sampai 100% chromium nya
+- hapus folder chromium nya
+- chrome/ firefox tidak bisa buka web wa. masalah krn win xp tidak support
+- bu jemmy req install ulang win 7
+- backup data2 nya dan ss untuk aplikasi terinstall nya. done
+- install ke win 7 32 bit. done
+- install driver basic dan apl basic. done
+- pindahkan data backupan nya ke semula
+3. troubleshot printer hrd tidak bias print di pc pak ary. done
+- notif error tidak seperti sebelumnya
+- koneksi ulang printer ke pc ana jg ada notif error
+- restart printer dan pc pak ary. masih blm bisa
+- reminder untuk besok cari solusinya
+- sekarang sudah normal. kemungkinan dari pc ana yg harus di restart juga
+4. backup db accurate finance. done
+5. cari draft tanda terima dll di pc ga dan kirim ke bu emil untuk dicetak. done
+6. rudy pinjam mobil untuk senin. done
+- info ke bu emil
+7. mouse pc amih rusak, tukar yg masih bagus dari gudang. done
+8. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
