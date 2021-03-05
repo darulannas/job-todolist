@@ -3155,3 +3155,27 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - buat excel contoh. bisa tanpa kendala
 - buka excel yg crash. masih crash kemungkinan krn datanya banyak/berat
 - jika masih masalah akan di refresh install
+
+04/03/21
+
+1. backup cctv priode 21-27. cam 9, cam 10. done
+2. citra ambil baterai aa x1 untuk jam ruang skymedia. catat. done
+3. burning cd win 10 dan crack untuk uut. done
+4. troubleshoot laptop emachines req bu jemmy. done
+- ada masalah di google chrome
+- laptop kondisi baik semua kecuali chrome krn terinstall chromium yg dianggap virus
+- uninstall sampai 100% chromium nya
+- hapus folder chromium nya
+- chrome/ firefox tidak bisa buka web wa. masalah krn win xp tidak support
+- bu jemmy req install ulang win 7
+- backup data2 nya dan ss untuk aplikasi terinstall nya. progress
+5. troubleshot printer hrd tidak bias print di pc pak ary. progress
+- notif error tidak seperti sebelumnya
+- koneksi ulang printer ke pc ana jg ada notif error
+- restart printer dan pc pak ary. masih blm bisa
+- reminder untuk besok cari solusinya
+6. troubleshoot printer skymedia widya. done
+- tidak bisa print ke printer laserjet dan canon
+- di pc ex nurul, cek driver printer dan hapus spooling nya kemudian restart pc
+- di pc widya , cek driver printer dan hapus spooling nya kemudian restart pc
+- sudah bisa tp tinta nya sudah mau habis
