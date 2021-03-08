@@ -3208,3 +3208,32 @@ cek kabel. tidak ada masalah. mungkin ke geser
 8. backup sms gateway ketiga nomor. done
 - cek dan tes sms ketiga nomor
 - cek kondisi server
+
+08/03/21
+
+1. backup cctv priode 28-06. cam 1, cam 2. done
+2. pak anas pinjam mobil + pak dani. done
+- berangkat jam 10
+- ternyata bentrok dgn rudy kirim barang hari ini
+- atur agar rudy bisa pake sore atau besok
+- pak anas pakai sampai sore. ganti jadwal rudy ke besok
+- info ke bu emil
+3. troubleshoot pc bu fitry tidak bisa internet. done
+- cek main hub tim sales diruang dth. normal
+- cek hub tambahan untuk ke pc bu fitry. mati
+- reboot manual. jika masih berlanjut, ganti kabel adapter nya lg
+4. pc diruang mcr mouse nya bermasalah. kasih mouse yg bagus ke andika. done
+5. cetak form dari bu emil. kasih ke kristin. done
+6. maintenance pc widya krn sering hang. done
+- maintenance hardware
+- bersihkan fisik luar dalam
+- repasta prosesor nya
+- cek kembali kondisi nya. sudah bagus
+7. troubleshot pc ridwan. tidak bisa scan dri printer hp. done
+- cek driver printer dan scan nya. seperti error corrupt
+- cari dan download driver hp m125
+- install driver nya dan setting
+8. pak kres minta di cek server yg digudang. progress
+- kemungkinan psu rusak
+- bersihkan fisik dalam nya dan maintenance
+- cari barang dan harga di online. kemudian ajukan. progress
