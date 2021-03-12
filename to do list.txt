@@ -3262,3 +3262,27 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - jika terus berlanjut dan tidak bisa lg. coba pakai switcher printer
 7. arahkan reni cara scan file dengan high dpi. done
 8. erick pinjam pak dani untuk besok tanpa mobil. done
+
+12/03/21
+
+1. backup cctv priode 28-06. cam 8, cam 9. done
+2. rincian tagihan air ketiga dtg. done
+3. tagihan iforte dtg. info ke bu emil. done
+4. ak kres minta di cek server yg digudang. progress
+- kemungkinan psu rusak
+- bersihkan fisik dalam nya dan maintenance
+- cari barang dan harga di online. kemudian ajukan. progress
+- pastikan lg masalahnya ada dimana
+- cek dan tes psu. tidak bisa
+- ganti ke psu yg bisa. semua jadi normal
+- cukup sulit cari stok psu server ini krn model lama
+- tanya pak kres toko referensi server. tidak ada solusi
+- cari terus sampai dapat. info toko yg sudah di dapat ke pak kres
+5. rudy ambil cutter kecil. tp minta nya cutter sedang. done
+- reminder untuk beli cutter sedang nya
+6. backup db acccurate finance. done
+7. install ulang laptop ridwan ke win 7 krn lemot ga sesuai spek. progress
+- cek, backup dan rappihkan datanya. data nya cukup banyak dan detail. progress
+8. backup sms gateway ketiga nomor. done
+- cek dan tes sms ke tiga nomor
+- cek kondisi server
