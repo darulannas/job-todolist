@@ -3286,3 +3286,24 @@ cek kabel. tidak ada masalah. mungkin ke geser
 8. backup sms gateway ketiga nomor. done
 - cek dan tes sms ke tiga nomor
 - cek kondisi server
+
+15/03/21
+
+1. backup cctv priode 07-13. cam 1, cam 2. done
+2. troubleshoot internet di ruang hrd. done
+- cek kabel lan. agak kendor
+- lepas pasang, kencangkan dan restart manual hub nya
+3. pak anas pinjam mobil + pak dani hari ini. done
+- kasih uang 100rb utk etoll
+- info ke bu emil dan pak dani
+4. kasih uang parkir dan etoll ke pak dani. done
+5. andika pinjam mobil + pak dani untuk besok. done
+- info ke bu emil dan pak dani
+6. install ulang laptop ridwan ke win 7 krn lemot ga sesuai spek. progress
+- cek, backup dan rappihkan datanya. data nya cukup banyak dan detail. done
+- install win 7 64 via cd krn via usb tidak bisa. dan banyak crash nya. done
+- install driver nya. progress
+- install software basic dan request. progress
+7. widya ambil tanda terima x1. catat. done
+8. pak anas ambil bukti trf x10. catat. done
+9. rudy ambil tanda terima x1. catat. done
