@@ -3326,3 +3326,28 @@ cek kabel. tidak ada masalah. mungkin ke geser
 6. kasih surat perjanjian sewa ke lt.2. done
 7. hari ini jadwal mobil untuk andika. done
 8. dapat akses full main router dari pak raymond. done
+
+17/03/21
+
+1. backup cctv priode 07-13. cam 7, cam 8. done
+2. tagihan galon bulan maret datang. done
+3. troubleshoot hp ridwan tidak bisa koneksi wifi. done
+- tidak bisa di @internet
+- forget dan koneksi ulang di @wireless
+4. troubleshoot pc adit space di c selalu penuh. progress
+- cek aplikasi saat berjalan
+- cek folder di c yg makan memori
+- ada dari adobe primere yg makan memeori dari temp saat running dan render
+- backup data di e ke h agar bisa di repartisi ke c. progress
+5. install ulang laptop ridwan ke win 7 krn lemot ga sesuai spek. done
+- cek, backup dan rappihkan datanya. data nya cukup banyak dan detail. done
+- install win 7 64 via cd krn via usb tidak bisa. dan banyak crash nya. done
+- install driver nya. done
+- install software basic dan request, nitro. done
+- restore data yg sebelumnya dibackup. done
+- install dropbox dekstop dan scanner hp. 2 apl tsb tdk bisa di install. cari cara. progress
+- pakai offline installer dari forum. bisa
+6. kirim office 2016 ke uut. done
+7. cek sms gateway. balasannya error tidak seperti biasa. progress
+- cek server. ada yg terlihat tidak seperti biasanya. restart server 200 dan 201
+- tunggu konfirmasi dari cs
