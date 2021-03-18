@@ -3351,3 +3351,27 @@ cek kabel. tidak ada masalah. mungkin ke geser
 7. cek sms gateway. balasannya error tidak seperti biasa. progress
 - cek server. ada yg terlihat tidak seperti biasanya. restart server 200 dan 201
 - tunggu konfirmasi dari cs
+
+18/03/21
+
+1. backup cctv priode 07-13. cam 9, cam 10, cam 11, cam 12. done
+2. fokus ke jaringan
+3. bantu rudy untuk akses dan download apl skynindo. done
+4. cek pc bu jemmy internet mati. done
+- kabel lan hanya kendor
+5. mobil service hari ini. terima inv nya. done
+6. cetak document dari bu emil dan kasih kristin beserta inv service mobil. done
+7. troubleshoot laptop teluk gong, office nya exp tidak bisa di apa2in. done
+- cek versi office. office 365. sdh exp
+- coba crack dengan crackan yg ada. tidak bisa
+- uninstall dan install office 2019. done
+8. troubleshoot pc adit space di c selalu penuh. progress
+- cek aplikasi saat berjalan
+- cek folder di c yg makan memori
+- ada dari adobe primere yg makan memeori dari temp saat running dan render
+- backup data di e ke h agar bisa di repartisi ke c. done
+- proses partisi dgn aomei dari e ke c. ambil 200gb. progress
+9. andika pinjam mobil hari ini + pak dani. done
+- info bu emil dan pak dani
+10. install accurate di pc erik req bu jemmy. done
+- data serial no ada di bu adel
