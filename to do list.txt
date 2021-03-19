@@ -3375,3 +3375,24 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - info bu emil dan pak dani
 10. install accurate di pc erik req bu jemmy. done
 - data serial no ada di bu adel
+
+19/03/21
+
+1. backup cctv priode 07-13. cam 13, cam 14. done
+2. ambil tagihan listrik yg salah di lt.2. done
+3. tagihan air galon ke 4 bln maret. done
+4. andika pinjam mobil + pak dani. done
+- info ke bu emil dan pak dani
+5. backup db accurate finance. done
+6. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
+7. cek sms ketiga nomor tidak ada balasan 2x. done
+- restart script action di 200 krn hang
+8. troubleshoot pc ana ada masalah. done
+- pc awalnya hang lalu di resboot manual
+- error dan tidak bisa membaca disk, dari notif nya
+- cek fisik memori dan bersihkan
+- lepas pasang kabel2 nya
+- sudah bisa masuk windows dan harus di repair untuk restore. done
+9. serahkan tagihan listrik terbaru ke lt.2 dan tulis tanda terima. done
