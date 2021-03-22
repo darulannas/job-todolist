@@ -3396,3 +3396,22 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - lepas pasang kabel2 nya
 - sudah bisa masuk windows dan harus di repair untuk restore. done
 9. serahkan tagihan listrik terbaru ke lt.2 dan tulis tanda terima. done
+
+22/03/21
+
+1. backup cctv priode 14-20. cam 1, cam 2. done
+2. troubleshot hp ridwan tidak bisa dpt ip. done
+- forget semua jaringan dan tambahkan hanya 1 jaringan
+3. orang foto copy dtg untuk cek meteran. ttd form. done
+4. troubleshoot pc widya tiba2 hang. done
+- tampilan terakhir tidak sedang multitasking
+5. troubleshoot printer hrd tidak bisa dri pc pak ary. done
+- sumber masalah ada di pc server/ana
+- restart pc ana
+6. ijin ke kpp grogol urus pajak. done
+- harus daftar antrian online dan udh penuh seminggu ini
+- cari info lg di online
+7. kasih bukti bensin dan etoll terakhir ke bu emil. done
+8. rapihkan ip2 di main router. progress
+- ip untuk tiap user
+9. cetak a4 dilarang merokok. done
