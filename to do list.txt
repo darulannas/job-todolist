@@ -3415,3 +3415,23 @@ cek kabel. tidak ada masalah. mungkin ke geser
 8. rapihkan ip2 di main router. progress
 - ip untuk tiap user
 9. cetak a4 dilarang merokok. done
+
+24/03/21
+
+1. backup cctv priode 14-20. cam 7, cam 8. done
+2. troubleshoot pc ana hang. done
+- masalah seperti nya ada di psu
+- windows jadi hang dan proses repairnya pun hang
+- lepas pasang kabel sata hdd
+- repair ulang windows nya. done
+- install dan setting google drive untuk sinkron backup data hrd
+- cari psu pc yg masih bisa digudang. cpu yg sejenis pada rusak
+- cek dengan psu pc mcr. tidak compatible
+- cek dengan psu seadanya. pasang. progress
+3. troubleshoot hp ridwan tidak dapat ip. done
+- forget semua jaringan nya dan koneksi ulang
+4. cari software scan printer untuk printer hp req ridwan. progress
+- hanya ada driver, software nya dari bawaan windows. tidak bisa ke pdf
+- cari software scan alternatif
+- pakai software scanpaper. download
+- install dan setting di laptop ridwan
