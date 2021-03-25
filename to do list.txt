@@ -3435,3 +3435,27 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - cari software scan alternatif
 - pakai software scanpaper. download
 - install dan setting di laptop ridwan
+
+25/03/21
+
+1. backup cctv priode 14-20. cam 9, cam 10. done
+2. troubleshoot pc ana hang. done
+- masalah seperti nya ada di psu
+- windows jadi hang dan proses repairnya pun hang
+- lepas pasang kabel sata hdd
+- repair ulang windows nya. done
+- install dan setting google drive untuk sinkron backup data hrd
+- cari psu pc yg masih bisa digudang. cpu yg sejenis pada rusak
+- cek dengan psu pc mcr. tidak compatible
+- cek dengan psu seadanya. pasang. done
+- cek dan tes cpu nya dan tunggu paling tidak 2 hari
+3. andika pinjam mobil + pak dani hari ini. done
+- info ke bu emil dan pak dani
+4. ridwan pinjam mobil utk minggu depan selama 5 hari. done
+- info ke bu emil
+5. citra minta 2 mouse untuk editor. ada stok mouse bekas masih bagus. done
+6. cari barang psu server ens-600w untuk pak kres. done
+- cari diruang mcr jika ada stok yg sama. tidak ada
+- psu server ini harus import krn tidak ada stok dari olshop
+- ada di aliexpress
+- buat request form dan ttd pak kres
