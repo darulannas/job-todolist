@@ -3459,3 +3459,23 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - psu server ini harus import krn tidak ada stok dari olshop
 - ada di aliexpress
 - buat request form dan ttd pak kres
+
+26/03/21
+
+1. backup cctv priode 14-20. cam 11, cam 12. done
+2. troubleshoot internet di ruang hrd. done
+- indikasi kabel sudah bermasalah
+- solusi awal cukup di lepas pasang kable lalu restart hub
+3. troubleshoot pc citra tidak bisa akses/tandai server 202 server skymedia. done
+- cek koneksi ke 202. bisa tidak ada masalah
+- cari cara untuk maping server 202
+- cukup di pin di quick akses nya
+4. cek sms gateway 1x balasan. done
+- restart script action krn hang
+- cek dan tes ketiga nomor
+5. catat dan rapihkan masa berlaku domain dan hosting skygroup. done
+6. backup db accurate finance. done
+7. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
+8. tagihan galon ke 4 bln maret datang. done
