@@ -3501,3 +3501,21 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - cek dengan psu seadanya. pasang. done
 - cek dan tes cpu nya dan tunggu paling tidak 2 hari
 - kondisi normal. masalah ada di psu yg lama. tandai psu yg lama
+
+30/03/21
+
+1. backup cctv priode 21-27. cam 3, cam 4, cam 5, cam 6. done
+2. troubleshoot pc bu jemmy selalu muncul captcha di browser nya. progress
+3. troubleshoot printer bu ernie tidak bisa print. done
+- info tinta abis. siapkan stok tinta
+- tinta tidak ada masalah, hanya masalah di spooling printernya. tahan tombol reset
+4. cetak form dari bu emil kasih ke kristin. done
+5. troubleshoot masalah vpn skynindo untuk dealer (xlink, gkm, nicepay). progress
+- cek router rb2011, restart. sudah tp tetap rto
+- cek router 450, restart. sudah tp tetap rto
+- kotak iforte krn masalah ada di ip publik nya 252. ip tsb tidak ada kendala
+- info ke pak rajendra dan diskusi dengan pak anas
+- coba cek koneksi ip 252 dengan akun nicepay yg ada. hasil nya rto
+- info ke pak rajendra klo masalah pasti nya ada di rb2011 krn itu router untuk vpn
+- pak rajendra jg tidak punya akses. akhirnya info ke pak raymond. tunggu di cek
+6. mobil di pake pak dani untuk antar barang bu jemmy. done
