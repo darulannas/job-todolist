@@ -3519,3 +3519,27 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - info ke pak rajendra klo masalah pasti nya ada di rb2011 krn itu router untuk vpn
 - pak rajendra jg tidak punya akses. akhirnya info ke pak raymond. tunggu di cek
 6. mobil di pake pak dani untuk antar barang bu jemmy. done
+
+31/03/21
+
+1. backup cctv priode 21-27. cam 7, cam 8, cam 9, cam 10. done
+2. cari barang psu server ens-600w untuk pak kres. progress
+- cari diruang mcr jika ada stok yg sama. tidak ada
+- psu server ini harus import krn tidak ada stok dari olshop
+- ada di aliexpress
+- buat request form dan ttd pak kres
+- uang di trf dari finance
+- pembayaran aliexpress yg memungkinan via doku wallet. bikin akun dan proses
+- tunggu pengiriman 20-30 hari. progress
+3. troubleshoot masalah vpn skynindo untuk dealer (xlink, gkm, nicepay). progress
+- cek router rb2011, restart. sudah tp tetap rto
+- cek router 450, restart. sudah tp tetap rto
+- kotak iforte krn masalah ada di ip publik nya 252. ip tsb tidak ada kendala
+- info ke pak rajendra dan diskusi dengan pak anas
+- coba cek koneksi ip 252 dengan akun nicepay yg ada. hasil nya rto
+- info ke pak rajendra klo masalah pasti nya ada di rb2011 krn itu router untuk vpn
+- pak rajendra jg tidak punya akses. akhirnya info ke pak raymond. tunggu di cek
+- belum ada update dari pak raymond. cek koneksi server vpn, masih error
+4. terima dan koreksi form req atk skymedia. done
+- info ke bu emmil
+- ada beberapa atk yg ada stok nya. kasih ke widya dan catat
