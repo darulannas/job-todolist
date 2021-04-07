@@ -3543,3 +3543,69 @@ cek kabel. tidak ada masalah. mungkin ke geser
 4. terima dan koreksi form req atk skymedia. done
 - info ke bu emmil
 - ada beberapa atk yg ada stok nya. kasih ke widya dan catat
+
+01/04/21
+
+1. backup cctv priode 21-27. cam 11, cam 12, cam 13, cam 14. done
+2. ridwan pinjam mobil untuk minggu depan. done
+- info ke bu emil
+- form pinjam mobil sendiri nya habis. cetak dan rapihkan
+3. troubleshoot masalah vpn skynindo untuk dealer (xlink, gkm, nicepay). progress
+- cek router rb2011, restart. sudah tp tetap rto
+- cek router 450, restart. sudah tp tetap rto
+- kotak iforte krn masalah ada di ip publik nya 252. ip tsb tidak ada kendala
+- info ke pak rajendra dan diskusi dengan pak anas
+- coba cek koneksi ip 252 dengan akun nicepay yg ada. hasil nya rto
+- info ke pak rajendra klo masalah pasti nya ada di rb2011 krn itu router untuk vpn
+- pak rajendra jg tidak punya akses. akhirnya info ke pak raymond. tunggu di cek
+- belum ada update dari pak raymond. cek koneksi server vpn, masih error
+- forward notif error nya dari pak raymond ke iforte, krn ad jaringan internal iforte yg mengganggu 252
+- info dari iforte ada masalah di routernya
+- atur jadwal untuk besok pergantian router iforte
+4. cek sms tidak ada balasan kedua. done
+- restart script action krn hang
+- cek dan tes sms ketiga nomor
+5. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
+
+05/04/21
+
+1. backup cctv priode 28-03. cam 1, cam 2. done
+2. uang bulanan rt sudah ada. done
+- info ke bu emil
+3. mouse adit rusak, ganti dengan mouse yg masih bisa di gudang, catat. done
+4. cek laptop pak imam. done
+- laptop tidak bisa nyala
+- cek kondisi baterai, charger, ram. tidak ada masalah
+- saat dinyalahkan tidak kuat langsung mati, masalah di vga
+5. uut minta software adobe collection, copy dan kasih ke hdd. done
+6. troubleshoot printer bu ernie tidak bisa print. done
+- tekan lama tombol reset
+- test print dengan scan
+7. pastikan ridwan jadi pake mobil seminggu ini, pak toto sudah masuk. done
+8. cek sms gateway tidak ada balasan di semua nomor. done
+- restart script action krn hang
+9. cek sms gateway no xl dan indosat tidak ada balasan. done
+- cek server 200. script action normal
+- cek hp xl dan indosat. hp mati, mungkin mati tiba2 aja. reboot. done
+
+07/04/21
+
+1. backup cctv priode 28-03. cam 7, cam 8. done
+2. cek vps skymedia vpn tidak bisa terkoneksi. done
+- cek settingan untuk autoconnect vpn
+- settingan berbeda krn pak raymond yg setting
+3. cek internet lt.3 lemot. done
+- cek user yg traffic nya tinggi, ada user uut
+- restart router lt.3 dan main router
+- download sdh normal tp upload masih blm. tunggu
+4. andika req psu sorsair cv550 untuk pc mcr x5. progress
+- cari harga dan tipe nya
+- info ke buemil
+- tunggu approval untuk payment req
+5. minta ttd untuk form nya bu emil ke bu ernie. done
+6. cek ip untuk internet pak renault susah koneksi. progress
+- ada beberapa perangkat sudah terkoneksi
+- reminder besok untuk pembaruan ip pak renault
+7. reminder besok untuk minta tdd pak renault soal permintaan psu. progress
