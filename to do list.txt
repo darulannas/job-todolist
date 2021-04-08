@@ -3609,3 +3609,36 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - ada beberapa perangkat sudah terkoneksi
 - reminder besok untuk pembaruan ip pak renault
 7. reminder besok untuk minta tdd pak renault soal permintaan psu. progress
+
+08/04/21
+
+1. backup cctv priode 28-03. cam 9, cam 10, cam 11, cam 12. done
+2. cek internet lt.3 lemot. progress
+- cek user yg traffic nya tinggi, ada user uut
+- restart router lt.3 dan main router
+- download sdh normal tp upload masih blm. tunggu
+- kontak hypernet ada kendala di speed
+- tunggu perbaikan dari hypernet nya
+- kendala di internet 1 gedung jadi cukup dan banyak sistem tidak stabil
+3. ada info dari hypernet untuk tambah bw. progress
+- pak kres yg req tambah bw jadi 200 tp di acc hypernet 150
+- minta quotation ke hypernet dan info ke bu emil untuk ttd
+4. pak kres dan bu ernie pinjam pak dani untuk besok jumat
+5. troubleshoot laptop bu adel krn BSOD. done
+- cek notif error bsod nya, error di bios
+- setting bios agar support win 7 dan load default
+- repair windows nya dan tunggu installasi yg diperlukan. done
+- install accurate di laptop nya dgn SN dari bu adel
+6. cek ip untuk internet pak renault susah koneksi. progress
+- ada beberapa perangkat sudah terkoneksi
+- reminder besok untuk pembaruan ip pak renault
+7. minta ttd pak renault utk form adv payment psu mcr. done
+8. bantu citra untuk download file materi via ftp. progress
+- krn inet lg masalah jadi lemot
+- reminder untuk besok
+9. cek sms ke nomor indosat tidak ada balasan. progress
+- server normal
+- cek hp dan hp no indosat tidak bisa terima sms
+- kontak cs indosat dan ikuti instuksi nya seperti restart, lepas pasang kartu
+- masih tetap tidak bisa dan diminta tunggu
+- reminder besok tlp cs lg
