@@ -3642,3 +3642,31 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - kontak cs indosat dan ikuti instuksi nya seperti restart, lepas pasang kartu
 - masih tetap tidak bisa dan diminta tunggu
 - reminder besok tlp cs lg
+
+09/04/21
+
+1. backup cctv priode 28-03. cam 13, cam 14, cam 15, cam 16. done
+2. bantu citra untuk download file materi via ftp. progress
+- krn inet lg masalah jadi lemot
+- reminder untuk besok
+- coba download, pengaruh hypernet lg gangguan jadi download via filezilla pun gangguan
+- tes download di server lt.3. kec hanya bertambah sedikit tp tetap lama
+3. backup db accurate finance. done
+4. total tagihan galon bln maret dtg. done
+- info ke bu emil
+- cetak dan kasih form nya ke kristin
+5. cari cat untuk indoor kantor. progress
+- cat dulux aqua haze, req pak imam
+- ada ditokopedia, pesan
+6. cek sms ke nomor indosat tidak ada balasan. progress
+- server normal
+- cek hp dan hp no indosat tidak bisa terima sms
+- kontak cs indosat dan ikuti instuksi nya seperti restart, lepas pasang kartu
+- masih tetap tidak bisa dan diminta tunggu
+- reminder besok tlp cs lg
+- tlpn cs lg ke indosat bisnis 02130008686, proses di resrtart jaringan dari pusat. done
+- cek dan tes sms ke no indosat. 2x balasan
+- jika masih masalah email ke corporate.helpdesk@indosatooredo.com
+7. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor. normal
+- cek kondisi server. normal
