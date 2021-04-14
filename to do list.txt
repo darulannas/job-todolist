@@ -3670,3 +3670,46 @@ cek kabel. tidak ada masalah. mungkin ke geser
 7. backup sms gateway ketiga nomor. done
 - cek dan tes sms ketiga nomor. normal
 - cek kondisi server. normal
+
+13/04/21
+
+1. ijin sakit
+2. backup cctv priode 04-10. cam 3, cam 4, cam 5, cam 6. done
+3. remote pc darul untuk download file via ftp req citra. progress
+4. pandu bu fitri troubleshoot internet pc nya. done
+- cek hub di sambil meja nya, reboot
+- jika blm bisa pakai wifi untuk alternatif
+
+14/04/21
+
+1. backup cctv priode 04-10. cam 7, cam 8, cam 9, cam 10. done
+2. cek masa aktif no xl sms gateway. done
+- sudah di isi pulsa sama bu emil
+- hp kondisi mati, hidupkan
+- info masa aktif ke bu emil
+3. cek internet lan di pc bu fitri. done
+- reboot manual hub di jalurnya
+4. trobleshoot hp no indosat tidak bisa terima sms. done
+- tlp ke cs indosat di 02130008686
+- jaringan nya di refresh oleh cs. restart hp dan tunggu
+- cek dan tes sms. sudah 2x balasan
+- sudah bisa
+5. cari dan download crackan untuk paperscan, req ridwan. progress
+6. troubleshoot vpn untuk xlink tidak bisa topup. progress
+- pak raymond req hasil traceroute ke server sky
+- kontak ogr xlink untuk hal tsb. tunggu
+- masalah ada di aplikasi topup skynindo info dari xlink. koordinasi dengan pak rajendra
+7. pak anas ambil bukti transfer x10. catat. done
+- remineder pak anas untuk req lg jika stok sudah tinggal sedikit. done
+8. cetak dan kasih ke kristin form dari bu emil. done
+9. bantu citra untuk download file materi via ftp. progress
+- krn inet lg masalah jadi lemot
+- reminder untuk besok
+- coba download, pengaruh hypernet lg gangguan jadi download via filezilla pun gangguan
+- tes download di server lt.3. kec hanya bertambah sedikit tp tetap lama
+- info ke citra untuk tes upload. tunggu info dari citra
+- coba download lg via ftp dan bertahap. lebih lancar. tunggu selesai semua
+10. urus pengajuan adjustment bandwidth hypernet. done
+- minta ttd pak kres untuk form adjustment nya
+- scan lalu kirim ke hypernet
+11. pak david datang tukar invoice atk yg sebelumnya. done
