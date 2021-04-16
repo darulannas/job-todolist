@@ -3713,3 +3713,35 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - minta ttd pak kres untuk form adjustment nya
 - scan lalu kirim ke hypernet
 11. pak david datang tukar invoice atk yg sebelumnya. done
+
+16/04/21
+
+1. backup cctv priode 04-10. cam 13, cam 14, cam 15, cam 16. done
+2. cek hp cs tidak bisa koneksi internet. done
+- ada info dari hypernet sedang ada perbaikan/restart router
+3. konfirmasi ke cs indosat, no gateway sudah bisa terima sms. done
+- cek dan tes sms ke no indosat. 2x balasan
+4. bantu citra untuk download file materi via ftp. progress
+- krn inet lg masalah jadi lemot
+- reminder untuk besok
+- coba download, pengaruh hypernet lg gangguan jadi download via filezilla pun gangguan
+- tes download di server lt.3. kec hanya bertambah sedikit tp tetap lama
+- info ke citra untuk tes upload. tunggu info dari citra
+- coba download lg via ftp dan bertahap. lebih lancar. tunggu selesai semua
+- masih proses dan sempat disconnect
+- pantau terus jangan sampai disconnect
+- setelah ada perbaikan serius dari hypernet, kec sudah mulai stabil
+5. siapkan laptop untuk ulfa untuk zoom meeting. done
+- laptop asus putih yg sudah ready
+6. backup db accurate finance. done
+7. urus pengajuan adjustment bandwidth hypernet. progress
+- minta ttd pak kres untuk form adjustment nya
+- scan lalu kirim ke hypernet
+- dikirim balik lg form statment nya. minta ttd pak kres dan ttd materai 10rb
+- lengkapi formulir dengan stempel dan nama dan jabata pak kres
+8. pak david sudah bawa atk yg kurang sebelumnya (lem) kasih ke widya. done
+9. kasih invoice dan advance atk ke kristin. done
+10. cetak kasih dokumen dari bu emil ke kristin. done
+11. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor. 2x balasan
+- cek kondisi server
