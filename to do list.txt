@@ -3745,3 +3745,35 @@ cek kabel. tidak ada masalah. mungkin ke geser
 11. backup sms gateway ketiga nomor. done
 - cek dan tes sms ketiga nomor. 2x balasan
 - cek kondisi server
+
+19/04/21
+
+1. backup cctv priode 11-17. cam 1, cam 2. done
+2. tagihan iforte datang. done
+- info ke bu emil
+3. pak anas pinjam mobil bawa sendiri hari ini. done
+- info ke bu emil
+4. bantu citra untuk download file materi via ftp. done
+- krn inet lg masalah jadi lemot
+- reminder untuk besok
+- coba download, pengaruh hypernet lg gangguan jadi download via filezilla pun gangguan
+- tes download di server lt.3. kec hanya bertambah sedikit tp tetap lama
+- info ke citra untuk tes upload. tunggu info dari citra
+- coba download lg via ftp dan bertahap. lebih lancar. tunggu selesai semua
+- masih proses dan sempat disconnect
+- pantau terus jangan sampai disconnect
+- setelah ada perbaikan serius dari hypernet, kec sudah mulai stabil
+- sudah selesai ke download semua, pindahkan ke hdd dan kasih citra
+5. troubleshoot ssms lemot tidak bisa diakses beberapa fungsi. done
+- saat fungsi nya di running. ada pesan fatal error
+- jika dilihat, kondisi script acction di server sedang proses/loading ke normal
+- restart script action. dan tunggu sampai normal
+- proses script action setelah di restart butuh waktu yg tidak menentu hingga normal
+- jika masih kendala, restart server 200
+6. siapkan dokumen form adjustment penambahan bandwidth dan kirim ke hypernet. done
+- kirim dokument minta pak jamal
+7. cari dan download crackan untuk paperscan, req ridwan. done
+- install yg versi bajakan
+- error lg saat terhubung ke internet
+- cari software lain. progress
+- ada software abby finereader. install di laptop ridwan. done
