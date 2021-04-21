@@ -3777,3 +3777,31 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - error lg saat terhubung ke internet
 - cari software lain. progress
 - ada software abby finereader. install di laptop ridwan. done
+
+21/04/21
+
+1. backup cctv priode 11-17. cam 7, cam 8. done
+2. pak anas pinjam mobil bawa sendiri. done
+- info ke bu emil sebelumnya
+3. cek sms gateway no indosat tidak ada balasan sama sekali. done
+- cek ke server dan cek hp indosat
+- kondisi hp tidak bisa terima sms
+- tes tlp keluar, sms keluar, terima tlp. bisa hanya tida bisa terima sms
+- email cs indosat masalah sinyal
+- no di resfresh jaringan dari pusat dan restart hp
+- cek dan tes sms. sudah bisa sudah 2x balasan dari sms gateway
+4. orang fotocopy cek meteran fotocopy. ttd surat nya. done
+5. fotocopy form borrowing car dan bawa sendiri nya krn stok habis. done
+- tinta hitam printer GA sudah mulai habis
+- reminder untuk beli
+6. cari dan pesan psu untuk mcr sesuai yg di request andika. progress
+- jumlah psu yg di req 5 tp yg disetujui 2
+- cari dan pesang barangnya di rakitan.com, tokopedia.
+- pesan dan kirimkan data npwp skynindo untuk faktur pajaknya
+- tunggu dikirim
+7. cek sms gateway ketiga nomor tidak ada balasan. progress
+- cek kondisi server. normal dan script nya pun normal
+- cek dan tes sms ketiga nomor. hanya ada 1 balasan
+- server sedang diremote kath/pak kres. tunggu
+- server 200, 201 normal tp 202 di script proses pull dan push nya hang. restart
+- cek dan sms ketiga nomor. bisa tp ada antrian dan cukup lama
