@@ -3805,3 +3805,40 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - server sedang diremote kath/pak kres. tunggu
 - server 200, 201 normal tp 202 di script proses pull dan push nya hang. restart
 - cek dan sms ketiga nomor. bisa tp ada antrian dan cukup lama
+
+23/04/21
+
+1. backup cctv priode 11-17. cam 13, cam 14. done
+2. tagihan air 23/04 datang. done
+3. kristin ambil kertas fax. catat. done
+- cari cara pasang kertas fax nya krn posisi paper jam
+4. troubleshoot laptop pak imam spaker nya sember. done
+- bongkar dan cek kondisi speaker
+- speaker kotor, bersihkan. masih rusak
+- cari yg jual speaker. harga 300rb an
+5. ridwan reschedule pinjam mobil ke senin. done
+6. cetak dokument dari bu emil dan kasih ke kristin. done
+7. cari dan pesan psu untuk mcr sesuai yg di request andika. progress
+- jumlah psu yg di req 5 tp yg disetujui 2
+- cari dan pesang barangnya di rakitan.com, tokopedia.
+- pesan dan kirimkan data npwp skynindo untuk faktur pajaknya
+- tunggu dikirim
+- barang sudah datang. info ke andika untuk diambil
+- andika jg ambil cpu mcr x1 di gudang
+- tunggu dites kondisi sama andika. jika oke baru buat invoice nya ke kristin
+- info ke andika apa psu sudah oke
+- cetak invoice dan kasih ke kristin
+- masih kurang faktur pajak, minta by email ke rakitan.com. progress
+8. backup db accurate finance. done
+9. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketigta nomor. ada 2x balasan
+- cek kondisi server
+10. nomor indosat tidak bisa terima sms lg. progress
+- kontak cs indosat by email untuk refresh jaringan
+- cs indosat saran untuk ganti kartu
+- reminder senin untuk urus dokument ganti kartu
+11. cek hp cs tidak bisa nyala. progress
+- cek kondisi baterai nya. baterai bocor dan melendung
+- cari dan pesan baterai hp asus zenfone 4 go untuk cs
+- krn urgent langsung pesan yg instant
+- konfirm ke pak anas untuk terima paket baterai nya malam ini atau besok
