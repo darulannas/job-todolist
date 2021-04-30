@@ -3945,3 +3945,38 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - reminder seller yg di shoppe untuk perbaiki pilihan delivery
 6. form borrowing car dan request habis. done
 - restock form, cetak dan rapihkan
+
+30/04/21
+
+1. backup cctv priode 18-24. cam 13, cam 14, cam 15, cam 16. done
+2. pak kres req barang casing laptop asus nya k401l. progress
+- link pembelian sudah dikasih di shoppe, pengiriman dari luar negeri
+- cek barangnya, kendala di delivery. kontak penjual dan tunggu diperbaiki
+- cari barang di sumber lain, sama seperti psu ada nya di luar negeri semua
+- cari barang nya lg. progress
+- buatkan form req dan minta ttd pak kres
+- reminder seller yg di shoppe untuk perbaiki pilihan delivery
+- cari barangnya di berbagai tempat, glodok harco olshop
+- di lokal harga nya mahal dan semuanya jg import
+- cek aliexpress, ada 1 toko, kontak ketersediaan, ajukan ke management
+- buatkan advance dan minta ttd pak kres
+3. reminder security untuk minta kwitansi ke fbr. done
+- kasih kwitansi dan proposal ke kristin
+4. cek sms gateway no indosat tidak ada balasan. done
+- kontak cs indosat minta refresh jaringan
+- cek dan tes sms ke no indosat. sudah ada balasan dan sudah bisa terima sms
+5. security ambil pulpen x2. catat. done
+6. tagihan air galon 30/4 dtg. done
+7. install ulang laptop pak imam. done
+- backup data nya
+- install windows nya, install drivernya
+- restore datanya
+8. bantu urus laptop dermawan yg masalah. done
+- kasih batterai laptop asus x200 yg sama krn baterainya masalah
+- cek digudang dan bongkar baterai laptop asus yg rusak
+- kasih office untuk di install
+9. backup db accurate finance. done
+10. pak kres minta bantu buka casing prangkatnya. done
+11. backup sms gateway ketiga no. done
+- cek dan tes sms ketiga nomor
+- cek kondisi server
