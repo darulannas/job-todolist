@@ -3980,3 +3980,32 @@ cek kabel. tidak ada masalah. mungkin ke geser
 11. backup sms gateway ketiga no. done
 - cek dan tes sms ketiga nomor
 - cek kondisi server
+
+03/05/21
+
+1. backup cctv priode 25-01. cam 1, cam 2. done
+2. pak anas pinjam mobil bawa sendiri. done
+- info ke bu emil
+3. cek internet di laptop rudy, gudang. progress
+- koneksi ulang wifinya, restart pc. masih tidak bisa
+- cek kondisi routernya. inet lt.1 dpt dari lt.2
+- restart main router. tidak bisa
+- reboot manual router lt.2 krn tidak bisa di akses
+- kontak pak raymond untuk permasalah router lt.2
+- coba direct connect ke routernya. progress
+4. pc dendi lemot parah. done
+- cek kondisi nya. cek kondisi drive c. hampir habis
+- saran untuk partisi dari d
+- proses partisi dari d ke c via aomei
+5. tuker mouse indra yg rusak klik kanan nya. catat. done
+6. cek sms gateway no indosat balasan 1x. done
+- cek server 200
+- restart script action krn hang
+- cek dan tes sms. sudah 2x balasan
+7. cek ssms sistem fatal error/lemot. done
+- ssms tergantung dari script action di 200
+- tunggu script nya running normal
+8. serah terima barang bu ernie. done
+- ada 4 barangnya
+- macbook, apple pad, hdd 6tb, notebook hp 540
+- catat barangnya
