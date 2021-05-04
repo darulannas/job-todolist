@@ -4009,3 +4009,37 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - ada 4 barangnya
 - macbook, apple pad, hdd 6tb, notebook hp 540
 - catat barangnya
+
+04/05/21
+
+1. backup cctv priode 25-01. cam 3, cam 4. done
+2. cek sms gateway 1x balasan. done
+- restart script action krn hang. tunggu hingga normal
+- cek dan tes sms
+3. request cetak surat jalan dan bukti trf ke bu emil. progress
+- sudah dipesan bu emil dan tunggu
+4. serah terima asset bu ernie ke pak kres. done
+- cetak data aset yg sebelumnya sudah di cek dari bu ernie
+- minta ttd pak kres
+5. aktivasi pergantian kartu indosat sms gateway. progress
+- simcard yg baru sudah diterima 
+- request aktivasi ke indosat via email
+- kirim form yg diperlukan. tunggu
+6. cek asset di ruang skymedia lt.3. done
+- aset untuk user sebelumnya nurul, kevin, kosasi, zefri
+- dipindah ke user skrg nurul(andika), kosasi zefri (indra), kevin(widya)
+- cek aset berdasarkan data dari bu emil yg diupdate mei 2021
+7. troubleshoot software scan amih. done
+- end task software yg crash
+- restart pc dan buka lg software nya
+8. cek internet di laptop rudy, gudang. progress
+- koneksi ulang wifinya, restart pc. masih tidak bisa
+- cek kondisi routernya. inet lt.1 dpt dari lt.2
+- restart main router. tidak bisa
+- reboot manual router lt.2 krn tidak bisa di akses
+- kontak pak raymond untuk permasalah router lt.2
+- coba direct connect ke routernya. bisa
+- cek kondisi router, di eth 1 dan port lain nya hanya nyala sebentar setelah di reboot
+- cek kondisi kabel dengan koneksi langsung kabel eth1 ke laptop. tidak ada internet
+dan putus nyambung
+- indikasi dikabel. reminder besok untuk crimping ulang kabel nya
