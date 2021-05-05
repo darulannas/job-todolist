@@ -4043,3 +4043,43 @@ cek kabel. tidak ada masalah. mungkin ke geser
 - cek kondisi kabel dengan koneksi langsung kabel eth1 ke laptop. tidak ada internet
 dan putus nyambung
 - indikasi dikabel. reminder besok untuk crimping ulang kabel nya
+
+05/05/21
+
+1. backup cctv priode 25-01. cam 5, cam 6, cam 7, cam 8. done
+2. cek pc dimas drive c penuh. progress
+- solusinya partisi data dari d ke c
+- install aomei dan proses partisi. tidak bisa bios nya jadi corrupt
+- coba aplikasi lain ada minipartisi. tetap tidak bisa
+- reminder besok cari solusi nya lagi
+3. cek internet di laptop rudy, gudang. progress
+- koneksi ulang wifinya, restart pc. masih tidak bisa
+- cek kondisi routernya. inet lt.1 dpt dari lt.2
+- restart main router. tidak bisa
+- reboot manual router lt.2 krn tidak bisa di akses
+- kontak pak raymond untuk permasalah router lt.2
+- coba direct connect ke routernya. bisa
+- cek kondisi router, di eth 1 dan port lain nya hanya nyala sebentar setelah di reboot
+- cek kondisi kabel dengan koneksi langsung kabel eth1 ke laptop. tidak ada internet
+dan putus nyambung
+- indikasi dikabel. reminder besok untuk crimping ulang kabel nya
+- crimping kabel nya dan test per port dan rapihkan. lampu indikator sudah nyala normal
+kec port 21-24 untuk AP. tapi tetap tidak bisa diremote. cari solusi ke pak raymond. progress
+- alternatif coba cek lebih lanjut router di Lt.1. kondisi normal dari lampu di tiap eth
+- cek kabel AP dan test di tiap port. untuk port 21-24 tidak bisa koneksi wifi nya,
+untuk sementara bisa di eth 6 dan wifi langsung aktif
+- masalah sekarang tidak bisa akses ke AP lt.1. cari cara. progress
+4. cetak dokument dari bu emil dan kasih ke kristin. done
+5. bu betty pinjam mobil dan pak dani besok. done
+- info ke bu emil
+- info ke pak dani
+6. cek sms gateway ketiga nomor tidakada balasan. done
+- restart script action krn hang
+- reboot hp xl krn tiba2 mati
+- untuk no indosat masih proses change card jadi butuh waktu 1x24jam
+7. aktivasi pergantian kartu indosat sms gateway. progress
+- simcard yg baru sudah diterima 
+- request aktivasi ke indosat via email
+- kirim form yg diperlukan. tunggu
+- tukar kartu ke hp indosat. untuk terima sms dan telpon tunggu 1x24 jam bisa di normal
+setelah ganti kartu
