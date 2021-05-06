@@ -4083,3 +4083,35 @@ untuk sementara bisa di eth 6 dan wifi langsung aktif
 - kirim form yg diperlukan. tunggu
 - tukar kartu ke hp indosat. untuk terima sms dan telpon tunggu 1x24 jam bisa di normal
 setelah ganti kartu
+
+06/05/21
+
+1. backup cctv priode 25-01. cam 9, cam 10. done
+2. aktivasi pergantian kartu indosat sms gateway. progress
+- simcard yg baru sudah diterima 
+- request aktivasi ke indosat via email
+- kirim form yg diperlukan. tunggu
+- tukar kartu ke hp indosat. untuk terima sms dan telpon tunggu 1x24 jam bisa di normal
+setelah ganti kartu. kondisi sudah normal. info kerudy
+3. troubleshoot printer widya tidak bisa print. done
+- printer hp toner nya kotor. bersihkan, tidak bisa krn bocor
+- ganti toner printer eprson 810. 811 yg tidak ada stok
+- setting ulang sharing printer dan driver nya
+4. kasih uang ke arul untuk galon 50rb dan ke dani untuk tambel ban 30rb. done
+- info ke bu emil
+5. cek pc dimas drive c penuh. progress
+- solusinya partisi data dari d ke c
+- install aomei dan proses partisi. tidak bisa bios nya jadi corrupt
+- coba aplikasi lain ada minipartisi. tetap tidak bisa
+- reminder besok cari solusi nya lagi
+- untuk sementara restart manual jika tiba2 penuh
+6. rudy pinjam mobil + pak dani. done
+- info ke bu emil
+7. req adaptor unifi untuk lt.2 ke bu emil. info harga nya. progress
+8. req tinta untuk widya skymedia ke bu emil. info harga nya progress
+- tinta 811 canon x1 dan recycle 79a untuk hp x1
+- untuk yg 79a langsung pesan dulu ke seribu bunga
+9. req bayar tagihan untuk hosting dan domain. progress
+- hosting skycable.co.id dan domain skynindo.tv
+- req adv ke bu emil
+- siapkan cara bayar nya untuk ke finance
