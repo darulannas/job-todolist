@@ -4168,3 +4168,32 @@ untuk sementara bisa di eth 6 dan wifi langsung aktif
 10. cek nomor indosat tidak ada balasan. done
 - restart hp indosat
 - cek dan tes sms. bisa terima
+
+10/05/21
+
+1. backup cctv priode 02-08. cam 1, cam 2. done
+2. req tinta untuk widya skymedia ke bu emil. info harga nya progress
+- tinta 811 canon x1 dan recycle 79a untuk hp x1
+- untuk yg 79a langsung pesan dulu ke seribu bunga.
+- tinta sudah dtg tp inv seharusnya a.n. skymedia.
+- kontak utk kirim ulang. vendor sdh libur
+- pasang toner nya
+3. cek sms gateway no xl tidak bisa terima sms. progress
+- dari hari minggu sudah bantu remote troubleshoot
+- tlpn cs xl. tunggu
+- cek dan tes sms ke xl. sudah 2 balasan
+4. cek macbook bu ernie. done
+- kondisi hardware dan software normal
+- hanya tombol power yg agak tricky untuk ditekan
+5. tagihan iforter dtg. info ke bu emil. done
+6. terima uang adv dari finance tgl 6/5 total 676rb. done
+7. cetak dokumen dari bu emil dan kasih ke kristin. done
+8. troubleshoot pc widya. pc tiba2 lemot dan crash. done
+- cek folder temp nya. ada banyak dan hapus
+- cek folder junk nya. hapus semua
+- tidak perlu restart. sudah normal
+9. cek sms gateway no indosat tidak ada balasn. progress
+- cek server nya. normal
+- cek hp indosat. tidak bisa terima sms lg
+- restart dan tes pindah kartu. tidak bisa
+- kontak cs indosat dan minta refresh jaringan seperti sebelumnya
