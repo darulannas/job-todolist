@@ -4197,3 +4197,39 @@ untuk sementara bisa di eth 6 dan wifi langsung aktif
 - cek hp indosat. tidak bisa terima sms lg
 - restart dan tes pindah kartu. tidak bisa
 - kontak cs indosat dan minta refresh jaringan seperti sebelumnya
+
+11/05/21
+
+1. backup cctv priode 02-08. cam 3, cam 4. done
+2. troubleshoot accurate finance tidak bisa di akses. done
+- cek kodisi notif error di accurate client. error di jaringan ip nya
+- cek kondisi server accurate. jaringan nya rto
+- restart lan nya dan lepas pasang kabelnya. done
+3. ambil power supply pak kres di pos daan mogot. done
+4. cari laptop untuk pak kres pengganti beli casing. progress
+- laptop yg setara asus k401l
+- cari ditokopedia. ada banyak
+- budeget 3-4jt
+- kasih 2 pilihan. banyak maunya
+- info terbaru min ram 16. kasih lenovo t420. pemuja ram
+- ada lagi mau nya harus yg tipis. berasa jadi asisten pribadi dia
+5. cek sms gateway no indosat tidak ada balasn. progress
+- cek server nya. normal
+- cek hp indosat. tidak bisa terima sms lg
+- restart dan tes pindah kartu. tidak bisa
+- kontak cs indosat dan minta refresh jaringan seperti sebelumnya
+- masih blm bisa terima sms setelah di refresh jaringan nya
+6. cek sms gateway hanya 1 balasan. done
+- restart script action krn hang
+- cek dan tes sms ke 2 nomor
+7. cek server 200 ssms lemot. done
+- restart server
+- reload script action nya dan tunggu hingga normal. butuh waktu. done
+8. backup db accurate finance. done
+9. untuk pembelian adaptor unifi dan tinta 811 skymedia ditunda senin krn toko tutup. donn
+10. pasang power supply di server. progress
+- cek fungsinya. normal
+- bersihkan server nya lalu pasang power supply nya
+11. backup sms gateway ketiga nomor. done
+- cek dan tes sms ketiga nomor. untuk indosat sedang masalah
+- cek kondisi server
