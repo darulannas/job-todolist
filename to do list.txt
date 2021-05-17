@@ -4233,3 +4233,44 @@ untuk sementara bisa di eth 6 dan wifi langsung aktif
 11. backup sms gateway ketiga nomor. done
 - cek dan tes sms ketiga nomor. untuk indosat sedang masalah
 - cek kondisi server
+
+17/05/21
+
+1. backup cctv priode 09-15. cam 1, cam 2. done
+2. troubleshoot pc citra tidak bisa terhubung headset. done
+- hanya masalah di port depan yg tidak bisa
+- setting kabel dan pc agar rapih dan pasang headset di port belakang
+3. proses pembelian adaptor unifi untuk lt.2. progress
+- pesan ditokopedia
+- tunggu barang datang
+4. proses pembelian tinta 811 untuk skymedia. progress
+- pesan ditokopedia
+- tunggu barang datang
+5. konfirmasi pembayaran untuk domain skynindo.tv di mwn. progress
+- upload bukti trf nya. tunggu
+- domain sudah aktif
+- reboot vps nya 
+- req efaktur ke email finance@masterweb.com
+- efaktur dibuatkan hari selasa besok
+6. troubleshoot email skynindo.tv di thunderbird tidak bisa terhubung dgn vps. done
+- cek settingan incoming dan outgoing dan tes satu2. tidak bisa
+- cek ke webmailnya langsung dan tes email. bisa
+- masalah ada di identifikasi incoming dan outgoing
+- kontak exabytes hasil troubleshoot nya
+- setelah di telnet ke ip vps, jadi normal
+7. tukar pc bu emil ke pc ga. progress
+- backup data di pc bu emil
+8. cari barang psu server ens-600w untuk pak kres. done
+- cari diruang mcr jika ada stok yg sama. tidak ada
+- psu server ini harus import krn tidak ada stok dari olshop
+- ada di aliexpress
+- buat request form dan ttd pak kres
+- uang di trf dari finance
+- pembayaran aliexpress yg memungkinan via doku wallet. bikin akun dan proses
+- tunggu pengiriman 20-30 hari. progress
+- psu udh dtg, cetak bukti pembelian nya dan kasih ke reni
+- pasang psu ke server pak kres
+9. konfirmasi pembayaran untuk hosting skycable.co.id di niagahoster. progress
+- upload bukti trf nya. tunggu
+- req faktur pajak, kirim npwp ke form yg sdh disediakan. tunggu 7 hari kerja
+10. tukar mouse dari pc andika/ex nurul ke stok yg ada digudang. done
