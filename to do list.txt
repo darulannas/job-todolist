@@ -4274,3 +4274,48 @@ untuk sementara bisa di eth 6 dan wifi langsung aktif
 - upload bukti trf nya. tunggu
 - req faktur pajak, kirim npwp ke form yg sdh disediakan. tunggu 7 hari kerja
 10. tukar mouse dari pc andika/ex nurul ke stok yg ada digudang. done
+
+18/05/21
+
+1. backup cctv priode 09-15. cam 3, cam 4, cam 5, cam 6. done
+2. tukar pc bu emil ke pc ga. progress
+- backup data di pc bu emil
+- backup data di pc putri
+3. cek sms gateway no indosat tidak ada balasn. progress
+- cek server nya. normal
+- cek hp indosat. tidak bisa terima sms lg
+- restart dan tes pindah kartu. tidak bisa
+- kontak cs indosat dan minta refresh jaringan seperti sebelumnya
+- masih blm bisa terima sms setelah di refresh jaringan nya
+- update terbaru dari cs indosat, nomor terindikasi a2p jadi harus di daftarkan
+via tim sales indosat. masih tunggu
+4. proses pembelian tinta 811 untuk skymedia. done
+- pesan ditokopedia
+- tunggu barang datang
+- barang dtg, pasang di printer widya dan catat
+- cetak invoice dan kasih ke kristin
+5. cek inet di pc putri skymedia. done
+- kabel kendor dan restart driver nya
+6. proses pembelian adaptor unifi untuk lt.2. done
+- pesan ditokopedia
+- tunggu barang datang
+- cetak invoice dan kasih ke kristin
+- tes fungsi. bisa
+7. cari barang psu server ens-600w untuk pak kres. done
+- cari diruang mcr jika ada stok yg sama. tidak ada
+- psu server ini harus import krn tidak ada stok dari olshop
+- ada di aliexpress
+- buat request form dan ttd pak kres
+- uang di trf dari finance
+- pembayaran aliexpress yg memungkinan via doku wallet. bikin akun dan proses
+- tunggu pengiriman 20-30 hari. progress
+- psu udh dtg, cetak bukti pembelian nya dan kasih ke reni
+- pasang psu ke server pak kres
+- cek dan tes fungsi. bisa. kasih ke pak kres
+8. proses pembelian casing x401u laptop pak kres. progress
+- pesan ditokopedia
+- tunggu barang datang
+- cek kondisi dan kasih ke pak kres
+- ternyata beda tipe. k401l laptop pak kres
+- info ke bu emil
+- cetak bukti wa dan inv pembelian dan kasih ke kristin
