@@ -4319,3 +4319,32 @@ via tim sales indosat. masih tunggu
 - ternyata beda tipe. k401l laptop pak kres
 - info ke bu emil
 - cetak bukti wa dan inv pembelian dan kasih ke kristin
+
+19/05/21
+
+1. backup cctv priode 09-15. cam 7, cam 8, cam 9, cam 10. done
+2. troubleshoot mouse pc andika tidak bisa konek. done
+- cek di port lain. tetap tidak bisa
+- cek mouse di pc lain. bisa
+- restart manual pc nya. mouse sudah normal
+3. cek sms gateway no indosat tidak ada balasn. progress
+- cek server nya. normal
+- cek hp indosat. tidak bisa terima sms lg
+- restart dan tes pindah kartu. tidak bisa
+- kontak cs indosat dan minta refresh jaringan seperti sebelumnya
+- masih blm bisa terima sms setelah di refresh jaringan nya
+- update terbaru dari cs indosat, nomor terindikasi a2p jadi harus di daftarkan
+via tim sales indosat. masih tunggu
+- sudah dikontak tim sales nya tapi no respon
+4. bantu pak ary cek untuk di daftarkan domain jugaadsteel.co.id. progress
+- tunggu konfirm apa mau sewa domain nya dan osting
+- harga domain 300rb dan hosting 100rb
+5. cek printer gudang rudy tidak bisa ngeprint. done
+- hapus spooling printernya di laptop
+- restart printer 
+- cek dan tes print. bisa
+6. install ulang laptop pak imam. done
+- instal ke win 10
+- restore datanya
+7. minta pak imam untuk minta lg nota service ac. done
+8. update data fix asset darul. cetak. done
