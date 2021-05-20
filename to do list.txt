@@ -4348,3 +4348,30 @@ via tim sales indosat. masih tunggu
 - restore datanya
 7. minta pak imam untuk minta lg nota service ac. done
 8. update data fix asset darul. cetak. done
+
+20/05/21
+
+1. backup cctv priode 09-15. cam 11, cam 12. done
+2. pasang adaptor unifi di lt.2. done
+- adaptor yg baru
+- masalah ada di router lt.2 masih tidak bisa fungsi normal
+3. troubleshoot jaringan wifi satu gedung. progress
+- hanya lt.6 dan lt.5 yg normal, hanya sesuaikan queue untuk user nya
+- lt.3 agak sulit dpt ip/ip nya mental, sudah setting queue masih sulit dpt ip
+meskipun traffic tidak tinggi di lt.3
+- lt.2 tidak bisa aktif krn masalah router
+- lt.1 masalah di port 21-24 untuk ap. sementara di pindah ke port normal
+4. troublshoot hp pak anas tidak bisa konek inet. done
+- forget wifi dan rekoneksi wifi
+5. tukar pc bu emil ke pc ga. progress
+- backup data di pc bu emil
+- backup data di pc putri
+- restore data di pc putri ke pc bu emil
+6. bantu pak ary cek untuk di daftarkan domain jugaadsteel.co.id. progress
+- tunggu konfirm apa mau sewa domain nya dan osting
+- harga domain 300rb dan hosting 100rb
+- pesan hosting dan domain di rumahweb.id
+- info ke pak ary persyaratan domain .co.id
+- pesan dan proses pendaftaran domain dan hosting
+7. kasih paket apd ke indra skymedia. done
+8. catat asset di meja sekertaris bu ernie untuk ke indra. done
