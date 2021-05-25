@@ -4375,3 +4375,92 @@ meskipun traffic tidak tinggi di lt.3
 - pesan dan proses pendaftaran domain dan hosting
 7. kasih paket apd ke indra skymedia. done
 8. catat asset di meja sekertaris bu ernie untuk ke indra. done
+
+21/05/21
+
+1. backup cctv priode 09-15. cam 13, cam 14, cam 15, cam 16. done
+2. bantu pak ary cek untuk di daftarkan domain jugaadsteel.co.id. done
+- tunggu konfirm apa mau sewa domain nya dan osting
+- harga domain 300rb dan hosting 100rb
+- pesan hosting dan domain di rumahweb.id
+- info ke pak ary persyaratan domain .co.id
+- pesan dan proses pendaftaran domain dan hosting
+- buatkan email info@jugaadsteel.co.id dan info ke pak ary
+- catat dokumentasi nya
+3. fitry req outner. kasih outner yg bekas yg ada x1. done
+4. troubleshoot mesin absen skynindo. done
+- mesin absen tidak bisa di remote dari pc hrd
+- cek inet diruang hrd. normal
+- cek kabel di mesin absen. kepala kabel nya agak rusak
+- ganti kabel lan dan minta pak imam rapihkan kabelnya
+- kondisi masih blm bisa terhubung
+- cek router lt.1. kabel lan untuk mesin absen agak rusak
+- ganti/crimping kabel lan nya. bisa
+5. bantu pak ary cek untuk di daftarkan domain jugaadsteel.co.id. done
+- tunggu konfirm apa mau sewa domain nya dan osting
+- harga domain 300rb dan hosting 100rb
+- pesan hosting dan domain di rumahweb.id
+- info ke pak ary persyaratan domain .co.id
+- pesan dan proses pendaftaran domain dan hosting
+- info ke pak ary email nya
+6. pak anas pinjam mobil+ pak dani ke rumah mr.wang pik. done
+- info ke bu emil
+7. backup up db accurate finance. done
+8. backup sms gateway ketiga nomor. done
+- cek dan tes sms. saat ini hanya tsel dan xl yg bisa. indosat masih masalah
+- cek kondisi server
+
+
+24/05/21
+
+1. backup cctv priode 16-22. cam 1, cam 2. done
+2. bu ernie mau pinjam ipadnya. done
+- info ke bu emil
+3. pasang dan setting kembali router lt.4. done
+- ada beberapa user lt.3 tidak bisa koneksi wifi, ini salah solusinya
+- rapihkan kabel ketempat sesuai
+4. API untuk web topup skynindo. progress
+- terima info API sudah di create oleh pak rajendra
+- API untuk topup dan cek exp
+- setting dan hubungkan ke server vps skynindo
+- ada error koneksi vpn jadi bermasalah
+- cek routing dan settingan vpn. hanya ada masalah dirouting.
+vpn client tidak running saat dipanggil
+- info ke exabytes. hanya di refresh server jadi normal
+- info ke grup skynindo website soal API terbaru
+5. cek sms gateway no indosat tidak ada balasn. progress
+- cek server nya. normal
+- cek hp indosat. tidak bisa terima sms lg
+- restart dan tes pindah kartu. tidak bisa
+- kontak cs indosat dan minta refresh jaringan seperti sebelumnya
+- masih blm bisa terima sms setelah di refresh jaringan nya
+- update terbaru dari cs indosat, nomor terindikasi a2p jadi harus di daftarkan
+via tim sales indosat. masih tunggu
+- sudah dikontak tim sales nya tapi no respon
+- telpon tim sales nya dan minta penawaran terbaiknya
+- tunggu penawarannya
+
+25/05/21
+
+1. backup cctv priode 16-22. cam 3, cam 4. done
+2. pak anas pinjam mobil bawa sendiri. done
+- info ke bu emil
+3. troubleshot inet di ruang skymedia. done
+- sederet widya, indra dan andika inet nya mati
+- cek hub di jalur nya
+- hub hang dan kabel agak kendor
+- restar hub dan kencangkan kabelnya
+4. kasih form LOA untuk PSU pak kres teluk gong ke reni. done
+5. amih ambil kertas fax x1. catat. done
+6. pak anas ambil bukti trf nya x20. catat. done
+7. rudy ambil tempat selotif sedang x1. catat. done
+8. securty ambil pulpen x1. catat. done
+9. cek kondisi switch digudang untuk dipasang di lt.2. progress
+- cek fungsi nya. switch tidak bisa di pakai sbg router
+- koneksi direct connect. tidak bisa
+- kondisi lt.2 butuh router pengganti krn rusak
+- cari tempat service router mikrotik by online
+- ada banyak toko networking di jakarta dan sekitarnya tp tidak bisa service
+- info ke bu emil
+10. diskusi dengan bu jemmy masalah copyright youtube. done
+- info kebujemmy detail hal penyebab copyright
