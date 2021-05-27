@@ -4464,3 +4464,38 @@ via tim sales indosat. masih tunggu
 - info ke bu emil
 10. diskusi dengan bu jemmy masalah copyright youtube. done
 - info kebujemmy detail hal penyebab copyright
+
+27/05/21
+
+1. backup cctv priode 16-22. cam 5, cam 6, cam 7, cam 8. done
+2. troubleshoot inet hp kristin. done
+- ip bentrok dengan ip server cctv
+- reconnect wifi nya. tidak bisa
+- restart hp nya. tidak bisa
+- restart router lt.5. bisa
+3. cek cloud digipass skymedia tidak bisa connect vpn. done
+- info dari pak rajendra
+- cek kondisi server via ssh
+- cek route nya. normal dpt ip vpn 
+- cek interface nya. normal ada ppp0
+- info ke pak rajendra untuk tanya ke pak raymond
+4. API untuk web topup skynindo. progress
+- terima info API sudah di create oleh pak rajendra
+- API untuk topup dan cek exp
+- setting dan hubungkan ke server vps skynindo
+- ada error koneksi vpn jadi bermasalah
+- cek routing dan settingan vpn. hanya ada masalah dirouting.
+vpn client tidak running saat dipanggil
+- info ke exabytes. hanya di refresh server jadi normal
+- info ke grup skynindo website soal API terbaru
+- info dari rudy klo koneksi route vpn ke server digipas bermasalah
+- cek vpn dan vps. normal bisa terhubung dan ada interface ppp0
+- cek lebih lanjut. coba ping dari vps ke server API. tidak bisa
+- info ke pak rajendra krn kasus nya mirip dengan vps digipass,
+mungkin masaalh nya ada di server digipass
+5. cetak dokumen dari bu emil dan kasih ke pak ary. progress
+- pak ary minta di rapihkan ttd dihal belakang
+- simpan dulu sampai bu emil ada
+6. serah terima mobil pak dani. done
+- cek kondisi mobil, seperti lecet 
+- foto kondisi mobil
