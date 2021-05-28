@@ -4499,3 +4499,50 @@ mungkin masaalh nya ada di server digipass
 6. serah terima mobil pak dani. done
 - cek kondisi mobil, seperti lecet 
 - foto kondisi mobil
+
+28/05/21
+
+1. backup cctv priode 16-22. cam 9, cam 10, cam 11, cam 12. done
+2. API untuk web topup skynindo. progress
+- terima info API sudah di create oleh pak rajendra
+- API untuk topup dan cek exp
+- setting dan hubungkan ke server vps skynindo
+- ada error koneksi vpn jadi bermasalah
+- cek routing dan settingan vpn. hanya ada masalah dirouting.
+vpn client tidak running saat dipanggil
+- info ke exabytes. hanya di refresh server jadi normal
+- info ke grup skynindo website soal API terbaru
+- info dari rudy klo koneksi route vpn ke server digipas bermasalah
+- cek vpn dan vps. normal bisa terhubung dan ada interface ppp0
+- cek lebih lanjut. coba ping dari vps ke server API. tidak bisa
+- info ke pak rajendra krn kasus nya mirip dengan vps digipass,
+mungkin masaalh nya ada di server digipass
+- masalah ada di routing nya vps skynindo
+- tambahkan route ke 192.168.20.0/24 di ppp0
+- info ke rudy di grup sky web. bisa
+3. cek cloud digipass skymedia tidak bisa connect vpn. done
+- info dari pak rajendra
+- cek kondisi server via ssh
+- cek route nya. normal dpt ip vpn 
+- cek interface nya. normal ada ppp0
+- info ke pak rajendra untuk tanya ke pak raymond
+- pak raymond info klo masalahnya hanya tinggal tambah routing yg hilang,
+catat routing nya.
+4. tagihan galo 28/05 dtg. info ke bu emil. done
+5. backup db accurate finance. done
+6. terima uang 150rb utk beli adaptor ap lt.5. done
+7. terima uang 100rb utk beli batterai hp lg ridwan. done
+8. urus serah terima aina lt.3. done
+- cetak fix asset monika sebelumnya
+- periksa asset nya
+- ttd form dari hrd utk serah terima nya
+9. ridwan pinjam mobil hari ini. done
+- info ke bu emil
+10. backup sms gateway kedua nomor. done
+- cek dan tes sms ke dua nomor
+- cek kondisi server
+- reminder no indosat masih bermaslah
+11. rtoubleshoot printer bu jemmy tidak bisa print. done
+- ditarik paksa kertas nya jadi error
+- tahan tombol reset
+- tes print. normal
