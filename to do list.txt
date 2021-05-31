@@ -4546,3 +4546,39 @@ catat routing nya.
 - ditarik paksa kertas nya jadi error
 - tahan tombol reset
 - tes print. normal
+
+31/05/21
+
+1. backup cctv priode 23-29. cam 1, cam 2. done
+2. troubleshoot laptop bu adel bsod. progress
+3. teluk gong ambil tanda terima x1. catat. done
+4. proses pesan adaptor ap utk lt.5. progress
+- pesan via toped
+5. proses pesan batterai hp lg untuk ridwan. progress
+- pesan via toped
+6. tagihan rdn fotocopy datang.done
+- info ke bu emil
+7. cek e faktur domain skynindo.tv di mwn. done
+- e faktur sudah tersedia
+- cetak dan kasih ke reni
+8. cek e faktur hosting skycable di niagahoster. done
+- e faktur sudah tersedia
+- cetak e faktur dan inv terbaru dan kasih ke kristin
+9. rapihkan dokumen perjanjian sewa untuk dikasih kepak ary. done
+- rapihkan dan cetak 
+10. fu cs indosat dan info ke bu emil. progress
+- keputusan akhir dari pak renault untuk tutup nomor nya
+- kontak cs indosat via email untuk penutupan
+11. reminder bu emil utk kontak ilham. done
+12. reminder info bu emil soal hardisk bu erni. done
+- info ext hdd 6tb di ambil lg bu ernie
+- untuk ext hdd 4 tb ada di ruang skymedia di citra
+- status hdd ext 6tb wd milik skycable bukan pribadi pak kres
+13. invoice vps web skynindo 07. progress
+- invoice sudah turun harga 3.5
+- req ke exabytes untuk hilangkan management plan
+- sdh dibuatkan invoice terbarunya di harga 1.3
+- proses bayar nanti tunggu bulan 6 akhir
+14. cek kamera slr dari gudang. done
+- ada 2 kamera
+- baterai nya bocor meskipun sdh di cas
