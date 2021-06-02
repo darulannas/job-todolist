@@ -4582,3 +4582,40 @@ catat routing nya.
 14. cek kamera slr dari gudang. done
 - ada 2 kamera
 - baterai nya bocor meskipun sdh di cas
+
+02/06/21
+
+1. backup cctv priode 23-29. cam 3, cam 4. done
+2. cetak dokumen dari pak ary. req pak ary. done
+3. rapihkan laptop macbook ex bu ernie. progress
+- backup semua data nya
+- untuk backup ga bisa via hdd external ntfs. cari cara untuk ubah ke format yg compatible
+- saat ini hanya minta di backup dan kembalikan macbook
+4. troubleshoot laptop bu adel bsod. progress
+- reinstall ke win 7. tidak bisa selalu bsod dan error corrupt windows
+- cek solusi dan coba ubah dari bios
+- hasil akhir tidak bisa di install ke win 7 krn bios error saat pilih yg win 7
+- reinstall ke win 10 32 agar ringan
+- install driver pendukung dan software standar nya. progress
+5. API untuk web topup skynindo. progress
+- terima info API sudah di create oleh pak rajendra
+- API untuk topup dan cek exp
+- setting dan hubungkan ke server vps skynindo
+- ada error koneksi vpn jadi bermasalah
+- cek routing dan settingan vpn. hanya ada masalah dirouting.
+vpn client tidak running saat dipanggil
+- info ke exabytes. hanya di refresh server jadi normal
+- info ke grup skynindo website soal API terbaru
+- info dari rudy klo koneksi route vpn ke server digipas bermasalah
+- cek vpn dan vps. normal bisa terhubung dan ada interface ppp0
+- cek lebih lanjut. coba ping dari vps ke server API. tidak bisa
+- info ke pak rajendra krn kasus nya mirip dengan vps digipass,
+mungkin masaalh nya ada di server digipass
+- masalah ada di routing nya vps skynindo
+- tambahkan route ke 192.168.20.0/24 di ppp0
+- info ke rudy di grup sky web. bisa
+- info terbaru dari rudy harus tambah variable nominal topup di API nya
+- info ke pak rajendra
+6. pak arul pinjam mobil dianter ridwan beli galon. done
+7. cek adit ga bisa download via saveorm net. done
+- solusi tes logut dari akun nya
