@@ -4619,3 +4619,44 @@ mungkin masaalh nya ada di server digipass
 6. pak arul pinjam mobil dianter ridwan beli galon. done
 7. cek adit ga bisa download via saveorm net. done
 - solusi tes logut dari akun nya
+
+03/06/21
+
+1. backup cctv priode 23-29. cam 5, cam 6. done
+2. troubleshoot inet pc pak anas. done
+- harsusnya tersambung ke lan
+- koneksi lan putus
+- lepas pasang kabel dan restart pc
+3. andika mcr ambil pc nya x3 di gudang. done
+4. andika req psu mcr x2. progress
+- minta form req nya 
+- buat form adv dan kasih ke bu emil
+- cek stok di toped. ada total 1.7jt
+5. info ke cs sky, untuk no indosat sudah ditutup. done
+6. troubleshoot pc citra bsod. progress
+- ambil cpu nya di meja dia
+- cleaning hardware nya
+- sudah tidak bsod dan logout user sendiri
+- ada masalah baru yaitu cpu usage 100%. cari solusi
+- reminder besok coba untuk repasta dan bersihkan sekitar prosesor lebih detail
+7. troubleshoot laptop bu adel bsod. done
+- reinstall ke win 7. tidak bisa selalu bsod dan error corrupt windows
+- cek solusi dan coba ubah dari bios
+- hasil akhir tidak bisa di install ke win 7 krn bios error saat pilih yg win 7
+- reinstall ke win 10 32 agar ringan
+- install driver pendukung dan software standar nya
+- install software standar yg diperlukan. done
+8. bu adel req hub usb untuk laptop nya. progress
+- buatkan form req nya
+- bu adel minta untuk GA yg req
+- buat adv nya
+9. bantu bu jemmi tarik email yg sudah terkirim. done
+- ada durasi waktu nya jadi sudah telat
+- coba cari lg untuk yg outlook
+10. install photosop di pc mr wang req bu jemmy. done
+11. cek server vps skymedia digipass. progress
+- req pak rajendra
+- koneksi vpn terputus lg
+- cek routing nya. ada beberapa yg terhapus lg
+- buat routing dan sama kan dengan sebelumnya. error no device found
+- info ke pak rajendra
