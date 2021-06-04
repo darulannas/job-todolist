@@ -4660,3 +4660,44 @@ mungkin masaalh nya ada di server digipass
 - cek routing nya. ada beberapa yg terhapus lg
 - buat routing dan sama kan dengan sebelumnya. error no device found
 - info ke pak rajendra
+
+04/06/21
+
+1. backup cctv priode 23-29. cam 7, cam 8. done
+2. ridwan minta kabel date female to female usb a untuk hdd external nya. done
+- cari digudang. tidak ada
+- info ke ridwan
+3. tagihan galon 4/6 sudah dtg. done
+4. kristin ambil borrowing car 21, 25, 28. done
+5. backup db accurate finance. done
+6. ganti tinta 810 dan 811 printer finance req kristin. done
+- ada stok nya
+- catat
+7. proses pesan adaptor ap utk lt.5. done
+- pesan via toped
+- barang sdh datang
+- cek fungsi dan pasang
+- cetak invoice dan kasih ke kristin
+8. proses pesan batterai hp lg untuk ridwan. done
+- pesan via toped
+- barang sdh datang batterai lg bl-48th
+- cek fungsi dan pasang
+- cetak invoice dan kasih ke kristin
+9. proses pesan usb hub untuk meeting req bu adel. progress
+- ambil uang di kristin 100rb
+- pesan via toped
+10. backup sms gateway ke dua nomor. done
+- cek dan tes sms kedua nomor. ada 2x balasan
+- cek kondisi server
+11. pindahakan monitor di ruang skymedia, dpn ruang dimas. done
+- monitor ada 4
+- pindahkan ke gudang lt.6
+12. troubleshoot pc citra bsod. progress
+- ambil cpu nya di meja dia
+- cleaning hardware nya
+- sudah tidak bsod dan logout user sendiri
+- ada masalah baru yaitu cpu usage 100%. cari solusi
+- reminder besok coba untuk repasta dan bersihkan sekitar prosesor lebih detail
+- sudah dibersihkan secara detail. masih tetap sama
+- coba ganti prosesor dengan stok cpu yg ada. cari yg compatible
+- reminder senin untuk dilanjutkan
