@@ -4701,3 +4701,52 @@ mungkin masaalh nya ada di server digipass
 - sudah dibersihkan secara detail. masih tetap sama
 - coba ganti prosesor dengan stok cpu yg ada. cari yg compatible
 - reminder senin untuk dilanjutkan
+
+07/06/21
+
+1. backup cctv priode 30-05. cam 1, cam 2. done
+2. 9. proses pesan usb hub untuk meeting req bu adel. done
+- ambil uang di kristin 100rb
+- pesan via toped
+- barang datang
+- cetak inv dan kasih ke kristin
+3. andika mcr minta kepala rj45 x10. done
+4. kasih uang rt bln 6 ke security 300rb. done
+5. info ke pak imam, cctv untuk lobby pintu utama dan arah mushola mati. done
+6. troubleshoot pc citra bsod. progress
+- ambil cpu nya di meja dia
+- cleaning hardware nya
+- sudah tidak bsod dan logout user sendiri
+- ada masalah baru yaitu cpu usage 100%. cari solusi
+- reminder besok coba untuk repasta dan bersihkan sekitar prosesor lebih detail
+- sudah dibersihkan secara detail. masih tetap sama
+- coba ganti prosesor dengan stok cpu yg ada. cari yg compatible
+- reminder senin untuk dilanjutkan
+- tidak ada stok prosesor yg sama di gudang
+- indikasi dari sisi hardware. tp cari cara minimalisir dari sisi software
+7. API untuk web topup skynindo. progress
+- terima info API sudah di create oleh pak rajendra
+- API untuk topup dan cek exp
+- setting dan hubungkan ke server vps skynindo
+- ada error koneksi vpn jadi bermasalah
+- cek routing dan settingan vpn. hanya ada masalah dirouting.
+vpn client tidak running saat dipanggil
+- info ke exabytes. hanya di refresh server jadi normal
+- info ke grup skynindo website soal API terbaru
+- info dari rudy klo koneksi route vpn ke server digipas bermasalah
+- cek vpn dan vps. normal bisa terhubung dan ada interface ppp0
+- cek lebih lanjut. coba ping dari vps ke server API. tidak bisa
+- info ke pak rajendra krn kasus nya mirip dengan vps digipass,
+mungkin masaalh nya ada di server digipass
+- masalah ada di routing nya vps skynindo
+- tambahkan route ke 192.168.20.0/24 di ppp0
+- info ke rudy di grup sky web. bisa
+- info terbaru dari rudy harus tambah variable nominal topup di API nya
+- info ke pak rajendra
+- info terbaru dari pak kres di grup web. pake yg sudah ada dan topup harus sesuai yg ada
+- info ke pak anas
+8. adit minta buka file rar yg di rar lupa password. progress
+- ada cara via software rar password refixer. harus berbayar full
+- cari software lain. tidak ada yg fungsi
+- coba dengan john the ripper, https://www.youtube.com/watch?v=2UFfWCoyjrI
+- tunggu proses yg berjalan cukup lama
