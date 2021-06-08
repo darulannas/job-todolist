@@ -4750,3 +4750,39 @@ mungkin masaalh nya ada di server digipass
 - cari software lain. tidak ada yg fungsi
 - coba dengan john the ripper, https://www.youtube.com/watch?v=2UFfWCoyjrI
 - tunggu proses yg berjalan cukup lama
+
+08/06/21
+
+1. backup cctv priode 30-05. cam 3, cam 4. done
+2. troubleshoot laptop emachine req erik. done
+- laptop lemot bgt terutama pas buka browser
+- browser ada chrome dan firefox. makan ram banyak
+- ram laptop hanya 1 gb
+- cek peforman hanya masalah di ram jadi lemot
+- cari stok ram laptop yg ada. tidak compatible
+- solusi minimalisir lemot, uninstal program yg tidak perlu
+- cari dan install browser yg ringan
+3. adit minta buka file rar yg di rar lupa password. progress
+- ada cara via software rar password refixer. harus berbayar full
+- cari software lain. tidak ada yg fungsi
+- coba dengan john the ripper, https://www.youtube.com/watch?v=2UFfWCoyjrI
+- tunggu proses yg berjalan cukup lama
+- masih terus gagal. coba lg cara yg sama
+4. troubleshoot pc citra bsod. progress
+- ambil cpu nya di meja dia
+- cleaning hardware nya
+- sudah tidak bsod dan logout user sendiri
+- ada masalah baru yaitu cpu usage 100%. cari solusi
+- reminder besok coba untuk repasta dan bersihkan sekitar prosesor lebih detail
+- sudah dibersihkan secara detail. masih tetap sama
+- coba ganti prosesor dengan stok cpu yg ada. cari yg compatible
+- reminder senin untuk dilanjutkan
+- tidak ada stok prosesor yg sama di gudang
+- indikasi dari sisi hardware. tp cari cara minimalisir dari sisi software
+- disable semua startup aplikasi
+- disable semua background program selain dari windows. masih 100 jg
+5. bu jemmy ambil paperclip 1 kotak. catat. done
+6. troubleshoot pc bu emil ex putri. progress
+- banyak background program yg berjalan
+- langkah awal coba satu2 rapihkan/ uninstall software yg tidak perlu
+7. amih ambil isi cutter x1. catat. done
