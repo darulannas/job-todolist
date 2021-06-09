@@ -4786,3 +4786,33 @@ mungkin masaalh nya ada di server digipass
 - banyak background program yg berjalan
 - langkah awal coba satu2 rapihkan/ uninstall software yg tidak perlu
 7. amih ambil isi cutter x1. catat. done
+
+09/06/21
+
+1. backup cctv priode 30-05. cam 5, cam 6. done
+2. install dan setting email di pc cs. done
+- setting email di pc anas
+- setting email di pc nova
+- setting email di pc fitri
+- email yg di pakai callcenter@skynindo.tv
+- kasih arahan untuk dikirim ke email sendiri agar tau siapa pengirimnya dan kemana
+3. create email adminskynindo@skynindo.tv. done
+- req pak toto
+- buat, install dan setting di pc pak toto
+4. adit minta buka file rar yg di rar lupa password. progress
+- ada cara via software rar password refixer. harus berbayar full
+- cari software lain. tidak ada yg fungsi
+- coba dengan john the ripper, https://www.youtube.com/watch?v=2UFfWCoyjrI
+- tunggu proses yg berjalan cukup lama
+- masih terus gagal. coba lg cara yg sama
+- masih terus gagal. cari cara lain
+5. troublshoot printer kristin tidak bisa nge print. done
+- cek kondisi kabel nya. bagus tidak ada masalah
+- cek spooling nya. banyak antrian krn dicoba terus
+- reset spooling dan reset printer. done
+6. panggil seribu bunga untuk service printer bu emil. done
+- besok teknisi dtg
+- masalah printer, ngeprint sering nyangkut
+7. troubleshoot pc bu emil ex putri. progress
+- banyak background program yg berjalan
+- langkah awal coba satu2 rapihkan/ uninstall software yg tidak perlu. done
