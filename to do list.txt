@@ -4816,3 +4816,89 @@ mungkin masaalh nya ada di server digipass
 7. troubleshoot pc bu emil ex putri. progress
 - banyak background program yg berjalan
 - langkah awal coba satu2 rapihkan/ uninstall software yg tidak perlu. done
+
+10/06/21
+
+
+1. backup cctv priode 30-05. cam 7, cam 8, cam 9, cam 10. done
+2. troubleshoot printer hp laserjet finance. done
+- hasil cetak nya hitam dipinggir. tinta nya agak bocor
+- bersihkan pita drum nya pelan2
+- cek dan tes hasil print. bersih
+3. andika req psu mcr x2. progress
+- minta form req nya 
+- buat form adv dan kasih ke bu emil
+- cek stok di toped. ada total 1.7jt
+- dikasih finance 1.7jt
+- proses pesan via toped
+4. renewal domain skycable.co.id. progress
+- jatuh tempo 19/06/21
+- buat payment request dan print invoice nya
+- minta ttd pak kres
+5. cek excel bu jemmy error tidak bisa sum. done
+- file ada notif error seperti corrupt
+- maslah tidak bisa sum di antara sheet
+- jika di buat sheet baru untuk total sum itu bisa tp harus hapus error dulu
+di sheet yg sdh di sum tp error
+6. bantu pindahan posisi di ruang skymedia. done
+- urus pindah2in pc dan management kabel nya
+7. reminder bu emil untuk refill hand sanitizer
+8. ssms lemot req rudy, anas, fitri. progress
+- cek server 201, server sedang di remote pak rajendra
+- req ke pak rajendra untuk restart
+- reminder besok pagi restart sendiri
+9. sms gateway ke dua nomor balasan 1x. progress
+- kondisi sudah dijalan masalah nya
+- reminder besok cek kondisi sms
+
+11/06/21
+
+1. backup cctv priode 30-05. cam 11, cam 12. done
+2. install dan pasang pc citra yg sdh di maintenance sebelumnya. done
+- pasang dan rapihkan
+- masalah di kabel lan tidak sampai
+- crimping kabel lan dan koneksi via hub terdekat ( hub nya skycable )
+- reminder senin untuk tukar prosesor pc citra ke pc backup yg disamping adit
+krn kondisi pc citra masih masalah ( masalah di prosesor )
+- reminder senin untuk crimping kabel lan untuk 2 pc citra agar terkoneksi ke hub skymedia,
+jgn ke hub skycable
+3. cek kondisi server ssms dan sms gateway. done
+- kemarin saat jam plg ada masalah, sms tidak ada balasan dan ssms lemot
+- restart server 201 ssms. normal
+- untuk sms gateway, cek script action di server 200. normal
+- cek hp nya, hp xl mati. restart
+- cek dan tes sms ke dua nomor. ada balasan 2x. done
+4. create email hsu1968.20@yahoo.com, req pak ary. done
+- create email no tlp darul (wajib no telp)
+- hsu110621
+- info ke pak ary
+5. andika req psu mcr x2. progress
+- minta form req nya 
+- buat form adv dan kasih ke bu emil
+- cek stok di toped. ada total 1.7jt
+- dikasih finance 1.7jt
+- proses pesan via toped
+- psu sdh dtg, info ke andika
+- cetak invoice dan kasih ke krisitn. kembali 50rb
+- request efaktur via email ke rakitan. tunggu
+6. backup db accurate finance. done
+7. cari hdd laptop yg masih bagus 320-500gb request pak kres. done
+- stok di gudang ada nya hdd yg rusak
+- cari laptop yg rusak dan cek hdd nya. hanya ada hdd 160gb
+- info ke pak kres
+8. mesin fotocopy tinta nya masalah, hasil cetak berantakan/ garis panjang. done
+- info dari kristin
+- info ke bu emil untuk minta kontak rdn agar panggil teknisi ke sini
+- kontak rdn masalah mesin fotocopy nya
+- teknisi sdh dtg dan selesai
+9. backup sms gateway ke dua nomor. done
+- cek dan tes sms ke dua nomor. ada balasan 2x
+- cek kondisi server
+10. pesan toner 85a recycle untuk printer finance bu bety. progress
+- pesan ke seribu bung untuk hari senin
+11. tagihan galon 11/06 datang. simpan. done
+12. urus request pak kres soal hdd laptop. done
+- backup isi hdd 500gb ke hdd 150gb
+- krn isi hdd 500gb ga cukup ke hdd 150gb,
+- backup ke hdd ext punya GA
+- waktu nya 6 jam lebih. info ke pak kres
