@@ -4902,3 +4902,45 @@ jgn ke hub skycable
 - krn isi hdd 500gb ga cukup ke hdd 150gb,
 - backup ke hdd ext punya GA
 - waktu nya 6 jam lebih. info ke pak kres
+
+14/06/21
+
+1. backup cctv priode 06-12. cam 1, cam 2. done
+2. reminder urus request nya citra. progress
+- tukar prosesor pc citra ke pc backup yg disamping adit
+krn kondisi pc citra masih masalah ( masalah di prosesor ). ditunda dulu
+- crimping kabel lan untuk 2 pc citra agar terkoneksi ke hub skymedia,
+jgn ke hub skycable. di tunda dulu
+- instalasi dan pemasangan 4 pc di deretan samping adit. done
+3. pesan toner 85a recycle untuk printer finance bu bety. done
+- pesan ke seribu bung untuk hari senin
+- toner dtg. pasang ke printer nya
+- buat adv total 150rb
+- kasih ke kristin inv nya
+4. ganti keyboard bu emil dari yg ada digudang. done
+- keyboard nya patah dipenyangga
+5. andika req psu mcr x2. done
+- minta form req nya 
+- buat form adv dan kasih ke bu emil
+- cek stok di toped. ada total 1.7jt
+- dikasih finance 1.7jt
+- proses pesan via toped
+- psu sdh dtg, info ke andika
+- cetak invoice dan kasih ke krisitn. kembali 50rb
+- request efaktur via email ke rakitan. tunggu
+- cetak efaktur dan kasih ke reni
+- reminder andika untuk ambil psu nya
+6. renewal domain skycable.co.id. progress
+- jatuh tempo 19/06/21
+- buat payment request dan print invoice nya
+- minta ttd pak kres
+- info ke kristin cara bayar nya via transfer bank
+7. troubleshoot ssms di laptop rudy. done
+- adm_frame.php error saat login
+- tes di lain pc. masih error
+- ubah adm_frame jadi adm_login. bisa
+- info ke pak rajendra masalah ini dan kirim detailnya
+8. install ulang laptop pak kres. progress
+- install win 7 32 sesuai spek pc
+- install driver nya
+9. kontak cs indosat via email prihal tagihan terakhir. done
