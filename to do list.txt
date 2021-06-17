@@ -4981,3 +4981,34 @@ jgn ke hub skycable. di tunda dulu
 - ada ram 2gb ddr2 info ke pak kres
 7. cetak adv payment bensin dan etoll dari bu emil. done
 - kasih ke kristin
+
+17/06/21
+
+1. backup cctv priode 06-12. cam 9, cam 10. done
+2. troubleshoot link iforte down. done
+- dpt info dari cs iforte klo link iforte di sky down
+- cek kondisi device
+- kondisi device dan kelistirkan normal
+- tunggu update dari cs iforte untuk kirim tim kesini
+- sudah di reboot radio iforte nya, sudah normal dan uplink
+3. tagihan cbn dtg. info ke bu emil. done
+4. renewal domain skycable.co.id. done
+- jatuh tempo 19/06/21
+- buat payment request dan print invoice nya
+- minta ttd pak kres
+- info ke kristin cara bayar nya via transfer bank
+- sudah di bayarkan, kirimkan bukti bayar dan konfirmasi ke niagahoster
+- request efaktur nya by chat. tunggu
+- perbarui data due date domain
+- sdh dpt efaktur nya. kasih ke kristin
+5. rudi minta lakban coklat x1. done
+6. krisitn ambil map coklat a4 x4. catat. done
+7. install ulang laptop pak kres. done
+- install dengan win 7 32
+- install driver nya
+- install via bootable usb rufus
+8. burning dvd r dan isi dengan data yg di req kristin. done
+- ada 4 dvd r
+9. bantu bu bety untuk setting doc agar bisa cetak full. done
+- doc nya a4 tp ingin cetak legal
+- di setting legal tidak bisa, jadi harus custom
