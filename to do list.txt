@@ -5012,3 +5012,32 @@ jgn ke hub skycable. di tunda dulu
 9. bantu bu bety untuk setting doc agar bisa cetak full. done
 - doc nya a4 tp ingin cetak legal
 - di setting legal tidak bisa, jadi harus custom
+
+21/06/21
+
+1. backup cctv priode 13-19. cam 1, cam 2. done
+2. troubleshoot pc widya bsod. progress
+- solusi pertama reboot manual
+- maintenance cpu nya, nanti jam 2 untuk cek lebih lanjut
+3. monitoring vps skynindo untuk koneksi VPN dan API. done
+- dpt info dari rudy klo tidak bisa koneksi ke server sky
+- cek koneksi vpn. normal ada ip nya
+- cek routing nya. route ke ip aplikasi di server terhapus,
+kasus sama seperti vps digipass
+- tambahkan route ip di 20.0/24
+- ping ke ip aplikasi. reply
+- info ke rudy. sudah normal
+- kontak exabytes utk solusi routing agar tidak terhapus
+- selama ini routing dilakukan dengan cara temporary
+- dpt info dari exabytes harus dengan cara permanent dan dikasih referensi
+- pelajari dan terapkan. progress
+4. ridwan pinjam mobil untuk dipake pak toto. done
+- info ke bu emil
+- form nya nyusul utk ttd pak renault
+5. troubleshoot cctv tidak bisa di remote online. progress
+- cek dipengaturan network cctv. kondisi offline
+- cek kabel lan dan hub, tes dengan laptop. kondisi masih bagus dan bisa internet
+- restart dvr dan pastikan perangkat internet terhubung. masih offline
+- sebelumnya pernah seperti ini tp ditunggu beberapa hari bisa online lg
+6. factory reset minipc bu emil. progress
+- factory reset untuk all data
