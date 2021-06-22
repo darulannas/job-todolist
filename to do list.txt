@@ -5041,3 +5041,31 @@ kasus sama seperti vps digipass
 - sebelumnya pernah seperti ini tp ditunggu beberapa hari bisa online lg
 6. factory reset minipc bu emil. progress
 - factory reset untuk all data
+
+22/06/21
+
+1. backup cctv priode 13-19. cam 3, cam 4. done
+2. factory reset minipc bu emil. done
+- factory reset untuk all data
+- install driver nya
+- install software standar
+3. bantu bu bety rapihkan doc word. done
+- bantu rapihkan agar line spacing nya hilang
+4. monitoring vps skynindo untuk koneksi VPN dan API. done
+- dpt info dari rudy klo tidak bisa koneksi ke server sky
+- cek koneksi vpn. normal ada ip nya
+- cek routing nya. route ke ip aplikasi di server terhapus,
+kasus sama seperti vps digipass
+- tambahkan route ip di 20.0/24
+- ping ke ip aplikasi. reply
+- info ke rudy. sudah normal
+- kontak exabytes utk solusi routing agar tidak terhapus
+- selama ini routing dilakukan dengan cara temporary
+- dpt info dari exabytes harus dengan cara permanent dan dikasih referensi
+- pelajari dan terapkan. progress
+5. rapihkan laptop untuk indra, req bu jemmy. done
+- laptop yg dikasih laptop ex bu anis
+- install ulang laptop ke win 7 32
+- instal drivernya
+- install software standra
+- kasih ke indra pakai tanda terima
