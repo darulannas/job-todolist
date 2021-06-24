@@ -5069,3 +5069,33 @@ kasus sama seperti vps digipass
 - instal drivernya
 - install software standra
 - kasih ke indra pakai tanda terima
+
+24/06/21
+
+1. backup cctv priode 13-19. cam 7, cam 8. done
+2. cek photo viewer di pc reni tidak bisa buka foto. done
+- errornya memori penuh. cek memori tidakpenuh
+- masalah pada format foto nya
+- buka via browser dan print
+3. troubleshoot cctv tidak bisa di remote online. progress
+- cek dipengaturan network cctv. kondisi offline
+- cek kabel lan dan hub, tes dengan laptop. kondisi masih bagus dan bisa internet
+- restart dvr dan pastikan perangkat internet terhubung. masih offline
+- sebelumnya pernah seperti ini tp ditunggu beberapa hari bisa online lg
+- cari cara agar bisa online lg
+4. troubleshoot printer adit tidak bisa ngeprint. done
+- printer ada di pc 157
+- cek koneksi. ada need troubleshoot
+- execute troublehoot dan tunggu
+- tes print. masih masalah
+- notif error baru hasil kertas tidak sesuai
+- kasih arahan untuk sesuaikan ukuran kertas. done
+5. aplikasi efaktur tidak bisa upload. progress
+- aplikasi efaktur dari finance
+- kristin sdh di info klo maslah bkn dari server efaktur
+- kontak hypernet untuk allow semua filter dan firewall
+- masih tetap tidak bisa. tes dengan jaringan hp. tidak bisa jg
+- minta kristin info ke pajak klo sdh ganti jaringan tetap tidak bisa
+6. andika minta penanda sign in. done
+- ada sisa di lemari
+- reminder untuk req nanti
