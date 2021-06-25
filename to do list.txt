@@ -5099,3 +5099,27 @@ kasus sama seperti vps digipass
 6. andika minta penanda sign in. done
 - ada sisa di lemari
 - reminder untuk req nanti
+
+25/06/21
+
+1. backup cctv priode 13-19. cam 9, cam 10. done
+2. cek hp cs memori penuh. done
+- pindahkan folder wa internal ke external
+- krn lama jadi pindahkan via pc
+3. tagihan galon 25/06 dtg. done
+4. cetak form pengambilan aqua untuk pt tnc. done
+- kasih ke herman
+5. cek sms gateway tidak ada balasan ke dua. done
+- untuk no xl, hp nya mati. restart
+- restart script action krn hang di 200
+- cek dan tes sms kedua nomor. ada balasan 2x
+6. backup db accurate finance. done
+7. troubleshoot printer laserjet skycable. done
+- indra tidak bisa ngeprint
+- server printer ada di pc andika
+- cek koneksi printer di pc indra. tidak terhubung
+- koneksi ulang printer nya. bisa
+8. backup sms gateway kedua nomor. done
+- cek dan tes sms kedua nomer
+- cek kondisi server
+
