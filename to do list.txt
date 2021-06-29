@@ -5123,3 +5123,40 @@ kasus sama seperti vps digipass
 - cek dan tes sms kedua nomer
 - cek kondisi server
 
+29/06/21
+
+1. backup cctv priode 20-26. cam 3. cam 4. done
+2. setting dns di cpanel skycable.co.id. done
+- arahkan ke http://103.82.243.63
+- req nya ingin mschub langsung kebuka 
+- pindahkan port 91 ke 80. tidak bisa
+- tp bisa nya mcshub.skycable.co.id/skysys
+- info ke pak kres
+3. carikan headset untuk novi dan putri krn rusak. done
+- cari digudang dan tes satu2
+- hanya ketemu 1 yg bagus fungsi dan fisik
+- sudah dicek semua dan bermasalah semua dari fisik maupun fungsi
+- kasih ke novi
+4. troubleshoot aplikasi efaktur finance. done
+- masalah tidak bisa upload
+- sdh kontak org pajak dan solusi nya :
+- coba download sertifikat terbaru nya
+- import sertifikat nya seperti instalasi, uncheck semua
+- lalu import di aplikasi efakturnya, administrasi sertifikat, pilih sertifikat yg terbaru nya
+- lakukan untuk pc kristin, reni dan bu bety
+5. partisi pc indra skycable. done
+- partisi di kedua pc nya
+- ambil partisi dari data selain di c dan pindahkan 100gb ke c
+- partisi dengan aomei, ada di hdd it
+- tunggu dan info ke indra
+6. troubleshoot teamviewer adit. done
+- cek dan tes tm nya, tidak bisa diremote
+- restar tm nya, teteap tidak bisa
+- ada notif error server
+- restart pc nya, cek dan tes tm nya. bisa
+7. troubleshoot efkatur sertifikat di browser finance. done
+- hapus cahce dan cokie di browser
+- hapus sertifikat di browser
+- reinstall sertifikat via browser
+- cek dan tes. bisa
+8. widya ambil binder x2 bekas. done
