@@ -5160,3 +5160,40 @@ kasus sama seperti vps digipass
 - reinstall sertifikat via browser
 - cek dan tes. bisa
 8. widya ambil binder x2 bekas. done
+
+30/06/21
+
+1. backup cctv priode 20-26. cam 5. cam 6. done
+2. troubleshoot teamviewer adit. done
+- cek dan tes tm nya, tidak bisa diremote
+- restar tm nya, teteap tidak bisa
+- ada notif error server
+- restart pc nya, cek dan tes tm nya. bisa
+- masalah timbul lg, notif error route
+- ubah password jgn random, restart pc, buka teamviewer dengan runas. done
+3. andika skycable ambil cover dokumen bening x2. catat. done
+- ambil map coklat yg besar jg x1. catat. done
+4. erik ambil buku tulis x1. catat. done
+5. tinta pita epson lx300 habis. printer finance. done
+- stok pita tinta nya kosong. ada pita tinta bekas tp masih baru digudang x1
+- krn covernya tidak compatible, pindahkan hanya pitanya dan diakalin untuk sementara
+- pasang. sudah bisa normal
+- reminder untuk restock tinta yg sudah habis
+6. troubleshoot masalah sms gateway 1x balasan dan ssms lemot. progress
+- untuk sms cek kondisi hp. hp xl mati, reboot
+- cek kondisi server 200, 201, 202. script action hang di 200. restart. masih tidak ada 2x balasan
+- server 201 dan 202 running normal
+- restart server 200, 201 dan pulihkan kembali normal program nya
+- script action di 200 masih tidak normal
+- cek dan tes sms ke dua nomor masih 1x balasan
+- di server 202 normal untuk pull dan push datanya
+- krn ada antrian 100 lebih sms (info dari rajendra) jadi masih antrian untuk sms
+- tunggu hingga antrian nya selesai, kondisi script action akan normal
+- untuk ssms masih kendala lemot di exchange
+- sudah di FU kath via bu emil hingga ada nonaktifkan ssms
+7. restock tinta untuk semua dept yg diperlukan. progress
+- tinta 745 dan 746 untuk PNB, harga 220 dan 295
+- tinta 745 dan 746 untuk skynet, harga 220 dan 295
+- tinta 745 untuk skymedia, harga 220
+- tinta 810 dan 811 untuk skynindo, harga 230 dan 270
+- tinta pita lx300+ untuk skynindo, harga 42
