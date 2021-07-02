@@ -5197,3 +5197,56 @@ kasus sama seperti vps digipass
 - tinta 745 untuk skymedia, harga 220
 - tinta 810 dan 811 untuk skynindo, harga 230 dan 270
 - tinta pita lx300+ untuk skynindo, harga 42
+
+01/07/21
+
+1. backup cctv priode 20-26. cam 7. cam 8. done
+2. troubleshoot pc citra tidak bisa koneksi ke folder share dari pc adit. done
+- cek pc adit. BSOD
+- reboot manual dan masuk ke user windows
+- cek dan tes koneksi file sharing nya. bisa
+3. cek pc bu jemmy sound nya tidak keluar. done
+- cek kable nya. terpasang
+- cek drivernya. reinstall drivernya dan restart pc nya. bisa
+4. tinta pita epson lx300 habis. printer finance. done
+- stok pita tinta nya kosong. ada pita tinta bekas tp masih baru digudang x1
+- krn covernya tidak compatible, pindahkan hanya pitanya dan diakalin untuk sementara
+- pasang. sudah bisa normal
+- reminder untuk restock tinta yg sudah habis
+- pitanya kumat, cek kondisi nya dan pasang lg pitanya dengan rapih
+5. bu bety minta detail akun email jugaadsteel. done
+- kasih detail emailnya yg sebelumnya permintaan pak ary
+6. troubleshoot hrd tidak bisa akses jobstreet perusahaan. progress
+- https://siva.jobstreet.co.id/#/dashboard
+- tidak bisa akses link diatas via jaringan kantor
+- kontak cs jobstreet. kondisi server baik2 saja
+- tes akses dengan jaringan lain. bisa
+- kontak hypernet untuk unlock filter dll yg berhubungan agar bisa akses link tsb
+- tunggu konfirmasi nya
+
+02/07/21
+
+1. backup cctv priode 20-26. cam 9. cam 10. done
+2. tagihan galon 0207 dtg. simpan. done
+3. cek pc widya yg bsod. done
+- lepas kabel untuk menghilangkan listirknya. tunggu
+- reboot manual
+4. restock tinta untuk semua dept yg diperlukan. progress
+- tinta 745 dan 746 untuk PNB, harga 220 dan 295. 
+- buat advance minta ttd bu jemmy. hanya approve 745
+- tinta 745 dan 746 untuk skynet, harga 220 dan 295. 
+- buat advance minta ttd bu emil
+- tinta 745 dan 746 untuk skymedia, harga 220 dan 295. 
+- buat advance minta ttd pak kres lewat citra. hold pak kres ga ada ditempat
+- tinta 810 dan 811 untuk skynindo, harga 230 dan 270. 
+- buat advance minta ttd bu adel
+- tinta pita lx300+ untuk skynindo, harga 42
+5. backup db accurate finance. done
+6. cek printer skycable. punya andika dan widya. done
+- tidak bisa dipake print yg printer laserjet
+- error di driver. instal ulang
+- cek dan tes koneksi dikedua printer. bagus
+- reminder kondisi saat ini tinta 810 habis untuk skycable
+7. backup sms gateway kedua nomor. done
+- cek dan tes sms. ada dua balasan
+- cek kondisi server
