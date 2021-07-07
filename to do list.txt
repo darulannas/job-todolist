@@ -5250,3 +5250,59 @@ kasus sama seperti vps digipass
 7. backup sms gateway kedua nomor. done
 - cek dan tes sms. ada dua balasan
 - cek kondisi server
+
+05/07/21
+
+1. backup cctv priode 27-03, cam 1, cam 2. done
+2. sms gateway 1x balasan. done
+- untuk no xl tidak ada balasan sama sekali
+- pandu cs untuk masuk ke ruang server dan hidupkan hp xl
+- minta tolong pak imam untuk bukain server
+- remote server 200 dan cek kondisi server
+- restart script action krn hang
+- kondisi server banyak antrian topup
+- cek dan tes sms ke dua nomor. tunggu balasan kedua. sekitar 30menit hingga server normal
+
+06/07/21
+
+1. backup cctv priode 27-03, cam 3, cam 4. done
+2. pak anas req bukti trf. progress
+- sisa bukti trf sisa 2 buku
+- info ke bu emil req cetak bukti trf
+
+07/07/21
+
+1. backup cctv priode 27-03, cam 5, cam 6. done
+2. troubleshoot pc adnika tidak bisa masuk windows. done
+- error corrupt windows
+- reboot manual dan kencangkan kabel vga
+- proses repair windows otomati. tunggu. done
+3. setting ultraviewer untuk pc nopi. done
+- install ultraviewer
+- disable random password dan setting passwordnya
+4. restock tinta untuk semua dept yg diperlukan. progress
+- tinta 745 untuk PNB, harga 220 
+- buat advance minta ttd bu jemmy. hanya approve 745
+- tinta 745 dan 746 untuk skynet, harga 220 dan 295. 
+- buat advance minta ttd bu emil
+- tinta 745 dan 746 untuk skymedia, harga 220 dan 295. 
+- buat advance minta ttd pak kres lewat citra. hold pak kres ga ada ditempat
+- tinta 810 dan 811 untuk skynindo, harga 230 dan 270. 
+- buat advance minta ttd bu adel
+- tinta pita lx300+ untuk skynindo, harga 42
+- kasih adv yg sudah di ttd ke kristin
+- untuk adv skymedia menyusul dan kasih ke reni
+5. cetak form payment request dari bu emil via email. done
+- cetak dan kasih kasih ke reni
+- untuk form listrik teluk gong di hold dulu krn pak kres ga masuk
+6. siapkan laptop yg bisa zoom untuk ulfa. done
+- req pak ary
+- cari laptop digudang yg ada camera nya
+- ada notebook hp mini yg masih bagus
+- install zoom dan setting dengan nama skynindo
+- kasih ke ulfa
+7. troubleshoot browser andika tidak bisa dibuka. done
+- cek browser lain nya
+- browser ie bisa dan chrome dan firefox tidak bisa
+- download dan repair kedua browser tsb
+- cek buka. bisa
