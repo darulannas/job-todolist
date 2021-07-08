@@ -5306,3 +5306,45 @@ kasus sama seperti vps digipass
 - browser ie bisa dan chrome dan firefox tidak bisa
 - download dan repair kedua browser tsb
 - cek buka. bisa
+
+08/07/21
+
+1. backup cctv priode 27-03, cam 7, cam 8. done
+2.  cetak form payment request dari bu emil via email. done
+- cetak dan kasih kasih ke kristin
+- untuk detailnya bisa diliat di email dari bu emil
+3. troubleshoot printer skymedia tidak bisa dipakai. done
+- printer canon mg2500
+- tidak bisa diprint dari pc nopi
+- cek server printernya. pc nya lumayan sering hang
+- reinstall drivernya dan test print. bisa
+- bersihkan temp untuk antisipasi lemot sementara
+- cek dan tes nopi untuk print
+4. troubleshoot pc indra yg kanan error tidak bisa masuk windows. done
+- reboot manual
+- masih ke recovery dan repair windows yg corrupt. tunggu
+- bersihkan temp untuk antisipasi lemot nya
+5. urus tagihan indosat juli. progress
+- seharusnya sudah tidak ada tagihan lagi
+- cek detail tagihan nya, tagihan dibulan sebelumnya blm dibayar
+- konfirmasi ke bu emil
+6. ulfa request laptop/pc yg ada port hdmi nya. progress
+- laptop tidak ada yg ada port hdmi nya. ada nya vga
+- cari cpu yg ada vga card dengan port hdmi di gudang
+- ada 2 cpu. lepas, bersihkan dan kasih ulfa
+7. tagihan galon juli sdh dtg. done
+- info ke bu emil
+8. restock tinta untuk semua dept yg diperlukan. progress
+- tinta 745 untuk PNB, harga 220 
+- buat advance minta ttd bu jemmy. hanya approve 745
+- tinta 745 dan 746 untuk skynet, harga 220 dan 295. 
+- buat advance minta ttd bu emil
+- tinta 745 dan 746 untuk skymedia, harga 220 dan 295. 
+- buat advance minta ttd pak kres lewat citra. hold pak kres ga ada ditempat
+- tinta 810 dan 811 untuk skynindo, harga 230 dan 270. 
+- buat advance minta ttd bu adel
+- tinta pita lx300+ untuk skynindo, harga 42
+- kasih adv yg sudah di ttd ke kristin
+- untuk adv skymedia menyusul dan kasih ke reni
+- uang diambil dari kristin total 1.812.000
+9. ambil uang keamanan sky 300rb dan kasih ke security. done
