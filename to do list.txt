@@ -5348,3 +5348,29 @@ kasus sama seperti vps digipass
 - untuk adv skymedia menyusul dan kasih ke reni
 - uang diambil dari kristin total 1.812.000
 9. ambil uang keamanan sky 300rb dan kasih ke security. done
+
+09/07/21
+
+1. backup cctv priode 27-03, cam 9, cam 10. done
+2. cetak form payment request dari bu emil via email. done
+- cetak rapihkan dan kasih ke reni
+- untuk detailnya bisa diliat di email dari bu emil
+3. pak jamal ambil pulpen x1. catat. done
+4. backup db accurate finance. done
+5. troubleshoot hp cs memori penuh. done
+- salin file wa ke sdcard
+- hapus dan nonaktifkan aplikasi yg tdk terpakai
+6. tagihan galon 0907 dtg. rapihkan. done
+7. rudy ambil pulpen x1. catat. done
+8. troubleshoot cctv agar bisa diremote diluar jaringan kantor. progress
+- dvr tidak bisa terima internet, mungkin error atau lainnya
+- kondisi jaringan sudah dicek dan normal
+- cara remote via platform akses jadi tidak bisa
+- krn di mikrotik terlihat ada traffic dan ip di dvr nya,
+- coba dengan nat forwarding di mikrotiknya
+- sudah di coba di main router tapi tidak bisa
+- tanya pak raymond untuk lokasi penempatan rule nat. apa benar di main router?
+9. backup sms gateway kedua nomor. done
+- cek dan tes sms kedua nomor. ada 2 balasan
+- cek kondisi server
+10. reminder senin untuk order tinta krn hari ini tokonya tutup
