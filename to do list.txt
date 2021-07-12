@@ -5374,3 +5374,39 @@ kasus sama seperti vps digipass
 - cek dan tes sms kedua nomor. ada 2 balasan
 - cek kondisi server
 10. reminder senin untuk order tinta krn hari ini tokonya tutup
+
+12/07/21
+
+1. backup cctv priode 04-10, cam 1, cam 2. done
+2. cek vps skymedia digipass error koneksi vpn nya. done
+- vpn terputus info dari pak rajendra
+- cek vps via putty
+- cek ip addr nya. terkoneksi vpn
+- cek routenya dan bandingkan dengan yg seharusnya,
+- ada beberapa route yg hilang, tambahkan routenya
+- cek dan tes ping ke ip server digipas. reply
+3. proses perpanjang vps skynindo. progress
+- kirim tagihan nya ke bu emil dan detail tagihan nya
+- 1.32jt jatuh tempo 1507
+- cetak advance dari bu emil dan minta ttd ke pak renault
+- reminder minta ttd ke pak renault besok krn hari ini ga masuk
+4. cetak form dari bu emil. done
+- kasih ke krisin
+- detail ref dari email
+5. pesan bukti transfer ke ilham. done
+- ilham datang hari ini
+- cek hasil cetaknya,
+- sudah sesuai. bukti transfer x5 dan surat jalan x5 yg sebelumnya
+- nota ada di laci nominal 200rb
+- kasih bukti transfer ke pak anas
+6. reminder untuk pesan tinta besok krn hari ini tutup. progress
+7, sms gateway no xl tidak ada balasan. done
+- cek kondisi hp nya di server
+- reboot hpnya krn mati
+- cek dan tes sms. ada 2x balasan
+8. cek pc widya tidak bisa akses ssms via ie. done
+- cek koneksi internetnya. normal
+- cek browser ienya. tidak bisa dipakai
+- ie seperti stuck. jika dicoba refresh page ssms baru bisa
+- reminder besok untuk install ulang ie dan maintenance cpu widya
+9. rudy ambil lakbam coklat x1. catat. done
