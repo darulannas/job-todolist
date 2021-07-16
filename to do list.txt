@@ -5485,3 +5485,45 @@ kasus sama seperti vps digipass
 - minta andika info jg ke pak kres
 - buat advance nya dan minta ttd bu emil
 - kasih ke reni
+
+16/07/21
+
+1. backup cctv priode 04-10, cam 9, cam 10. done
+2. restock tinta untuk skycable. progress
+- printer canon mg2500s
+- tinta 810 dan 811
+- req indra
+- krn pak kres tidak bisa ttd. jadi minta bu emil ttd
+- minta andika info jg ke pak kres
+- buat advance nya dan minta ttd bu emil
+- kasih ke reni
+- pesan via toped
+3. restock tinta untuk semua dept yg diperlukan. done
+- tinta 745 untuk PNB, harga 220 
+- buat advance minta ttd bu jemmy. hanya approve 745
+- tinta 745 dan 746 untuk skynet, harga 220 dan 295. sudah datang
+- buat advance minta ttd bu emil
+- tinta 745 dan 746 untuk skymedia, harga 220 dan 295. sudah datang
+- buat advance minta ttd pak kres lewat citra. hold pak kres ga ada ditempat
+- tinta 810 dan 811 untuk skynindo, harga 230 dan 270. sudah datang
+- buat advance minta ttd bu adel
+- tinta pita lx300+ untuk skynindo, harga 42 sudah datang
+- kasih adv yg sudah di ttd ke kristin
+- untuk adv skymedia menyusul dan kasih ke reni
+- uang diambil dari kristin total 1.812.000
+- pesan via toped total 1.570.000 sisa 242.000
+- barang sudah datang. catat dan simpan
+4. tagihan galon 160721 dtg. simpan. done
+5. tagihan cbn datang. kasih ke kristin. done
+6. scan dan kirim dokumen ke bu emil. done
+- req ana
+- ada 5 dokumen
+7. ganti tinta printer GA. catat. done
+8. backup db accurate finance. done
+9. rudy pinjam mobil hari ini. done
+- info ke bu emil
+- pergi jam 2 
+10. backup sms gateway kedua nomor. done
+- cek dan tes sms kedua nomor. ada balasan 2x
+- cek kondisi server
+11. kasih invoice banner yg 100rb ke kristin. done
